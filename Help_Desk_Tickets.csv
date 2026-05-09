@@ -1,0 +1,1001 @@
+ticket_id,employee_id,department_id,ticket_date,category,priority_level,status,issue_summary,resolution_time_hours,assigned_team
+1,581,423,2025-04-08,Network,High,Escalated,Laptop performance issue,7.95,Networking
+2,31,547,2024-01-19,Hardware,Medium,Resolved,Email not syncing to mobile device,66.26,Infrastructure
+3,82,378,2024-05-03,Email,Medium,Resolved,Database timeout during report run,23.26,Infrastructure
+4,836,993,2025-01-06,Account,High,In Progress,Printer not reachable on floor network,64.08,Data Team
+5,472,266,2026-03-27,Account,High,Closed,Software license activation problem,3.98,Security
+6,659,989,2024-07-17,Software,High,Closed,Unable to access internal dashboard,49.94,Security
+7,350,897,2026-03-26,Software,Medium,Escalated,Software license activation problem,32.89,Data Team
+8,410,699,2025-03-16,Security,Medium,In Progress,Software license activation problem,0.74,Applications
+9,662,848,2024-03-04,Access,Critical,Closed,Email not syncing to mobile device,58.79,Security
+10,65,26,2025-07-03,Security,Medium,Resolved,Unable to access internal dashboard,3.10,Infrastructure
+11,877,699,2025-05-10,Software,High,Open,Database timeout during report run,13.82,Security
+12,868,969,2025-11-09,Network,Low,Open,Help desk request for new account provisioning,22.03,Data Team
+13,811,127,2025-12-09,Network,High,Resolved,VPN connection fails intermittently,35.85,Infrastructure
+14,204,125,2024-02-05,Network,Medium,Pending,Email not syncing to mobile device,51.21,Data Team
+15,401,181,2026-03-05,Access,High,In Progress,Help desk request for new account provisioning,52.43,Security
+16,253,353,2026-03-13,Software,High,Resolved,Email not syncing to mobile device,59.65,Networking
+17,219,932,2025-11-30,Network,Low,In Progress,Software license activation problem,16.72,Data Team
+18,916,535,2024-07-13,Database,High,Open,Database timeout during report run,26.50,Security
+19,711,849,2025-12-08,Network,High,In Progress,Password reset required,16.70,Security
+20,520,359,2024-03-30,Access,Medium,Open,Unable to access internal dashboard,39.91,Security
+21,524,192,2024-02-16,Printer,High,Open,Shared drive permission issue,58.20,Infrastructure
+22,40,102,2025-01-25,Access,Medium,In Progress,Printer not reachable on floor network,7.63,Networking
+23,567,228,2026-04-23,Email,High,Closed,Password reset required,50.99,Security
+24,813,863,2025-11-13,Printer,Critical,Pending,Shared drive permission issue,61.96,Security
+25,206,333,2025-05-04,VPN,High,In Progress,Password reset required,15.50,Infrastructure
+26,157,146,2025-12-08,Software,Critical,Resolved,Unable to access internal dashboard,45.88,Data Team
+27,260,158,2024-10-26,Security,Medium,Closed,Help desk request for new account provisioning,11.53,Networking
+28,647,881,2025-12-02,Software,Low,Pending,Printer not reachable on floor network,4.59,Infrastructure
+29,910,633,2026-04-20,Security,Medium,Closed,Unable to access internal dashboard,64.87,Infrastructure
+30,810,740,2025-10-12,VPN,High,In Progress,VPN connection fails intermittently,61.64,IT Support
+31,57,279,2025-06-28,Printer,High,Escalated,Database timeout during report run,7.97,Infrastructure
+32,498,686,2024-01-07,Security,Medium,Resolved,Database timeout during report run,55.71,Networking
+33,332,153,2025-07-29,Access,High,Open,Laptop performance issue,55.90,Infrastructure
+34,677,59,2025-02-14,Email,High,Closed,Printer not reachable on floor network,16.89,Networking
+35,673,375,2025-04-29,Printer,Low,Closed,Database timeout during report run,57.04,IT Support
+36,327,258,2025-01-05,Database,Low,In Progress,VPN connection fails intermittently,26.83,Security
+37,275,74,2026-01-07,Hardware,Medium,Closed,Email not syncing to mobile device,24.09,Applications
+38,584,956,2024-01-18,Hardware,Medium,Escalated,Help desk request for new account provisioning,70.91,Data Team
+39,462,561,2024-11-24,VPN,Medium,In Progress,Unable to access internal dashboard,34.62,IT Support
+40,141,19,2026-04-10,Account,Low,In Progress,Unable to access internal dashboard,5.59,Networking
+41,99,140,2025-05-23,Hardware,Low,Open,Laptop performance issue,41.37,Networking
+42,928,970,2025-03-16,Database,Medium,Resolved,Help desk request for new account provisioning,46.78,Security
+43,580,978,2024-02-07,Email,Medium,Open,Password reset required,30.98,Security
+44,82,818,2024-08-24,Database,Critical,In Progress,Password reset required,31.81,Security
+45,783,29,2025-11-22,VPN,Critical,Closed,Help desk request for new account provisioning,69.41,Data Team
+46,487,665,2025-09-28,Email,Medium,In Progress,Laptop performance issue,67.76,Networking
+47,922,938,2025-08-08,Account,Medium,Resolved,VPN connection fails intermittently,45.54,Security
+48,317,193,2024-12-02,Access,Critical,Closed,Help desk request for new account provisioning,46.04,Infrastructure
+49,128,149,2024-08-26,Access,Low,Resolved,VPN connection fails intermittently,25.67,IT Support
+50,358,498,2026-03-04,Printer,Medium,Pending,Help desk request for new account provisioning,46.27,Applications
+51,8,729,2025-05-06,Access,Low,Escalated,Shared drive permission issue,33.70,Applications
+52,558,682,2024-11-12,Printer,Medium,Pending,Help desk request for new account provisioning,32.52,Security
+53,907,964,2024-11-12,Hardware,Medium,In Progress,Printer not reachable on floor network,64.17,Security
+54,35,264,2025-12-08,Security,Low,Escalated,Laptop performance issue,25.74,Networking
+55,482,204,2024-08-13,Access,Medium,Escalated,Database timeout during report run,40.90,Data Team
+56,986,476,2024-07-09,VPN,Low,Closed,Help desk request for new account provisioning,46.98,Infrastructure
+57,713,390,2025-08-05,Network,Medium,Open,Email not syncing to mobile device,42.94,Networking
+58,184,377,2024-01-09,Security,Low,Resolved,Password reset required,33.58,Networking
+59,437,307,2024-07-30,Network,Critical,Pending,Help desk request for new account provisioning,21.23,Data Team
+60,871,574,2025-09-27,Database,High,Resolved,Printer not reachable on floor network,25.43,Applications
+61,674,446,2025-02-27,Network,Medium,Pending,Database timeout during report run,63.04,Applications
+62,227,315,2026-02-02,Account,High,Pending,Help desk request for new account provisioning,9.17,Data Team
+63,604,251,2025-09-09,Database,Medium,Closed,Database timeout during report run,20.22,Security
+64,232,589,2024-10-18,Account,High,Pending,Unable to access internal dashboard,38.10,Networking
+65,717,575,2025-11-04,Software,Low,Open,Help desk request for new account provisioning,23.97,Security
+66,620,741,2024-05-11,VPN,High,In Progress,Help desk request for new account provisioning,48.33,Data Team
+67,790,904,2025-10-19,Email,Medium,Pending,VPN connection fails intermittently,18.32,IT Support
+68,916,779,2024-01-09,Database,Medium,Open,Password reset required,8.73,Security
+69,45,491,2026-02-18,Security,Medium,Resolved,Email not syncing to mobile device,14.28,Networking
+70,804,423,2025-12-27,Security,Medium,Resolved,Password reset required,61.93,Infrastructure
+71,251,11,2024-02-08,Access,Medium,Resolved,Printer not reachable on floor network,61.15,Security
+72,152,741,2024-03-06,Database,Medium,Open,Unable to access internal dashboard,10.61,Networking
+73,110,140,2024-12-30,Hardware,Medium,Escalated,Email not syncing to mobile device,61.88,Applications
+74,724,610,2025-06-25,Printer,Low,Resolved,Email not syncing to mobile device,45.40,Security
+75,569,963,2024-01-03,Printer,Critical,Open,Help desk request for new account provisioning,44.08,IT Support
+76,723,370,2024-09-24,Email,Medium,Pending,Email not syncing to mobile device,28.85,Infrastructure
+77,75,229,2024-03-27,Email,Medium,Open,Laptop performance issue,21.71,Infrastructure
+78,849,418,2024-07-14,Software,Critical,Closed,Password reset required,2.89,Infrastructure
+79,318,469,2024-07-18,Account,Low,Escalated,Laptop performance issue,47.41,IT Support
+80,238,680,2024-11-04,VPN,High,Escalated,Shared drive permission issue,53.51,Networking
+81,674,406,2026-03-31,Email,High,Open,Shared drive permission issue,57.09,Networking
+82,728,725,2024-11-17,Software,Medium,Pending,Printer not reachable on floor network,54.36,IT Support
+83,908,825,2024-06-05,Hardware,High,Escalated,Software license activation problem,64.08,IT Support
+84,270,193,2025-04-21,Access,Medium,Pending,Unable to access internal dashboard,11.59,Data Team
+85,811,855,2026-03-23,Security,Critical,In Progress,Password reset required,58.78,Data Team
+86,433,401,2024-10-14,Security,Low,Pending,Password reset required,14.73,Infrastructure
+87,157,639,2025-06-16,Network,Low,Open,Password reset required,24.11,Data Team
+88,221,210,2024-04-20,Access,Medium,In Progress,Laptop performance issue,18.64,Security
+89,70,752,2025-03-27,Hardware,High,Escalated,Software license activation problem,26.61,IT Support
+90,877,438,2025-03-24,Software,High,Resolved,Help desk request for new account provisioning,25.34,Applications
+91,921,767,2024-09-12,Access,Low,Closed,Email not syncing to mobile device,15.56,IT Support
+92,933,237,2024-06-26,Database,Medium,Pending,Software license activation problem,12.70,IT Support
+93,278,734,2024-08-09,Software,Low,Resolved,Database timeout during report run,33.28,Data Team
+94,760,817,2026-04-08,Access,Low,Closed,Password reset required,68.97,Networking
+95,136,300,2026-03-27,Access,High,Open,Software license activation problem,58.72,Networking
+96,939,852,2025-02-27,Account,High,Resolved,Software license activation problem,52.67,IT Support
+97,658,652,2025-05-02,VPN,Medium,Pending,Printer not reachable on floor network,8.07,Data Team
+98,948,271,2024-07-06,Access,Medium,Closed,Shared drive permission issue,16.76,Security
+99,808,694,2024-06-06,VPN,High,Pending,Shared drive permission issue,62.86,IT Support
+100,160,325,2024-07-03,Database,Low,Resolved,Email not syncing to mobile device,28.05,Data Team
+101,730,261,2024-10-15,Email,High,In Progress,Laptop performance issue,35.21,Networking
+102,463,588,2024-07-11,Hardware,High,Open,Password reset required,6.54,IT Support
+103,544,469,2024-05-02,Email,Low,Closed,Email not syncing to mobile device,70.75,Data Team
+104,827,941,2025-03-01,Database,Low,Open,Software license activation problem,61.64,Security
+105,711,37,2024-10-25,Network,Medium,Pending,VPN connection fails intermittently,42.52,Data Team
+106,258,712,2025-09-24,Security,Low,Pending,VPN connection fails intermittently,35.82,Infrastructure
+107,146,928,2024-06-28,VPN,Critical,Closed,Database timeout during report run,18.36,Data Team
+108,187,168,2025-04-10,Access,Medium,Pending,Password reset required,10.82,Security
+109,386,696,2024-06-29,Security,High,Pending,Help desk request for new account provisioning,63.35,Security
+110,931,200,2024-07-15,Access,High,In Progress,Laptop performance issue,70.30,Applications
+111,454,899,2024-11-05,Access,Medium,Resolved,Software license activation problem,36.86,Data Team
+112,13,278,2024-12-04,VPN,Low,In Progress,Unable to access internal dashboard,62.00,Data Team
+113,387,785,2025-11-30,Email,High,Open,Help desk request for new account provisioning,55.28,Applications
+114,807,699,2024-07-13,VPN,Medium,Resolved,Password reset required,28.90,Networking
+115,215,164,2025-11-04,Database,High,Escalated,Laptop performance issue,19.66,Security
+116,486,327,2025-05-24,Software,Low,Pending,Help desk request for new account provisioning,11.48,Security
+117,908,409,2024-03-23,Security,Medium,In Progress,Help desk request for new account provisioning,10.07,Networking
+118,587,743,2025-01-12,Software,Low,Pending,VPN connection fails intermittently,5.60,Security
+119,44,156,2024-08-11,Database,Medium,Closed,Help desk request for new account provisioning,29.26,Security
+120,475,685,2024-09-07,Software,High,In Progress,Help desk request for new account provisioning,52.17,Networking
+121,977,185,2026-02-21,Access,Medium,Open,Email not syncing to mobile device,47.92,Data Team
+122,28,662,2025-06-10,Email,Medium,In Progress,Laptop performance issue,52.26,Infrastructure
+123,552,779,2025-11-01,Access,Low,Resolved,Shared drive permission issue,61.39,Infrastructure
+124,877,161,2025-12-22,Hardware,High,Open,Password reset required,61.31,IT Support
+125,178,801,2026-04-28,Hardware,Medium,Pending,Shared drive permission issue,47.89,IT Support
+126,382,552,2025-12-29,Software,High,Resolved,Printer not reachable on floor network,38.81,Security
+127,916,9,2024-11-01,Hardware,High,Open,Shared drive permission issue,23.86,Data Team
+128,60,399,2025-07-04,Account,Critical,In Progress,Unable to access internal dashboard,3.54,Security
+129,584,951,2024-06-30,Email,Critical,Escalated,Software license activation problem,46.14,Security
+130,852,322,2024-09-07,Email,Medium,Closed,Printer not reachable on floor network,46.10,Applications
+131,767,319,2025-02-12,Hardware,Medium,Closed,Password reset required,16.07,Networking
+132,115,626,2024-07-03,Software,High,Escalated,Password reset required,13.30,Infrastructure
+133,18,313,2024-07-06,Hardware,Low,In Progress,Help desk request for new account provisioning,18.58,Infrastructure
+134,996,116,2026-03-25,Account,High,Resolved,Help desk request for new account provisioning,55.73,Networking
+135,93,483,2024-04-24,Database,Medium,Escalated,Help desk request for new account provisioning,44.07,Data Team
+136,590,708,2024-10-11,Email,Low,In Progress,Shared drive permission issue,50.43,IT Support
+137,563,21,2026-01-23,Access,Medium,Escalated,Printer not reachable on floor network,29.80,Networking
+138,764,173,2025-12-05,Access,Low,Pending,Laptop performance issue,53.98,Data Team
+139,199,558,2024-12-10,Printer,Low,Open,Unable to access internal dashboard,23.51,IT Support
+140,830,184,2024-11-30,Account,Medium,Resolved,Laptop performance issue,39.81,IT Support
+141,567,706,2024-12-29,Software,Critical,Resolved,Password reset required,47.69,Data Team
+142,627,64,2026-02-24,Access,Medium,Resolved,Printer not reachable on floor network,12.23,Security
+143,447,956,2026-02-13,Network,High,In Progress,Shared drive permission issue,71.50,Infrastructure
+144,625,915,2025-05-28,Printer,High,In Progress,Laptop performance issue,58.74,Security
+145,86,518,2026-02-03,Security,High,Closed,Shared drive permission issue,65.78,Security
+146,408,466,2024-06-30,Hardware,Medium,Resolved,Database timeout during report run,69.51,IT Support
+147,997,77,2024-01-01,Network,Low,Resolved,Password reset required,14.88,Infrastructure
+148,624,157,2026-01-04,Hardware,High,Resolved,Laptop performance issue,25.48,Infrastructure
+149,755,615,2025-04-17,Hardware,Medium,Pending,Unable to access internal dashboard,29.53,Security
+150,395,98,2025-05-19,Access,Medium,Closed,Email not syncing to mobile device,59.52,Infrastructure
+151,651,921,2024-01-07,Email,Medium,Closed,Database timeout during report run,18.19,IT Support
+152,131,479,2025-09-28,Database,Medium,Escalated,VPN connection fails intermittently,33.44,Data Team
+153,114,361,2025-12-12,Database,Medium,Resolved,Laptop performance issue,39.18,Applications
+154,677,510,2024-12-24,Software,High,Open,Password reset required,50.66,Security
+155,713,977,2025-01-12,Printer,Medium,In Progress,Help desk request for new account provisioning,62.70,Data Team
+156,97,142,2026-04-29,Security,Medium,Pending,Help desk request for new account provisioning,36.77,Data Team
+157,352,334,2024-06-15,Network,High,Closed,Printer not reachable on floor network,45.42,IT Support
+158,456,756,2026-02-21,Account,High,Resolved,Help desk request for new account provisioning,2.11,Applications
+159,487,147,2025-10-04,Database,Medium,Resolved,Database timeout during report run,5.00,Security
+160,634,406,2025-08-10,VPN,Low,Open,Shared drive permission issue,56.40,Security
+161,703,697,2024-11-10,VPN,Medium,Pending,Help desk request for new account provisioning,61.32,Applications
+162,283,78,2025-02-19,Email,Low,Resolved,Shared drive permission issue,61.06,IT Support
+163,474,249,2025-02-24,Account,High,Resolved,Email not syncing to mobile device,15.25,Networking
+164,550,828,2025-08-18,Email,Low,Escalated,Database timeout during report run,56.01,Data Team
+165,272,297,2024-01-29,Security,Low,Resolved,Password reset required,47.90,Data Team
+166,404,897,2026-04-05,Access,Medium,In Progress,VPN connection fails intermittently,60.25,IT Support
+167,409,143,2024-06-16,VPN,Low,Escalated,Database timeout during report run,40.03,IT Support
+168,861,558,2024-01-19,Software,Medium,Pending,Email not syncing to mobile device,37.69,Infrastructure
+169,570,899,2024-01-01,Email,Medium,In Progress,Unable to access internal dashboard,24.09,Applications
+170,835,554,2025-11-13,Email,Medium,Resolved,Software license activation problem,19.23,Networking
+171,567,356,2024-04-18,Printer,Critical,In Progress,Unable to access internal dashboard,11.18,Security
+172,380,938,2026-03-18,Access,Low,In Progress,Unable to access internal dashboard,49.10,Networking
+173,779,696,2025-02-03,Printer,Low,Resolved,Email not syncing to mobile device,46.62,IT Support
+174,397,300,2025-01-01,Hardware,Medium,Resolved,Laptop performance issue,59.52,Data Team
+175,865,919,2025-11-11,Account,Medium,Resolved,Unable to access internal dashboard,36.44,Security
+176,935,20,2026-01-08,Hardware,Medium,In Progress,Printer not reachable on floor network,63.29,IT Support
+177,116,647,2024-02-01,Network,Medium,Closed,VPN connection fails intermittently,3.90,Applications
+178,311,973,2024-10-29,Account,Low,Resolved,Unable to access internal dashboard,28.63,Applications
+179,352,978,2025-11-12,Printer,Medium,Escalated,Email not syncing to mobile device,12.29,IT Support
+180,146,807,2025-01-21,Software,Low,Pending,Help desk request for new account provisioning,43.21,Security
+181,323,955,2024-05-20,Printer,High,In Progress,Password reset required,9.43,IT Support
+182,242,221,2024-12-05,Account,Medium,Open,Database timeout during report run,36.17,Security
+183,311,555,2025-02-02,Account,High,Pending,Email not syncing to mobile device,43.21,Data Team
+184,335,175,2025-03-23,Hardware,High,In Progress,Shared drive permission issue,16.60,IT Support
+185,851,84,2025-05-15,Software,Medium,Closed,Email not syncing to mobile device,16.10,Infrastructure
+186,849,883,2025-12-19,Database,Low,Closed,Laptop performance issue,28.70,Networking
+187,970,94,2024-07-08,Hardware,Critical,Escalated,Laptop performance issue,66.50,Networking
+188,649,994,2024-05-26,VPN,Medium,Escalated,Database timeout during report run,38.83,Data Team
+189,253,633,2026-01-19,Security,Medium,Closed,Email not syncing to mobile device,40.12,Infrastructure
+190,599,685,2024-07-04,Account,Low,Pending,Password reset required,51.47,Applications
+191,416,119,2024-04-13,Email,Medium,Pending,Help desk request for new account provisioning,6.51,IT Support
+192,345,939,2024-02-26,Access,Medium,Closed,Unable to access internal dashboard,26.47,Data Team
+193,265,459,2024-04-04,VPN,Medium,Escalated,Laptop performance issue,55.18,Networking
+194,366,791,2024-08-07,Software,Medium,Resolved,Database timeout during report run,8.52,Security
+195,365,595,2024-05-01,Account,High,Resolved,Software license activation problem,14.76,Applications
+196,209,38,2025-09-09,Security,Medium,Resolved,Shared drive permission issue,2.67,Infrastructure
+197,543,223,2024-05-07,Printer,Low,Open,Laptop performance issue,17.63,Networking
+198,941,616,2025-06-17,Software,Medium,Open,Shared drive permission issue,34.42,Data Team
+199,832,936,2024-06-28,Email,Low,In Progress,Software license activation problem,39.35,Infrastructure
+200,293,848,2024-01-10,Email,Medium,Pending,VPN connection fails intermittently,22.91,IT Support
+201,709,314,2025-03-31,Printer,Medium,Closed,Laptop performance issue,66.75,Networking
+202,495,832,2024-08-19,Email,Low,Resolved,Help desk request for new account provisioning,62.24,Applications
+203,703,490,2025-03-11,Network,Medium,Escalated,Software license activation problem,6.76,Security
+204,761,388,2025-03-29,Software,Medium,Escalated,Help desk request for new account provisioning,67.15,Applications
+205,215,834,2024-08-17,Printer,Low,Resolved,Help desk request for new account provisioning,18.87,Security
+206,813,441,2025-10-06,Account,Critical,Pending,Unable to access internal dashboard,44.09,Data Team
+207,810,30,2025-08-22,Access,Low,Resolved,Help desk request for new account provisioning,40.12,Security
+208,592,18,2024-08-21,Email,Critical,Closed,Email not syncing to mobile device,12.21,Networking
+209,554,609,2024-03-28,Printer,High,Pending,Database timeout during report run,12.67,Applications
+210,284,754,2025-02-03,Email,High,Pending,Help desk request for new account provisioning,54.20,Networking
+211,742,469,2025-09-21,Database,Medium,In Progress,Shared drive permission issue,65.62,Applications
+212,794,912,2026-04-23,VPN,Medium,Closed,Help desk request for new account provisioning,25.42,Data Team
+213,969,531,2024-05-09,Hardware,High,Open,Password reset required,10.76,Security
+214,598,474,2026-02-02,Email,High,Closed,VPN connection fails intermittently,59.13,Applications
+215,554,193,2025-06-25,Database,Critical,Escalated,VPN connection fails intermittently,33.54,Applications
+216,595,542,2026-02-07,Account,Critical,Pending,Email not syncing to mobile device,58.48,Applications
+217,949,212,2026-03-24,Printer,Medium,In Progress,Shared drive permission issue,71.64,Data Team
+218,85,187,2024-04-17,Network,High,In Progress,Shared drive permission issue,36.45,Security
+219,117,794,2025-07-03,Hardware,Medium,Resolved,Software license activation problem,60.15,IT Support
+220,968,939,2024-10-08,Security,Medium,Open,Help desk request for new account provisioning,47.45,Networking
+221,646,867,2025-08-09,Software,High,Escalated,Software license activation problem,41.76,Applications
+222,152,574,2024-11-19,Printer,Critical,Resolved,Laptop performance issue,16.30,Applications
+223,644,849,2024-04-01,Security,High,Resolved,Unable to access internal dashboard,54.45,Security
+224,13,788,2026-02-05,Security,Low,Closed,Printer not reachable on floor network,1.93,Networking
+225,125,590,2024-05-04,Network,High,Open,Unable to access internal dashboard,18.28,Data Team
+226,874,588,2024-05-08,VPN,Medium,Closed,Email not syncing to mobile device,25.49,Infrastructure
+227,437,44,2026-01-10,Database,Low,Resolved,Email not syncing to mobile device,59.58,IT Support
+228,735,126,2025-05-29,Access,Medium,Open,Password reset required,21.90,Networking
+229,212,411,2025-04-17,Hardware,Critical,Closed,Shared drive permission issue,35.98,Security
+230,412,144,2026-02-14,VPN,Low,Closed,Email not syncing to mobile device,36.94,Data Team
+231,582,252,2025-02-14,Network,Medium,Resolved,Unable to access internal dashboard,50.86,Networking
+232,558,330,2024-12-07,Printer,Low,Closed,Database timeout during report run,32.70,Infrastructure
+233,667,343,2024-03-29,Printer,High,In Progress,Help desk request for new account provisioning,35.35,Infrastructure
+234,356,809,2024-12-31,Hardware,Low,Pending,Laptop performance issue,28.59,Networking
+235,44,676,2025-09-20,Software,High,In Progress,Software license activation problem,35.26,Security
+236,876,163,2024-01-29,Email,Medium,Closed,Printer not reachable on floor network,29.80,Applications
+237,303,182,2024-09-12,Email,Low,Pending,Database timeout during report run,5.41,Networking
+238,423,79,2025-11-30,Access,High,Resolved,Software license activation problem,69.06,Applications
+239,914,210,2025-10-11,Security,Medium,Closed,Database timeout during report run,29.79,Applications
+240,999,383,2024-02-13,Hardware,Low,Closed,Shared drive permission issue,39.60,Infrastructure
+241,220,9,2025-05-17,Account,Low,Escalated,Laptop performance issue,30.69,Data Team
+242,270,649,2024-04-14,Account,High,Escalated,VPN connection fails intermittently,38.31,Data Team
+243,607,325,2024-08-23,Network,Critical,Resolved,Printer not reachable on floor network,41.62,IT Support
+244,508,412,2025-03-04,Account,High,Closed,Help desk request for new account provisioning,45.31,Networking
+245,584,178,2024-01-04,Software,Medium,Pending,Help desk request for new account provisioning,36.90,Applications
+246,773,984,2024-11-23,Security,Low,Closed,Laptop performance issue,59.93,Applications
+247,767,915,2025-07-04,VPN,Low,Escalated,VPN connection fails intermittently,32.93,Infrastructure
+248,658,992,2024-01-22,Printer,High,Resolved,VPN connection fails intermittently,56.90,Security
+249,278,795,2026-04-20,Access,Medium,In Progress,Help desk request for new account provisioning,36.53,Data Team
+250,520,506,2024-03-07,Network,Medium,Escalated,Email not syncing to mobile device,69.27,Infrastructure
+251,240,220,2026-01-19,Printer,Medium,Escalated,Software license activation problem,1.50,Applications
+252,239,735,2024-04-06,Access,High,Resolved,VPN connection fails intermittently,67.86,Applications
+253,525,846,2024-07-16,Printer,Critical,In Progress,Shared drive permission issue,9.63,Infrastructure
+254,271,807,2024-12-23,Software,Critical,Pending,VPN connection fails intermittently,47.35,Infrastructure
+255,916,88,2024-08-26,Database,Low,Closed,Email not syncing to mobile device,32.69,Infrastructure
+256,275,777,2024-01-08,Account,Low,Open,Software license activation problem,49.80,Networking
+257,103,579,2024-10-05,Network,Low,Pending,Laptop performance issue,60.57,Networking
+258,61,637,2024-03-18,VPN,High,Pending,VPN connection fails intermittently,68.76,Infrastructure
+259,769,284,2024-05-27,Email,Critical,Open,Help desk request for new account provisioning,52.71,Data Team
+260,155,763,2025-05-01,Printer,Critical,Resolved,Printer not reachable on floor network,15.14,Infrastructure
+261,81,508,2025-01-17,Account,High,In Progress,Database timeout during report run,1.50,Networking
+262,690,220,2025-10-23,Software,Medium,Open,Shared drive permission issue,59.73,IT Support
+263,198,313,2024-02-06,Printer,Medium,Open,Printer not reachable on floor network,15.88,Security
+264,153,560,2024-01-13,Printer,Medium,Closed,Password reset required,4.51,Infrastructure
+265,36,33,2026-03-08,Database,Medium,In Progress,Printer not reachable on floor network,64.37,Security
+266,139,72,2026-01-08,Database,Medium,Escalated,Shared drive permission issue,42.21,IT Support
+267,477,488,2024-12-13,Database,Medium,Open,VPN connection fails intermittently,35.89,Infrastructure
+268,979,818,2024-12-07,Database,Critical,Open,Software license activation problem,15.96,Security
+269,195,771,2024-04-01,Access,High,In Progress,Password reset required,7.19,Infrastructure
+270,833,390,2025-07-07,Database,Low,Resolved,Software license activation problem,63.75,Networking
+271,508,146,2025-02-03,Software,Low,Pending,Email not syncing to mobile device,62.71,Networking
+272,287,762,2026-03-03,Printer,High,Escalated,VPN connection fails intermittently,41.22,Data Team
+273,988,71,2026-04-07,VPN,High,Escalated,Database timeout during report run,22.41,Security
+274,149,845,2024-02-25,Network,High,Pending,Password reset required,13.63,Infrastructure
+275,664,407,2024-04-05,Access,Low,In Progress,Laptop performance issue,65.66,Applications
+276,85,146,2026-02-12,Access,Medium,Pending,Software license activation problem,57.55,Security
+277,385,632,2024-07-03,Access,Medium,In Progress,Printer not reachable on floor network,46.37,Applications
+278,97,231,2024-11-19,Software,Medium,Open,Software license activation problem,43.59,Applications
+279,571,25,2026-01-07,Software,Medium,Pending,Email not syncing to mobile device,42.28,Applications
+280,392,38,2024-04-24,Software,Low,Resolved,VPN connection fails intermittently,23.36,Data Team
+281,945,862,2025-08-18,Hardware,Low,Escalated,Shared drive permission issue,63.48,Networking
+282,751,622,2024-10-19,Email,High,Pending,Software license activation problem,40.25,Data Team
+283,432,130,2025-11-21,Network,Medium,Open,Unable to access internal dashboard,36.26,Applications
+284,468,266,2024-11-15,Access,Medium,In Progress,Software license activation problem,59.19,Data Team
+285,579,113,2024-03-31,Database,Low,Pending,Help desk request for new account provisioning,61.02,Infrastructure
+286,448,308,2024-03-28,Access,Low,Resolved,Shared drive permission issue,67.23,Infrastructure
+287,623,986,2025-02-06,Software,High,Pending,Laptop performance issue,20.42,Applications
+288,448,277,2025-06-06,VPN,Critical,Open,Shared drive permission issue,11.78,Infrastructure
+289,989,541,2025-08-10,Printer,Medium,Escalated,Password reset required,11.08,IT Support
+290,68,171,2024-06-21,Network,High,Escalated,Password reset required,62.43,Applications
+291,2,900,2024-12-02,Network,High,Open,Unable to access internal dashboard,1.97,Data Team
+292,386,255,2025-06-15,Account,High,Escalated,Software license activation problem,17.61,IT Support
+293,5,4,2025-09-18,Email,Medium,Resolved,VPN connection fails intermittently,9.17,IT Support
+294,818,3,2025-02-19,Access,Medium,Open,Printer not reachable on floor network,41.09,Networking
+295,156,841,2025-10-04,Network,Low,Escalated,Laptop performance issue,67.27,Networking
+296,690,545,2025-08-18,Database,High,Closed,Help desk request for new account provisioning,3.70,IT Support
+297,815,751,2025-07-08,Security,Medium,Open,Shared drive permission issue,30.91,Applications
+298,251,42,2025-02-01,Access,Low,Resolved,Help desk request for new account provisioning,37.33,Networking
+299,256,445,2024-08-12,Hardware,High,Closed,Laptop performance issue,68.65,IT Support
+300,536,904,2024-04-08,Hardware,Medium,Closed,Help desk request for new account provisioning,40.20,Applications
+301,266,338,2025-12-11,Email,Low,Resolved,Database timeout during report run,11.23,IT Support
+302,652,267,2024-07-12,Access,Low,In Progress,Email not syncing to mobile device,55.03,Applications
+303,421,31,2025-02-26,VPN,Medium,Resolved,Help desk request for new account provisioning,43.20,Applications
+304,912,721,2025-08-18,Account,High,Escalated,Software license activation problem,11.10,IT Support
+305,60,564,2024-04-07,Software,Medium,Closed,Unable to access internal dashboard,58.42,Networking
+306,553,933,2026-02-27,Hardware,High,In Progress,Password reset required,47.16,Data Team
+307,611,945,2025-04-02,Account,Critical,In Progress,Printer not reachable on floor network,10.56,Data Team
+308,513,909,2024-12-20,Hardware,Medium,Closed,Email not syncing to mobile device,65.20,Security
+309,809,935,2024-08-20,Security,High,In Progress,Printer not reachable on floor network,22.78,Infrastructure
+310,466,18,2024-12-18,Access,Medium,In Progress,Help desk request for new account provisioning,7.27,Data Team
+311,565,719,2024-05-22,Security,Low,Open,Printer not reachable on floor network,67.59,Networking
+312,806,647,2024-06-29,Security,Medium,Open,Database timeout during report run,48.09,Security
+313,905,33,2024-04-27,Access,Medium,In Progress,Laptop performance issue,4.46,Security
+314,25,56,2025-02-22,Hardware,Low,In Progress,Shared drive permission issue,10.75,IT Support
+315,92,741,2024-01-31,Software,Medium,In Progress,Help desk request for new account provisioning,53.05,Networking
+316,71,360,2025-03-13,Hardware,Low,Closed,Database timeout during report run,68.18,Networking
+317,12,510,2025-01-18,Printer,Medium,Pending,Laptop performance issue,68.83,Networking
+318,265,320,2026-02-11,Printer,High,Pending,Password reset required,64.41,Security
+319,225,873,2025-03-05,Account,Medium,Open,VPN connection fails intermittently,44.98,Applications
+320,8,375,2024-08-30,VPN,High,Closed,Laptop performance issue,69.43,Applications
+321,866,153,2025-05-18,Account,Medium,Resolved,Printer not reachable on floor network,6.44,Security
+322,174,168,2025-07-01,Security,High,Closed,Password reset required,59.56,Networking
+323,404,464,2024-07-06,Access,Medium,Escalated,Printer not reachable on floor network,67.35,Networking
+324,410,976,2026-03-12,Software,High,Pending,VPN connection fails intermittently,68.88,Data Team
+325,906,419,2025-03-28,Email,Medium,Pending,Help desk request for new account provisioning,21.48,Security
+326,83,679,2026-04-29,Software,Medium,Closed,Laptop performance issue,26.35,IT Support
+327,999,956,2025-02-26,Hardware,High,Pending,Shared drive permission issue,40.94,Applications
+328,129,241,2024-05-29,Security,High,In Progress,Database timeout during report run,4.34,Networking
+329,900,757,2025-03-05,Printer,Medium,Open,Password reset required,6.71,Networking
+330,864,259,2025-03-19,Database,High,Pending,Password reset required,26.02,Data Team
+331,177,18,2026-03-15,Printer,High,Pending,Database timeout during report run,46.46,IT Support
+332,127,104,2026-02-23,Database,Medium,In Progress,Shared drive permission issue,39.86,Data Team
+333,475,256,2024-05-30,Access,High,Escalated,Laptop performance issue,22.43,Applications
+334,601,808,2025-11-24,Account,Medium,Resolved,Password reset required,52.27,Data Team
+335,284,601,2025-06-13,Printer,Medium,Escalated,Printer not reachable on floor network,19.07,IT Support
+336,868,101,2024-12-21,Hardware,Critical,In Progress,VPN connection fails intermittently,12.01,Applications
+337,201,673,2024-11-14,Account,Low,Closed,Password reset required,18.17,IT Support
+338,726,412,2024-05-01,Access,Medium,Closed,Shared drive permission issue,30.81,Infrastructure
+339,146,103,2025-05-23,Email,Medium,Open,Laptop performance issue,12.17,Networking
+340,108,609,2024-07-25,VPN,Medium,Resolved,Help desk request for new account provisioning,43.71,IT Support
+341,92,827,2024-03-23,Account,Low,Open,Laptop performance issue,21.79,Security
+342,120,247,2026-04-12,Hardware,High,Escalated,VPN connection fails intermittently,42.66,Security
+343,668,569,2026-02-19,Printer,Low,Closed,VPN connection fails intermittently,63.75,Security
+344,779,963,2024-06-08,Security,High,Resolved,Unable to access internal dashboard,52.11,Applications
+345,596,664,2024-04-10,Account,High,Closed,Software license activation problem,59.24,Applications
+346,944,10,2025-01-08,Hardware,Low,Escalated,Email not syncing to mobile device,16.48,Data Team
+347,724,123,2024-06-18,Access,Medium,In Progress,Shared drive permission issue,38.29,Security
+348,763,4,2025-06-19,VPN,Low,Escalated,Help desk request for new account provisioning,54.87,Networking
+349,480,115,2024-08-20,Printer,Low,Open,Shared drive permission issue,49.85,IT Support
+350,631,482,2026-03-08,Software,Low,In Progress,Help desk request for new account provisioning,63.36,Data Team
+351,394,258,2025-10-10,VPN,Medium,Open,Shared drive permission issue,14.65,Applications
+352,42,459,2024-08-20,Printer,Medium,Open,Unable to access internal dashboard,13.52,Applications
+353,16,690,2025-07-14,Email,Medium,Pending,Software license activation problem,62.50,Data Team
+354,16,174,2024-02-02,Account,High,Pending,Laptop performance issue,57.59,Infrastructure
+355,898,405,2024-08-06,Software,Low,Open,Printer not reachable on floor network,42.33,Security
+356,685,782,2025-09-08,Printer,Medium,Escalated,Database timeout during report run,28.99,Security
+357,399,821,2024-01-21,VPN,High,Pending,VPN connection fails intermittently,31.74,Networking
+358,252,592,2024-05-01,Security,High,In Progress,VPN connection fails intermittently,23.51,Networking
+359,859,417,2024-04-28,Account,High,Escalated,VPN connection fails intermittently,0.82,IT Support
+360,203,373,2024-08-10,Access,Critical,Closed,Shared drive permission issue,55.33,Infrastructure
+361,869,217,2024-10-15,Hardware,High,In Progress,Help desk request for new account provisioning,10.29,Data Team
+362,516,68,2024-10-26,Network,Low,Pending,VPN connection fails intermittently,53.31,Data Team
+363,829,77,2026-04-08,Access,Medium,In Progress,Unable to access internal dashboard,11.04,Applications
+364,387,488,2024-03-13,Security,High,Closed,Shared drive permission issue,71.23,Networking
+365,414,731,2024-10-24,Network,Medium,Resolved,Email not syncing to mobile device,17.14,Data Team
+366,96,4,2024-04-02,Security,Low,Open,Database timeout during report run,65.71,Security
+367,788,160,2024-09-22,VPN,Medium,Resolved,Printer not reachable on floor network,61.67,IT Support
+368,484,253,2024-11-23,Email,Medium,Closed,VPN connection fails intermittently,10.28,IT Support
+369,930,505,2025-04-04,Security,High,In Progress,Laptop performance issue,42.85,Data Team
+370,519,101,2025-05-24,Security,Medium,In Progress,Printer not reachable on floor network,61.57,Networking
+371,781,688,2024-02-16,Database,Medium,In Progress,Printer not reachable on floor network,1.85,Applications
+372,300,446,2026-03-16,Security,High,Escalated,Software license activation problem,34.00,IT Support
+373,67,453,2025-01-01,Hardware,Low,In Progress,Unable to access internal dashboard,59.62,Security
+374,371,394,2024-05-05,Account,High,Escalated,Shared drive permission issue,71.64,Infrastructure
+375,681,741,2025-05-07,Access,Medium,Escalated,Email not syncing to mobile device,22.44,Infrastructure
+376,17,795,2025-06-26,Software,High,Pending,VPN connection fails intermittently,60.60,Data Team
+377,723,471,2024-11-28,Software,Medium,In Progress,Help desk request for new account provisioning,12.85,Applications
+378,770,404,2026-02-28,Email,Medium,In Progress,Software license activation problem,13.79,Data Team
+379,47,460,2024-11-03,Printer,Medium,In Progress,Unable to access internal dashboard,32.34,Security
+380,212,148,2025-11-30,VPN,Critical,Closed,Laptop performance issue,67.93,Infrastructure
+381,562,991,2026-01-14,Printer,Medium,Closed,Password reset required,26.11,Infrastructure
+382,915,542,2024-08-11,Printer,High,Escalated,Help desk request for new account provisioning,4.23,Networking
+383,31,817,2025-12-11,Account,Medium,Resolved,Printer not reachable on floor network,42.78,Infrastructure
+384,59,711,2024-06-29,Security,High,In Progress,Database timeout during report run,0.93,IT Support
+385,538,967,2025-12-04,Database,High,Escalated,Laptop performance issue,41.81,Networking
+386,980,927,2024-03-26,Security,Medium,Escalated,Printer not reachable on floor network,68.54,IT Support
+387,197,699,2024-11-17,Security,Medium,Open,Software license activation problem,36.26,Security
+388,728,348,2025-05-26,Security,Medium,Escalated,VPN connection fails intermittently,42.45,IT Support
+389,852,801,2024-09-04,Email,Medium,In Progress,Software license activation problem,15.52,Security
+390,858,134,2026-02-06,VPN,High,In Progress,Unable to access internal dashboard,50.99,Infrastructure
+391,151,494,2025-10-20,Hardware,Low,Open,Software license activation problem,59.85,Networking
+392,437,622,2025-05-16,Hardware,Critical,Open,Printer not reachable on floor network,12.25,Applications
+393,632,905,2024-06-10,Email,Medium,Pending,Database timeout during report run,60.36,Security
+394,567,239,2025-08-13,Access,Medium,Open,Printer not reachable on floor network,68.81,IT Support
+395,599,878,2024-07-31,Software,Low,In Progress,Printer not reachable on floor network,71.64,Data Team
+396,563,15,2026-03-24,Hardware,Critical,Pending,Password reset required,49.02,Applications
+397,849,80,2025-05-22,Access,Medium,Open,VPN connection fails intermittently,32.72,IT Support
+398,826,83,2024-08-09,Printer,Critical,Escalated,Unable to access internal dashboard,64.00,Networking
+399,964,34,2024-01-12,Account,Medium,In Progress,Password reset required,30.05,Security
+400,260,939,2024-07-06,Account,Medium,In Progress,VPN connection fails intermittently,62.21,Security
+401,577,286,2024-06-12,VPN,Medium,In Progress,Shared drive permission issue,0.88,Infrastructure
+402,34,760,2025-07-30,Printer,High,Pending,Database timeout during report run,4.85,Applications
+403,747,628,2025-09-22,Email,Medium,Closed,Help desk request for new account provisioning,16.16,Data Team
+404,131,474,2024-08-18,Software,Critical,Escalated,Password reset required,39.18,IT Support
+405,917,587,2024-06-12,Hardware,High,In Progress,Email not syncing to mobile device,47.13,Applications
+406,577,837,2026-03-01,Printer,Low,Escalated,Printer not reachable on floor network,32.86,Networking
+407,844,176,2024-12-05,VPN,High,Resolved,Database timeout during report run,25.95,Infrastructure
+408,501,272,2025-08-25,Database,High,Resolved,Email not syncing to mobile device,2.17,Networking
+409,518,880,2024-01-01,Email,Medium,Open,Printer not reachable on floor network,54.00,Applications
+410,423,867,2026-02-10,Access,Low,Resolved,Unable to access internal dashboard,48.06,IT Support
+411,983,863,2025-08-01,Software,Medium,In Progress,Password reset required,55.67,Applications
+412,846,968,2026-03-06,Account,High,In Progress,Help desk request for new account provisioning,2.83,Applications
+413,587,936,2025-07-09,Access,Medium,In Progress,Password reset required,25.42,Infrastructure
+414,212,178,2024-09-10,Access,Critical,In Progress,Email not syncing to mobile device,5.31,Infrastructure
+415,384,928,2026-04-09,Security,Medium,Open,VPN connection fails intermittently,44.70,Networking
+416,346,291,2024-08-19,Security,High,Closed,Unable to access internal dashboard,16.66,Security
+417,517,833,2025-08-17,Email,High,Pending,Laptop performance issue,45.10,Infrastructure
+418,897,167,2024-07-16,Account,High,Escalated,Password reset required,42.83,Infrastructure
+419,832,551,2024-01-08,Access,Medium,Closed,Shared drive permission issue,71.99,Infrastructure
+420,130,852,2024-05-05,Account,High,Open,Password reset required,63.40,IT Support
+421,799,342,2025-03-30,Database,Medium,Resolved,Help desk request for new account provisioning,44.46,IT Support
+422,147,249,2024-04-30,VPN,Medium,Open,Software license activation problem,33.37,Data Team
+423,285,164,2025-01-15,Hardware,Critical,Escalated,Password reset required,43.06,Applications
+424,96,580,2025-10-18,Network,Critical,Pending,Help desk request for new account provisioning,71.00,IT Support
+425,136,186,2025-08-23,Printer,Medium,Closed,Laptop performance issue,7.64,Applications
+426,740,411,2024-08-25,Software,Critical,Pending,Software license activation problem,23.27,Networking
+427,645,940,2025-06-04,Printer,Medium,Open,Password reset required,50.64,Data Team
+428,124,460,2025-03-11,Network,Low,Resolved,Help desk request for new account provisioning,11.82,Networking
+429,925,276,2025-06-29,Security,High,Pending,Unable to access internal dashboard,14.16,Networking
+430,65,363,2024-04-18,Network,High,Pending,Unable to access internal dashboard,23.22,Applications
+431,738,791,2024-08-02,Software,Low,Closed,VPN connection fails intermittently,21.92,Networking
+432,530,872,2024-02-20,VPN,Medium,Resolved,Software license activation problem,46.10,Applications
+433,620,998,2025-04-22,Software,Medium,Closed,Database timeout during report run,61.99,Infrastructure
+434,514,559,2024-04-05,Network,High,Pending,Email not syncing to mobile device,50.58,Data Team
+435,113,605,2026-03-21,Software,High,Open,Database timeout during report run,55.67,Security
+436,43,442,2025-05-19,VPN,High,Resolved,Laptop performance issue,69.26,Infrastructure
+437,175,604,2026-02-14,Database,Critical,Escalated,Email not syncing to mobile device,7.31,Data Team
+438,170,349,2024-02-28,VPN,High,Closed,Database timeout during report run,69.14,Applications
+439,905,533,2024-02-28,Security,High,Pending,Shared drive permission issue,38.42,Networking
+440,176,997,2025-07-08,Security,High,Closed,Software license activation problem,10.15,Infrastructure
+441,758,521,2024-01-19,Account,Medium,In Progress,Help desk request for new account provisioning,56.19,Applications
+442,947,222,2024-11-08,Security,High,Open,Help desk request for new account provisioning,28.51,Data Team
+443,177,188,2024-06-11,Security,Low,Open,Shared drive permission issue,13.61,Networking
+444,680,957,2026-03-25,Printer,Low,Pending,Software license activation problem,12.81,Security
+445,604,779,2024-07-12,Account,High,Closed,Unable to access internal dashboard,6.98,Infrastructure
+446,167,252,2026-03-22,Account,Low,Resolved,Help desk request for new account provisioning,13.01,IT Support
+447,14,621,2026-03-17,Printer,Medium,Closed,Software license activation problem,3.34,Security
+448,1,269,2025-02-12,Security,High,Open,Help desk request for new account provisioning,26.33,Infrastructure
+449,69,489,2024-07-08,Account,High,Open,Laptop performance issue,44.44,IT Support
+450,779,87,2026-01-25,Database,Medium,Pending,Laptop performance issue,39.02,Infrastructure
+451,165,306,2024-05-17,VPN,Low,Resolved,Laptop performance issue,27.84,IT Support
+452,48,430,2025-12-12,Access,Critical,In Progress,Software license activation problem,35.24,IT Support
+453,410,288,2024-11-24,Printer,Low,Closed,Printer not reachable on floor network,59.91,IT Support
+454,1000,447,2025-04-30,Software,Medium,In Progress,Shared drive permission issue,51.50,Applications
+455,16,587,2024-01-11,Security,Medium,In Progress,Laptop performance issue,19.90,IT Support
+456,846,436,2025-03-31,Software,High,Closed,VPN connection fails intermittently,15.20,Infrastructure
+457,421,118,2026-03-16,Access,High,Resolved,Database timeout during report run,20.74,IT Support
+458,307,141,2025-03-21,Network,High,Escalated,Email not syncing to mobile device,20.24,Applications
+459,938,767,2024-04-29,Network,Medium,Escalated,Software license activation problem,47.58,Security
+460,371,489,2025-06-19,Printer,High,Open,Printer not reachable on floor network,61.89,Infrastructure
+461,258,619,2026-03-20,Account,Low,Open,Database timeout during report run,63.42,IT Support
+462,336,879,2025-04-29,Security,Low,Resolved,Software license activation problem,1.91,IT Support
+463,635,631,2025-05-21,Database,Low,Pending,Password reset required,3.44,Infrastructure
+464,574,225,2024-10-20,VPN,Medium,Pending,VPN connection fails intermittently,55.45,Infrastructure
+465,276,354,2024-08-12,Printer,High,In Progress,Shared drive permission issue,59.41,Data Team
+466,460,584,2024-09-18,Access,Low,Pending,Shared drive permission issue,26.94,Infrastructure
+467,863,780,2025-01-22,Software,Medium,Resolved,Unable to access internal dashboard,20.58,Security
+468,203,529,2024-06-26,Printer,High,Pending,VPN connection fails intermittently,47.18,IT Support
+469,348,233,2025-09-01,Email,High,Closed,Email not syncing to mobile device,34.94,Applications
+470,94,401,2024-06-27,Account,Medium,Resolved,Help desk request for new account provisioning,1.64,IT Support
+471,800,226,2025-08-18,VPN,Medium,Pending,Printer not reachable on floor network,4.07,Security
+472,651,421,2025-10-25,Hardware,Medium,Escalated,Shared drive permission issue,68.87,Data Team
+473,283,218,2024-09-25,VPN,Low,Closed,Printer not reachable on floor network,6.39,Security
+474,987,877,2025-10-29,Security,High,Pending,Printer not reachable on floor network,61.21,Infrastructure
+475,898,398,2025-11-26,Network,Medium,Open,Email not syncing to mobile device,47.63,Networking
+476,532,382,2024-03-30,Email,High,Resolved,Unable to access internal dashboard,67.59,Infrastructure
+477,487,947,2025-04-08,Software,Medium,Open,Unable to access internal dashboard,56.06,Applications
+478,42,715,2024-12-08,VPN,High,Resolved,Printer not reachable on floor network,1.96,Infrastructure
+479,422,771,2025-01-07,Printer,Low,Open,Laptop performance issue,50.97,Security
+480,937,436,2024-09-30,Database,Medium,In Progress,Unable to access internal dashboard,28.84,Networking
+481,682,217,2025-03-26,Access,High,Escalated,VPN connection fails intermittently,39.68,Infrastructure
+482,753,188,2024-07-06,Printer,Medium,Escalated,Help desk request for new account provisioning,46.43,IT Support
+483,17,790,2025-09-21,Email,Medium,Closed,Shared drive permission issue,31.31,Infrastructure
+484,779,338,2025-05-29,Database,High,Open,Printer not reachable on floor network,34.16,Infrastructure
+485,425,210,2025-08-09,Account,High,In Progress,Shared drive permission issue,50.09,Data Team
+486,494,410,2026-02-13,Access,High,Pending,Email not syncing to mobile device,61.14,Networking
+487,310,585,2025-10-14,Software,Low,Open,Software license activation problem,4.70,Networking
+488,433,784,2025-07-28,Hardware,Medium,Escalated,Software license activation problem,2.63,Security
+489,192,860,2024-07-29,Access,High,Escalated,Password reset required,41.82,Networking
+490,486,197,2024-01-16,Database,Medium,Resolved,Help desk request for new account provisioning,6.23,Data Team
+491,550,953,2026-04-15,Software,Medium,Resolved,Password reset required,30.44,Applications
+492,209,792,2026-02-26,Network,Medium,Escalated,Unable to access internal dashboard,38.67,Applications
+493,269,176,2025-09-17,Printer,Medium,In Progress,Unable to access internal dashboard,15.25,Networking
+494,549,704,2025-08-28,Network,Critical,Open,Laptop performance issue,68.97,Applications
+495,656,616,2025-12-04,Access,Low,Pending,Help desk request for new account provisioning,44.15,Security
+496,28,390,2025-04-05,Database,Low,Resolved,Email not syncing to mobile device,59.10,Security
+497,3,377,2024-07-13,Account,Critical,Resolved,Password reset required,69.04,Applications
+498,575,935,2024-08-25,Email,High,Pending,Laptop performance issue,58.54,Networking
+499,802,893,2024-05-30,Hardware,Medium,Resolved,VPN connection fails intermittently,30.12,Data Team
+500,396,650,2024-01-06,Printer,Critical,Pending,Laptop performance issue,48.96,Applications
+501,541,594,2025-10-22,Access,Low,Closed,Database timeout during report run,63.60,Data Team
+502,674,146,2026-01-10,Email,Low,Open,Laptop performance issue,67.67,IT Support
+503,488,56,2024-04-27,Database,Critical,Escalated,Database timeout during report run,3.54,IT Support
+504,32,526,2024-07-27,Email,Low,Closed,VPN connection fails intermittently,32.98,Security
+505,542,170,2024-06-02,Database,Critical,Resolved,Password reset required,47.07,Applications
+506,863,540,2024-11-02,Security,High,Open,Unable to access internal dashboard,33.22,Data Team
+507,676,594,2025-06-03,Security,Critical,In Progress,Software license activation problem,45.64,IT Support
+508,430,553,2024-03-18,Access,Medium,Resolved,VPN connection fails intermittently,51.93,Security
+509,176,820,2024-04-22,VPN,Medium,In Progress,Unable to access internal dashboard,40.36,Data Team
+510,861,18,2024-05-16,Network,High,Escalated,Unable to access internal dashboard,45.95,Infrastructure
+511,200,689,2025-03-07,Account,Medium,In Progress,Email not syncing to mobile device,57.92,Security
+512,667,189,2025-10-07,Account,Medium,Resolved,Software license activation problem,64.85,IT Support
+513,12,754,2024-07-01,Account,High,Closed,Password reset required,21.83,Networking
+514,221,418,2025-01-17,Database,Low,Open,Password reset required,68.91,Security
+515,255,10,2025-01-07,Software,Medium,Pending,Help desk request for new account provisioning,32.77,Networking
+516,256,625,2024-03-01,Printer,High,Escalated,Unable to access internal dashboard,9.93,Applications
+517,385,326,2024-09-05,Software,High,Closed,Database timeout during report run,3.51,Applications
+518,716,783,2024-08-15,Printer,Medium,Open,Shared drive permission issue,58.78,Applications
+519,965,286,2026-03-08,Access,Critical,Escalated,Database timeout during report run,60.59,Data Team
+520,151,122,2025-07-13,Security,High,Resolved,Software license activation problem,71.86,Infrastructure
+521,379,284,2025-06-14,Printer,Medium,In Progress,Password reset required,17.00,IT Support
+522,413,827,2025-01-25,VPN,High,Resolved,Shared drive permission issue,29.65,Data Team
+523,133,382,2024-03-16,Database,Medium,Escalated,Password reset required,10.14,IT Support
+524,191,620,2024-09-19,Email,Medium,In Progress,Printer not reachable on floor network,40.80,Infrastructure
+525,394,427,2024-01-12,Printer,Low,Escalated,Help desk request for new account provisioning,42.21,Infrastructure
+526,914,354,2024-07-12,Printer,High,Resolved,Help desk request for new account provisioning,47.50,Infrastructure
+527,937,755,2025-08-25,Database,High,Closed,Shared drive permission issue,18.23,Applications
+528,567,753,2026-02-08,VPN,High,Escalated,Shared drive permission issue,37.31,Networking
+529,462,626,2025-05-22,Software,Medium,Escalated,Unable to access internal dashboard,22.03,Infrastructure
+530,538,177,2024-09-17,Access,Medium,Pending,Help desk request for new account provisioning,58.64,IT Support
+531,205,618,2024-12-01,Email,High,Resolved,VPN connection fails intermittently,11.57,Infrastructure
+532,11,31,2025-02-16,Access,High,Pending,Database timeout during report run,4.05,Networking
+533,478,953,2025-12-16,Printer,Low,Resolved,VPN connection fails intermittently,68.90,Applications
+534,668,678,2026-01-28,Network,High,Pending,Help desk request for new account provisioning,5.56,Applications
+535,18,210,2024-05-01,Email,High,Escalated,Email not syncing to mobile device,11.39,Networking
+536,482,136,2025-07-10,Access,Medium,Resolved,Printer not reachable on floor network,46.58,Networking
+537,305,164,2025-01-27,Software,Medium,Open,Email not syncing to mobile device,44.91,Networking
+538,155,57,2025-10-26,Email,Low,Pending,Laptop performance issue,2.72,Security
+539,439,624,2025-03-12,Hardware,High,Pending,Shared drive permission issue,65.26,Security
+540,938,961,2024-05-08,Database,Critical,Resolved,Unable to access internal dashboard,46.91,Applications
+541,547,135,2025-02-15,Access,Low,Closed,Email not syncing to mobile device,18.09,IT Support
+542,631,419,2025-04-04,Printer,Low,Resolved,Printer not reachable on floor network,41.39,Security
+543,776,783,2024-06-05,Account,High,Open,Database timeout during report run,18.23,Applications
+544,264,124,2025-05-17,Software,Medium,Open,Laptop performance issue,34.97,Data Team
+545,871,415,2024-11-19,Hardware,Low,Escalated,Software license activation problem,35.95,Networking
+546,76,509,2024-06-22,Security,Low,Escalated,VPN connection fails intermittently,54.67,Networking
+547,990,47,2024-07-02,Software,High,Resolved,Help desk request for new account provisioning,43.23,IT Support
+548,204,529,2025-08-27,VPN,Low,Escalated,Unable to access internal dashboard,14.08,Networking
+549,830,301,2024-07-07,Account,Medium,Escalated,Database timeout during report run,39.82,IT Support
+550,278,506,2026-03-09,Printer,Low,Closed,Shared drive permission issue,30.24,Infrastructure
+551,231,323,2026-03-04,Hardware,Critical,Open,Software license activation problem,30.07,IT Support
+552,776,623,2026-03-07,Hardware,High,Closed,Unable to access internal dashboard,70.39,Networking
+553,874,800,2025-07-24,Security,Low,Closed,Laptop performance issue,69.21,Infrastructure
+554,608,356,2025-07-05,Hardware,Medium,Escalated,Laptop performance issue,69.97,IT Support
+555,834,76,2025-09-11,Email,High,Resolved,Unable to access internal dashboard,25.12,Data Team
+556,81,747,2026-01-29,Hardware,Medium,Escalated,Database timeout during report run,19.89,Data Team
+557,686,375,2025-02-05,Network,High,Open,Printer not reachable on floor network,3.85,Security
+558,485,3,2026-04-20,Access,Medium,Resolved,Laptop performance issue,64.30,IT Support
+559,319,327,2026-01-04,Account,Low,Pending,Unable to access internal dashboard,71.60,Infrastructure
+560,946,808,2025-09-10,Email,Low,Open,Shared drive permission issue,2.23,Infrastructure
+561,392,404,2025-08-25,Software,High,Closed,Unable to access internal dashboard,17.56,Applications
+562,558,568,2026-04-20,Printer,High,Pending,Unable to access internal dashboard,47.70,Data Team
+563,13,156,2025-07-07,Printer,Medium,Resolved,Email not syncing to mobile device,6.97,Security
+564,709,448,2024-10-16,Database,Medium,In Progress,Laptop performance issue,24.99,Security
+565,205,57,2024-05-15,Network,High,Escalated,Database timeout during report run,19.35,IT Support
+566,930,520,2025-05-30,Access,High,Escalated,Software license activation problem,3.54,Networking
+567,572,495,2025-09-11,Access,Medium,Open,VPN connection fails intermittently,43.36,Data Team
+568,554,860,2024-04-04,Account,High,Open,VPN connection fails intermittently,14.78,Infrastructure
+569,400,388,2026-04-10,Hardware,Low,Resolved,Database timeout during report run,40.08,Data Team
+570,352,167,2024-02-18,Printer,Medium,Closed,VPN connection fails intermittently,8.47,Networking
+571,34,303,2025-02-16,VPN,High,Closed,Password reset required,10.99,Applications
+572,616,927,2024-08-19,VPN,High,Escalated,Software license activation problem,68.57,Applications
+573,286,304,2025-12-29,VPN,High,Open,Shared drive permission issue,49.04,Networking
+574,141,941,2026-03-02,Network,Low,Open,Database timeout during report run,28.41,IT Support
+575,633,587,2026-04-22,Security,High,Resolved,Database timeout during report run,30.62,Security
+576,397,418,2026-04-03,Software,High,In Progress,Laptop performance issue,23.86,Data Team
+577,945,3,2025-01-19,Security,Medium,Open,Password reset required,54.06,IT Support
+578,548,309,2026-01-27,Access,Low,Escalated,Shared drive permission issue,65.37,IT Support
+579,929,398,2024-08-09,Email,Medium,Pending,Unable to access internal dashboard,28.63,IT Support
+580,406,245,2025-02-09,Printer,High,Pending,Unable to access internal dashboard,9.74,Data Team
+581,90,663,2025-10-18,Printer,Medium,Open,Help desk request for new account provisioning,39.47,IT Support
+582,881,222,2024-01-12,Database,Low,Open,Password reset required,4.70,Networking
+583,655,30,2024-08-30,Software,Medium,Open,Help desk request for new account provisioning,19.25,Infrastructure
+584,205,786,2025-12-06,VPN,High,Resolved,Software license activation problem,50.27,Applications
+585,879,115,2024-08-24,Database,High,In Progress,Printer not reachable on floor network,3.48,Data Team
+586,547,441,2026-01-03,Access,Low,Escalated,Email not syncing to mobile device,66.08,Security
+587,678,330,2024-10-29,Account,High,Closed,Help desk request for new account provisioning,68.56,IT Support
+588,293,766,2024-11-22,Email,Critical,Pending,Database timeout during report run,66.69,Infrastructure
+589,93,128,2025-06-10,Email,Low,Resolved,VPN connection fails intermittently,51.86,Data Team
+590,357,645,2025-02-02,Security,Medium,Pending,Database timeout during report run,54.99,Security
+591,161,888,2025-02-19,Software,Medium,Closed,Email not syncing to mobile device,11.18,Security
+592,507,54,2025-09-23,Security,High,Escalated,Unable to access internal dashboard,17.28,Security
+593,831,431,2024-04-15,Software,Medium,Escalated,Unable to access internal dashboard,32.51,Applications
+594,885,656,2025-04-04,Software,High,Escalated,Unable to access internal dashboard,9.87,Applications
+595,65,375,2026-03-29,Email,Medium,Open,Email not syncing to mobile device,68.77,Networking
+596,70,452,2024-01-05,Network,High,Closed,VPN connection fails intermittently,30.76,IT Support
+597,434,56,2024-11-19,Security,Medium,Resolved,Unable to access internal dashboard,27.20,Infrastructure
+598,310,77,2024-09-18,Network,Medium,Pending,Database timeout during report run,32.13,Applications
+599,727,385,2024-02-27,Account,High,Pending,Laptop performance issue,7.44,Applications
+600,962,940,2025-12-12,VPN,Medium,Pending,Software license activation problem,9.30,Networking
+601,777,659,2024-03-22,Email,High,Resolved,Printer not reachable on floor network,31.58,Networking
+602,868,736,2024-11-03,Printer,Medium,Escalated,Email not syncing to mobile device,28.27,IT Support
+603,241,200,2025-07-21,Security,High,Escalated,Database timeout during report run,45.34,Data Team
+604,406,561,2025-04-16,Access,Medium,Escalated,Unable to access internal dashboard,55.70,Infrastructure
+605,711,490,2026-02-02,VPN,High,Open,Shared drive permission issue,19.47,IT Support
+606,658,103,2026-04-05,Database,Low,Open,Help desk request for new account provisioning,26.23,Security
+607,223,195,2024-09-04,Software,High,Resolved,Software license activation problem,15.71,Networking
+608,216,580,2024-05-16,Printer,Medium,Open,Password reset required,62.60,Infrastructure
+609,246,782,2024-11-25,Software,High,Escalated,Printer not reachable on floor network,44.64,Data Team
+610,192,265,2025-10-30,Software,Medium,In Progress,Help desk request for new account provisioning,67.21,Infrastructure
+611,739,548,2024-08-17,Security,High,Open,Password reset required,17.54,Infrastructure
+612,590,97,2024-01-23,Account,High,Open,VPN connection fails intermittently,30.76,Infrastructure
+613,780,818,2024-08-21,Software,Medium,Pending,Password reset required,15.69,Applications
+614,676,73,2025-05-21,Database,Medium,In Progress,Help desk request for new account provisioning,1.15,Networking
+615,340,840,2025-05-09,Security,High,Pending,Database timeout during report run,49.84,Infrastructure
+616,59,937,2025-02-02,VPN,Medium,Resolved,Help desk request for new account provisioning,45.00,Infrastructure
+617,983,227,2025-07-18,Hardware,Low,Closed,Printer not reachable on floor network,56.89,Infrastructure
+618,690,159,2024-08-06,Software,High,Escalated,Password reset required,65.82,Security
+619,479,479,2025-04-05,Network,Medium,Open,Printer not reachable on floor network,63.90,Data Team
+620,984,35,2025-12-17,Printer,Medium,Pending,Software license activation problem,2.52,Security
+621,213,572,2024-01-04,Security,Low,Escalated,Unable to access internal dashboard,24.46,Applications
+622,639,516,2024-06-22,Account,Low,Pending,VPN connection fails intermittently,52.55,IT Support
+623,485,811,2025-10-17,Account,High,In Progress,Software license activation problem,19.82,Networking
+624,890,445,2025-10-25,VPN,High,Pending,Shared drive permission issue,12.44,Security
+625,142,381,2025-03-06,Database,Critical,Escalated,Password reset required,1.49,IT Support
+626,724,415,2024-09-07,Network,High,Closed,Email not syncing to mobile device,45.85,Security
+627,269,969,2026-03-25,Printer,High,Pending,Help desk request for new account provisioning,32.52,Applications
+628,498,662,2025-09-01,Database,Medium,Resolved,Laptop performance issue,70.64,Networking
+629,585,696,2026-02-27,VPN,High,Resolved,Database timeout during report run,60.71,Data Team
+630,80,264,2026-03-19,Database,Critical,Resolved,Printer not reachable on floor network,2.96,Networking
+631,911,323,2025-09-27,Security,Low,Pending,Help desk request for new account provisioning,50.71,Networking
+632,147,844,2024-07-31,Printer,High,Escalated,Database timeout during report run,15.98,Infrastructure
+633,228,999,2026-02-02,Database,Medium,Escalated,VPN connection fails intermittently,9.85,Infrastructure
+634,562,600,2026-01-05,Email,High,Open,VPN connection fails intermittently,24.06,Applications
+635,956,348,2025-07-29,Network,Medium,Open,VPN connection fails intermittently,13.55,Security
+636,760,716,2025-03-23,Software,Low,In Progress,Help desk request for new account provisioning,70.01,Networking
+637,962,510,2024-11-07,Account,Low,Closed,Password reset required,24.88,Networking
+638,765,517,2025-04-17,VPN,Low,Resolved,Shared drive permission issue,38.13,Infrastructure
+639,462,539,2024-07-28,Email,High,Open,Email not syncing to mobile device,47.49,Applications
+640,398,535,2024-03-10,Access,Medium,Open,Laptop performance issue,50.40,Applications
+641,658,379,2025-08-12,Printer,Medium,Closed,Help desk request for new account provisioning,43.36,Applications
+642,26,772,2025-02-04,Security,Medium,Closed,Software license activation problem,45.08,Data Team
+643,816,397,2026-03-04,Network,High,Resolved,Laptop performance issue,69.93,Data Team
+644,158,207,2025-03-31,Printer,High,Open,Shared drive permission issue,4.74,Infrastructure
+645,86,394,2025-03-03,Printer,Low,Open,Printer not reachable on floor network,23.57,Applications
+646,461,701,2026-01-20,Email,Medium,Pending,Email not syncing to mobile device,36.20,Data Team
+647,331,336,2025-02-12,Security,High,Pending,VPN connection fails intermittently,71.37,Infrastructure
+648,482,442,2024-09-17,Account,Low,Open,Printer not reachable on floor network,37.95,Applications
+649,806,829,2025-06-17,Printer,High,In Progress,Database timeout during report run,49.36,Applications
+650,425,392,2024-03-14,Security,Medium,Open,Password reset required,13.02,Applications
+651,267,71,2024-11-05,Email,Medium,Escalated,Database timeout during report run,0.85,Infrastructure
+652,542,417,2024-07-25,Email,Critical,Open,Shared drive permission issue,55.95,Applications
+653,482,889,2026-04-20,Access,High,Escalated,Unable to access internal dashboard,69.02,Security
+654,47,904,2024-07-17,Database,Medium,Pending,Password reset required,66.02,Data Team
+655,422,63,2025-10-20,Software,Low,Closed,Email not syncing to mobile device,52.79,Data Team
+656,754,548,2025-09-18,Network,Low,Resolved,Database timeout during report run,53.89,Infrastructure
+657,685,593,2024-10-02,Access,Medium,Escalated,VPN connection fails intermittently,59.39,Security
+658,497,889,2025-09-02,Database,High,In Progress,Database timeout during report run,24.57,Infrastructure
+659,276,113,2025-07-22,Network,Medium,Resolved,Database timeout during report run,38.15,Applications
+660,937,44,2024-11-21,VPN,Medium,Escalated,Software license activation problem,21.89,Data Team
+661,587,330,2024-01-15,VPN,High,In Progress,Help desk request for new account provisioning,18.46,IT Support
+662,599,849,2024-12-10,Email,Low,Closed,Printer not reachable on floor network,0.58,Networking
+663,257,277,2025-09-23,Software,High,Open,Laptop performance issue,69.82,Applications
+664,615,999,2025-06-27,Software,Medium,Pending,Help desk request for new account provisioning,60.67,IT Support
+665,196,865,2025-04-24,Account,Low,In Progress,VPN connection fails intermittently,40.79,Security
+666,471,483,2025-11-11,Account,Medium,Escalated,Email not syncing to mobile device,44.09,IT Support
+667,317,69,2025-11-03,Email,High,Closed,Database timeout during report run,71.53,Networking
+668,739,163,2025-06-19,Network,Low,Resolved,Password reset required,60.50,Applications
+669,657,533,2026-03-16,Printer,High,Pending,VPN connection fails intermittently,41.29,Infrastructure
+670,663,785,2024-09-07,Network,Low,Escalated,Unable to access internal dashboard,53.18,Applications
+671,562,386,2026-01-09,Database,High,In Progress,Software license activation problem,30.53,Security
+672,951,529,2024-10-26,Network,Low,Escalated,Laptop performance issue,50.54,Security
+673,187,864,2025-02-16,Database,Medium,Closed,VPN connection fails intermittently,27.06,Data Team
+674,783,93,2026-03-28,VPN,Medium,In Progress,Database timeout during report run,56.19,Security
+675,371,842,2026-04-23,Security,Medium,Escalated,Help desk request for new account provisioning,39.74,IT Support
+676,951,157,2025-03-06,Network,Low,Closed,Password reset required,16.23,Security
+677,462,640,2024-05-01,Email,Critical,Open,Password reset required,63.70,Infrastructure
+678,696,848,2025-04-27,Database,Low,Closed,Printer not reachable on floor network,23.12,Applications
+679,732,556,2026-03-29,VPN,Low,Resolved,Database timeout during report run,58.41,Security
+680,331,721,2025-08-17,Account,Low,Escalated,Printer not reachable on floor network,35.99,Applications
+681,608,538,2024-07-26,Hardware,Critical,Resolved,Shared drive permission issue,45.14,IT Support
+682,767,216,2025-04-08,VPN,Medium,Pending,Help desk request for new account provisioning,5.13,Security
+683,60,572,2025-09-08,Database,Medium,Resolved,Help desk request for new account provisioning,54.99,Networking
+684,172,415,2025-02-03,Email,Medium,Pending,Shared drive permission issue,37.09,Security
+685,538,24,2024-07-29,Software,Critical,Closed,Software license activation problem,29.00,Infrastructure
+686,608,409,2024-08-31,Hardware,Low,Closed,Help desk request for new account provisioning,2.49,Applications
+687,91,561,2026-01-25,Email,Low,Resolved,Shared drive permission issue,37.89,Security
+688,803,781,2025-11-02,Hardware,Medium,In Progress,Unable to access internal dashboard,46.89,Security
+689,938,412,2024-01-08,Printer,High,Resolved,Unable to access internal dashboard,62.92,IT Support
+690,601,136,2025-04-10,Network,Medium,In Progress,Help desk request for new account provisioning,40.17,Security
+691,622,915,2025-07-20,Network,Medium,Closed,Shared drive permission issue,47.89,Security
+692,312,623,2025-11-08,VPN,Critical,In Progress,Email not syncing to mobile device,3.66,Security
+693,472,524,2024-12-01,Database,Medium,Resolved,Laptop performance issue,71.75,Infrastructure
+694,363,708,2024-12-12,VPN,Low,Escalated,Software license activation problem,17.38,IT Support
+695,175,861,2026-02-23,Network,Low,Pending,Email not syncing to mobile device,45.70,Networking
+696,326,451,2026-02-25,Access,Medium,Closed,VPN connection fails intermittently,38.02,Data Team
+697,692,899,2025-09-09,Network,Medium,Closed,Database timeout during report run,19.33,Applications
+698,522,551,2025-01-11,Network,Low,Open,Database timeout during report run,5.07,Security
+699,668,942,2024-02-22,Hardware,High,In Progress,Email not syncing to mobile device,61.33,Infrastructure
+700,549,455,2025-02-14,Hardware,Medium,Escalated,Shared drive permission issue,43.52,Networking
+701,597,655,2024-02-08,VPN,High,Escalated,Help desk request for new account provisioning,32.42,IT Support
+702,238,655,2024-05-25,Account,High,Closed,Database timeout during report run,26.04,Data Team
+703,270,422,2024-10-25,VPN,Medium,Pending,Unable to access internal dashboard,65.92,Infrastructure
+704,791,434,2026-04-19,Printer,Critical,Open,VPN connection fails intermittently,31.39,Infrastructure
+705,327,492,2025-09-19,Network,High,Resolved,Laptop performance issue,62.61,Applications
+706,968,511,2025-08-19,Security,Medium,In Progress,Help desk request for new account provisioning,65.57,Networking
+707,679,450,2024-05-30,Network,Low,Escalated,Shared drive permission issue,55.84,Infrastructure
+708,39,140,2025-12-28,Database,High,Pending,Shared drive permission issue,26.83,Networking
+709,312,658,2025-11-08,Software,Critical,In Progress,Laptop performance issue,13.02,IT Support
+710,876,755,2025-01-19,Security,Low,Pending,Database timeout during report run,38.93,Data Team
+711,817,399,2025-03-19,Access,Critical,In Progress,Database timeout during report run,21.35,Security
+712,727,261,2025-04-27,Printer,Low,Open,Email not syncing to mobile device,53.63,Data Team
+713,558,291,2024-12-31,Hardware,Critical,Escalated,Database timeout during report run,53.46,Data Team
+714,435,66,2024-04-27,VPN,Low,Open,Password reset required,64.68,IT Support
+715,681,97,2025-06-09,Printer,Medium,Open,Database timeout during report run,64.22,IT Support
+716,807,782,2024-08-21,Account,High,Closed,Software license activation problem,28.14,IT Support
+717,605,262,2025-12-23,Email,Medium,Escalated,Software license activation problem,21.08,Networking
+718,606,830,2024-05-11,Software,Medium,Pending,Laptop performance issue,69.93,IT Support
+719,156,435,2026-04-11,Security,Critical,Closed,Unable to access internal dashboard,41.62,Networking
+720,394,725,2025-08-22,Software,Low,In Progress,Printer not reachable on floor network,27.46,Security
+721,615,765,2024-05-06,Printer,Critical,Escalated,Printer not reachable on floor network,68.61,IT Support
+722,321,765,2024-05-22,Printer,Critical,Pending,Password reset required,58.51,IT Support
+723,813,870,2024-05-17,Software,Low,Closed,Laptop performance issue,19.71,Data Team
+724,41,75,2025-07-11,Network,High,Escalated,Shared drive permission issue,16.28,Security
+725,367,633,2025-05-14,Access,Low,Escalated,Help desk request for new account provisioning,5.66,Infrastructure
+726,312,283,2025-10-12,Printer,Low,Pending,Unable to access internal dashboard,44.60,Infrastructure
+727,796,879,2024-09-08,Security,Low,Pending,Printer not reachable on floor network,65.42,Security
+728,144,890,2024-11-10,Printer,High,Open,Shared drive permission issue,27.94,Security
+729,132,389,2026-02-08,Network,Low,Resolved,Email not syncing to mobile device,53.06,Networking
+730,916,628,2025-01-25,Security,Medium,In Progress,Password reset required,35.25,Security
+731,872,902,2025-01-19,Account,High,Pending,Help desk request for new account provisioning,3.72,Infrastructure
+732,942,834,2026-03-22,Email,Medium,In Progress,Email not syncing to mobile device,25.04,Networking
+733,214,852,2026-01-09,Account,High,Closed,Database timeout during report run,63.06,Security
+734,145,185,2025-05-07,Email,Critical,In Progress,Help desk request for new account provisioning,0.56,Security
+735,247,980,2026-02-12,Network,Low,Pending,Database timeout during report run,27.52,Networking
+736,86,383,2025-12-13,VPN,Medium,In Progress,Password reset required,26.07,IT Support
+737,714,801,2024-09-23,Database,Medium,Resolved,Software license activation problem,42.66,Applications
+738,66,138,2024-08-06,Access,Medium,Resolved,Email not syncing to mobile device,20.91,Security
+739,667,446,2025-05-22,Printer,Low,In Progress,Unable to access internal dashboard,50.43,Applications
+740,53,62,2025-05-29,Hardware,High,Resolved,Software license activation problem,69.50,IT Support
+741,212,597,2024-11-15,Hardware,Medium,Open,Database timeout during report run,16.86,Security
+742,423,175,2025-07-01,Hardware,Critical,Open,Software license activation problem,57.59,IT Support
+743,468,100,2025-07-15,Access,High,Escalated,Shared drive permission issue,23.39,Applications
+744,339,780,2024-05-11,VPN,High,Escalated,Shared drive permission issue,47.10,IT Support
+745,885,439,2024-05-26,Database,High,In Progress,VPN connection fails intermittently,27.12,Applications
+746,724,761,2024-07-02,Network,Low,Open,Unable to access internal dashboard,13.71,IT Support
+747,982,515,2024-07-08,Printer,High,Closed,Email not syncing to mobile device,65.56,IT Support
+748,335,938,2025-11-22,Software,Low,Closed,VPN connection fails intermittently,7.35,Infrastructure
+749,414,419,2024-01-28,VPN,Low,Pending,VPN connection fails intermittently,18.81,Networking
+750,580,146,2025-08-25,Access,Low,Escalated,Printer not reachable on floor network,64.34,Infrastructure
+751,532,145,2026-01-27,Software,Low,In Progress,Database timeout during report run,3.17,Applications
+752,890,602,2024-08-25,Software,Low,In Progress,Unable to access internal dashboard,27.13,Infrastructure
+753,29,98,2025-11-01,Database,High,Open,VPN connection fails intermittently,54.71,Applications
+754,315,215,2025-07-01,Network,Medium,In Progress,Laptop performance issue,46.38,Applications
+755,530,388,2024-07-04,Hardware,High,In Progress,Laptop performance issue,52.91,Applications
+756,853,881,2024-12-09,Printer,High,Pending,Password reset required,15.99,Infrastructure
+757,410,306,2025-05-27,Account,High,Escalated,Unable to access internal dashboard,12.89,Data Team
+758,441,440,2025-06-08,Network,Medium,Closed,Unable to access internal dashboard,52.67,Data Team
+759,254,448,2024-12-31,VPN,High,Escalated,Laptop performance issue,20.29,Data Team
+760,653,641,2025-07-17,Security,Low,Escalated,Laptop performance issue,25.97,IT Support
+761,705,182,2024-12-08,Printer,Critical,Escalated,Email not syncing to mobile device,58.71,Data Team
+762,274,500,2024-03-08,Printer,Critical,Pending,Laptop performance issue,62.87,Data Team
+763,635,939,2024-03-03,Printer,Medium,Open,Database timeout during report run,34.30,Applications
+764,256,415,2024-08-12,Database,High,In Progress,Database timeout during report run,63.29,Applications
+765,404,445,2026-02-22,Security,High,Pending,Laptop performance issue,40.63,Networking
+766,717,949,2025-12-06,Printer,Low,Closed,Help desk request for new account provisioning,39.93,Applications
+767,256,158,2026-02-04,Account,Medium,Closed,Printer not reachable on floor network,35.81,Data Team
+768,305,106,2024-06-03,Security,Medium,In Progress,Software license activation problem,62.23,Networking
+769,974,202,2025-03-04,Email,Critical,Pending,Database timeout during report run,15.69,Networking
+770,421,562,2024-10-20,Security,Medium,Escalated,Laptop performance issue,48.32,IT Support
+771,804,104,2025-02-26,Printer,High,In Progress,Database timeout during report run,40.93,Data Team
+772,243,631,2025-10-16,Database,High,Resolved,VPN connection fails intermittently,30.19,Applications
+773,690,970,2024-08-17,Email,Low,Escalated,Shared drive permission issue,47.39,Networking
+774,91,30,2025-04-17,Network,Low,In Progress,Software license activation problem,9.85,IT Support
+775,708,171,2025-04-27,Access,Critical,Pending,Shared drive permission issue,44.37,Security
+776,926,729,2025-07-21,Access,Medium,In Progress,Printer not reachable on floor network,52.83,Data Team
+777,121,135,2024-07-31,Hardware,Critical,Escalated,Laptop performance issue,42.84,Applications
+778,792,453,2026-03-12,Printer,Low,Closed,Database timeout during report run,60.44,Networking
+779,852,649,2025-08-15,Software,Medium,Closed,Database timeout during report run,25.13,Security
+780,940,836,2024-07-29,Network,Medium,Escalated,Password reset required,53.99,Data Team
+781,603,646,2026-04-05,Account,Low,Escalated,Help desk request for new account provisioning,19.25,Networking
+782,684,113,2024-03-22,Software,High,Closed,Printer not reachable on floor network,51.88,Data Team
+783,91,636,2025-04-16,Printer,Medium,Closed,Unable to access internal dashboard,29.94,Data Team
+784,224,337,2024-08-17,Network,High,Open,VPN connection fails intermittently,68.85,IT Support
+785,359,805,2024-06-22,Database,Low,Escalated,Laptop performance issue,41.09,Applications
+786,600,35,2026-01-18,Hardware,Low,In Progress,Database timeout during report run,70.00,Infrastructure
+787,940,682,2025-05-02,Printer,High,Closed,Laptop performance issue,68.93,Applications
+788,814,103,2025-06-30,Account,Low,Resolved,Shared drive permission issue,57.50,Applications
+789,746,64,2024-03-31,Hardware,High,Escalated,Help desk request for new account provisioning,15.98,IT Support
+790,931,558,2024-09-14,Hardware,Low,Open,Database timeout during report run,41.85,Networking
+791,679,674,2025-08-27,Hardware,High,Open,Database timeout during report run,47.42,Infrastructure
+792,155,543,2024-02-09,Email,High,Escalated,Printer not reachable on floor network,66.70,Security
+793,34,766,2025-07-11,Hardware,High,Resolved,Unable to access internal dashboard,18.12,Infrastructure
+794,978,866,2024-05-04,Network,Medium,Closed,Email not syncing to mobile device,22.12,Applications
+795,62,215,2024-06-08,Security,Low,Escalated,Unable to access internal dashboard,50.22,Data Team
+796,99,498,2025-11-18,Database,Low,Resolved,Printer not reachable on floor network,4.70,Applications
+797,493,102,2026-03-17,Hardware,High,Open,Laptop performance issue,63.20,Networking
+798,597,699,2024-04-10,Account,Critical,Open,Password reset required,22.20,Security
+799,889,5,2025-11-16,Software,Critical,Resolved,Shared drive permission issue,57.91,IT Support
+800,95,123,2024-10-23,Software,High,Escalated,Database timeout during report run,23.17,Security
+801,77,792,2025-12-14,Database,Medium,Escalated,Software license activation problem,61.21,Applications
+802,390,302,2025-05-17,Printer,Low,Open,Laptop performance issue,40.12,IT Support
+803,941,653,2024-02-08,VPN,Medium,Open,Printer not reachable on floor network,9.23,Data Team
+804,174,256,2024-10-20,Software,Low,Pending,Unable to access internal dashboard,5.94,Infrastructure
+805,943,344,2024-03-25,Network,Medium,Escalated,Help desk request for new account provisioning,47.94,Networking
+806,398,69,2024-07-08,Printer,Medium,Pending,Email not syncing to mobile device,12.46,Applications
+807,776,672,2024-06-28,VPN,High,Open,Unable to access internal dashboard,10.43,Applications
+808,499,738,2024-10-16,Hardware,Critical,Escalated,Help desk request for new account provisioning,39.31,Networking
+809,283,534,2025-09-20,Email,Critical,Pending,Printer not reachable on floor network,28.42,Applications
+810,584,973,2025-06-02,Database,Medium,Open,Unable to access internal dashboard,26.90,Data Team
+811,718,749,2025-10-05,Security,Medium,Pending,Printer not reachable on floor network,15.39,Applications
+812,517,304,2026-03-07,Software,High,In Progress,Software license activation problem,46.13,IT Support
+813,160,400,2025-04-11,Printer,Low,Closed,Email not syncing to mobile device,29.46,IT Support
+814,392,895,2024-09-22,Access,Medium,Closed,Unable to access internal dashboard,6.43,Networking
+815,114,859,2024-10-08,Network,Low,Escalated,Shared drive permission issue,46.85,Security
+816,267,42,2024-07-03,Email,Medium,Open,Unable to access internal dashboard,0.75,Networking
+817,422,419,2026-04-12,Email,Medium,Closed,Database timeout during report run,71.16,IT Support
+818,139,550,2025-05-12,Software,Low,Escalated,Password reset required,14.24,Networking
+819,125,360,2024-04-23,Software,Low,In Progress,Shared drive permission issue,11.09,Infrastructure
+820,159,291,2025-07-23,Access,Medium,Escalated,Email not syncing to mobile device,62.44,Data Team
+821,367,621,2024-07-16,Database,Medium,Open,Unable to access internal dashboard,20.01,IT Support
+822,770,568,2026-01-13,Account,Medium,Open,Laptop performance issue,27.17,IT Support
+823,119,959,2025-12-22,Network,Medium,Open,Email not syncing to mobile device,14.39,Security
+824,169,785,2024-05-29,Email,Medium,Open,Printer not reachable on floor network,21.18,Networking
+825,959,681,2025-12-18,Security,Critical,Resolved,Unable to access internal dashboard,43.31,Security
+826,247,30,2025-06-20,Software,Critical,Open,VPN connection fails intermittently,2.20,Applications
+827,637,295,2024-04-14,Security,Medium,Open,Help desk request for new account provisioning,24.30,Infrastructure
+828,781,523,2026-03-16,Hardware,Critical,Pending,Database timeout during report run,34.07,Security
+829,466,295,2026-03-30,Software,Medium,In Progress,VPN connection fails intermittently,46.37,Networking
+830,949,625,2025-07-22,Network,Low,In Progress,Email not syncing to mobile device,36.09,Data Team
+831,728,992,2025-10-19,Access,High,In Progress,Software license activation problem,40.42,IT Support
+832,150,100,2025-11-14,Network,High,Resolved,Software license activation problem,18.42,Infrastructure
+833,738,413,2026-04-21,Database,Medium,Pending,Email not syncing to mobile device,40.01,Applications
+834,804,382,2025-05-19,Database,Medium,Closed,Unable to access internal dashboard,39.45,Applications
+835,590,917,2024-07-10,Access,High,Resolved,Printer not reachable on floor network,41.00,IT Support
+836,306,368,2025-12-07,Software,Medium,Resolved,Printer not reachable on floor network,1.56,IT Support
+837,50,398,2026-01-15,Security,Medium,In Progress,Laptop performance issue,32.84,Applications
+838,455,916,2025-01-15,Access,Low,Pending,Password reset required,32.26,IT Support
+839,429,680,2024-08-16,Email,Low,Resolved,Shared drive permission issue,4.69,Applications
+840,651,21,2024-08-13,Email,Medium,Escalated,Printer not reachable on floor network,44.54,Infrastructure
+841,628,870,2025-10-17,Printer,Medium,Pending,Software license activation problem,55.83,Security
+842,331,822,2024-07-03,Access,Medium,Closed,Password reset required,17.69,Infrastructure
+843,179,218,2024-09-13,Account,Medium,Open,Database timeout during report run,6.22,Networking
+844,316,114,2024-05-09,Security,Medium,Escalated,Help desk request for new account provisioning,8.22,Data Team
+845,323,470,2024-12-12,Account,High,Resolved,Unable to access internal dashboard,27.97,Security
+846,829,388,2025-07-30,Access,Low,In Progress,Email not syncing to mobile device,32.83,Infrastructure
+847,219,227,2026-02-20,Software,High,Pending,Help desk request for new account provisioning,21.31,Infrastructure
+848,869,85,2024-08-15,Security,High,In Progress,Shared drive permission issue,28.16,IT Support
+849,21,934,2024-10-13,Software,High,Escalated,Password reset required,65.19,Networking
+850,615,93,2025-09-24,VPN,Low,Escalated,Database timeout during report run,68.52,Data Team
+851,850,135,2024-05-22,Access,Medium,Escalated,Software license activation problem,39.22,Infrastructure
+852,368,701,2024-05-02,Network,Medium,Escalated,Printer not reachable on floor network,43.69,Security
+853,406,227,2024-01-06,Software,High,Open,Laptop performance issue,9.16,Infrastructure
+854,161,513,2025-08-23,Access,Medium,Pending,Unable to access internal dashboard,13.72,IT Support
+855,98,688,2025-03-04,Database,Low,Resolved,Laptop performance issue,46.47,Infrastructure
+856,634,232,2025-01-17,VPN,High,Open,Help desk request for new account provisioning,4.92,IT Support
+857,23,189,2025-10-23,Database,High,Escalated,VPN connection fails intermittently,27.44,Infrastructure
+858,386,733,2024-12-14,Account,High,Open,Shared drive permission issue,53.41,Applications
+859,317,3,2025-09-06,VPN,Medium,Resolved,Password reset required,16.72,Applications
+860,799,353,2026-03-23,Network,Low,In Progress,VPN connection fails intermittently,69.31,Networking
+861,480,477,2025-10-04,Email,High,Pending,Email not syncing to mobile device,27.44,Security
+862,295,858,2026-01-21,Network,Medium,Closed,VPN connection fails intermittently,44.47,Applications
+863,694,630,2024-07-19,Hardware,Critical,Closed,Software license activation problem,70.14,Security
+864,729,439,2025-03-06,Security,Low,In Progress,Software license activation problem,46.84,Security
+865,129,28,2024-03-09,Database,Low,Open,Email not syncing to mobile device,34.59,IT Support
+866,679,76,2025-02-20,Database,Low,In Progress,Laptop performance issue,5.45,IT Support
+867,490,642,2025-02-04,Email,High,Escalated,Unable to access internal dashboard,28.13,Security
+868,438,210,2025-10-09,Security,Medium,In Progress,Laptop performance issue,49.40,IT Support
+869,365,600,2025-07-06,Software,Low,In Progress,Printer not reachable on floor network,59.04,Data Team
+870,292,663,2026-01-07,Email,Medium,In Progress,Software license activation problem,6.49,Applications
+871,621,320,2024-06-04,Network,Low,Open,Laptop performance issue,32.93,Applications
+872,931,252,2026-03-02,Database,High,Resolved,Password reset required,62.97,Networking
+873,75,213,2025-12-15,Software,Medium,Pending,Help desk request for new account provisioning,47.60,Data Team
+874,390,628,2025-01-24,Network,Low,Escalated,Shared drive permission issue,51.52,IT Support
+875,675,568,2025-05-17,Network,High,Escalated,Printer not reachable on floor network,24.99,IT Support
+876,918,216,2024-12-15,Email,Low,Open,VPN connection fails intermittently,56.19,Networking
+877,835,398,2024-02-01,Security,Low,Escalated,Printer not reachable on floor network,21.44,Security
+878,887,813,2025-03-31,Network,High,Pending,VPN connection fails intermittently,58.09,Security
+879,287,324,2024-07-06,Security,Medium,In Progress,Software license activation problem,68.44,Applications
+880,402,322,2025-11-19,Printer,High,Escalated,Database timeout during report run,38.32,Data Team
+881,603,437,2024-10-27,Software,Low,Resolved,Database timeout during report run,51.13,IT Support
+882,315,417,2024-01-23,Software,Medium,Escalated,Help desk request for new account provisioning,9.77,Data Team
+883,335,393,2025-03-04,Email,Critical,Open,Password reset required,59.02,IT Support
+884,785,130,2025-03-07,VPN,High,Closed,Software license activation problem,13.32,Infrastructure
+885,328,720,2026-01-27,Access,High,Resolved,Laptop performance issue,18.90,Applications
+886,75,135,2024-05-21,Database,Low,Escalated,Email not syncing to mobile device,64.92,Infrastructure
+887,807,201,2024-05-30,Account,High,Escalated,Shared drive permission issue,70.85,Networking
+888,685,748,2025-12-17,Access,Medium,Pending,Software license activation problem,52.20,Security
+889,383,120,2024-05-20,Email,Medium,Closed,Unable to access internal dashboard,33.32,Infrastructure
+890,666,626,2024-08-23,Email,Low,Pending,Software license activation problem,40.22,Infrastructure
+891,249,198,2026-03-03,VPN,High,In Progress,Unable to access internal dashboard,66.74,Networking
+892,277,325,2025-12-21,Hardware,High,Escalated,Software license activation problem,29.11,Networking
+893,13,405,2025-03-31,Network,Medium,In Progress,Password reset required,61.18,Data Team
+894,206,5,2025-03-12,Hardware,Low,In Progress,Password reset required,2.44,IT Support
+895,693,531,2026-01-07,Account,Medium,Pending,Password reset required,28.22,Applications
+896,988,891,2026-03-02,Email,Medium,In Progress,Printer not reachable on floor network,61.21,Networking
+897,391,24,2025-08-13,Email,Low,Closed,Shared drive permission issue,43.78,Security
+898,758,654,2026-01-11,Hardware,High,Escalated,Unable to access internal dashboard,61.41,Networking
+899,260,622,2025-11-24,Account,High,Resolved,Password reset required,2.22,Applications
+900,287,582,2025-03-05,Access,Low,In Progress,Password reset required,19.20,Applications
+901,888,96,2026-02-20,Database,Critical,Pending,Unable to access internal dashboard,59.48,IT Support
+902,111,921,2024-03-20,Security,Medium,Open,Software license activation problem,25.17,Data Team
+903,708,917,2026-01-02,Access,Medium,Open,Laptop performance issue,68.54,Networking
+904,591,655,2025-06-05,Access,Medium,Closed,VPN connection fails intermittently,4.88,IT Support
+905,248,66,2024-10-05,Security,Medium,Resolved,Email not syncing to mobile device,5.92,Infrastructure
+906,196,535,2024-12-04,Hardware,Medium,Closed,Laptop performance issue,34.63,Security
+907,361,518,2024-11-23,Access,Low,Resolved,Unable to access internal dashboard,7.87,Security
+908,954,326,2025-06-12,Printer,Medium,Open,Software license activation problem,60.62,Security
+909,269,37,2025-07-16,Hardware,Critical,Resolved,Unable to access internal dashboard,11.57,Security
+910,934,673,2026-03-20,Hardware,Medium,Resolved,Shared drive permission issue,50.11,Networking
+911,210,496,2025-12-21,Hardware,Medium,Open,Email not syncing to mobile device,37.39,Security
+912,819,530,2025-03-10,Printer,Low,Resolved,Help desk request for new account provisioning,34.11,Security
+913,365,594,2025-03-25,Email,Medium,In Progress,Password reset required,30.09,Security
+914,737,329,2024-02-12,Access,Medium,Resolved,Laptop performance issue,27.31,Applications
+915,660,553,2024-12-31,Hardware,Medium,Escalated,Email not syncing to mobile device,31.94,Infrastructure
+916,379,253,2025-07-12,Security,Critical,In Progress,Help desk request for new account provisioning,47.41,Data Team
+917,290,164,2024-06-16,Printer,Medium,In Progress,VPN connection fails intermittently,33.97,Networking
+918,344,573,2025-05-08,Access,Low,Pending,Shared drive permission issue,58.73,Security
+919,562,497,2025-03-14,Database,High,Open,Laptop performance issue,0.96,Data Team
+920,210,162,2024-12-15,VPN,Low,Escalated,Printer not reachable on floor network,42.87,Networking
+921,262,325,2024-08-15,Hardware,High,Closed,Unable to access internal dashboard,12.27,Infrastructure
+922,380,967,2025-06-14,Account,Medium,In Progress,Unable to access internal dashboard,57.97,Security
+923,196,964,2026-04-17,Access,Medium,Resolved,Software license activation problem,9.44,Networking
+924,655,468,2024-01-09,Network,Medium,Closed,Password reset required,68.43,Security
+925,467,942,2025-04-25,Hardware,Low,Resolved,Database timeout during report run,10.52,Infrastructure
+926,751,493,2025-12-10,Email,Critical,In Progress,Unable to access internal dashboard,56.29,IT Support
+927,454,930,2024-01-09,Hardware,Low,Open,Password reset required,51.72,Applications
+928,199,303,2024-05-24,Account,Medium,Closed,Unable to access internal dashboard,25.44,Networking
+929,870,842,2025-05-10,VPN,Critical,Open,Help desk request for new account provisioning,60.15,Networking
+930,958,124,2025-03-13,Database,Medium,Escalated,VPN connection fails intermittently,27.40,Networking
+931,445,359,2025-09-16,Printer,Medium,Escalated,Printer not reachable on floor network,21.66,Data Team
+932,741,698,2025-09-16,Printer,Medium,In Progress,Laptop performance issue,21.06,Applications
+933,18,630,2024-01-17,Security,Low,Pending,Password reset required,71.03,Security
+934,730,374,2025-11-29,Network,High,Resolved,Laptop performance issue,68.94,Infrastructure
+935,858,91,2024-05-10,Database,Low,Pending,Laptop performance issue,70.86,Networking
+936,470,22,2024-01-14,Security,High,Escalated,Laptop performance issue,30.63,IT Support
+937,505,808,2024-12-08,Database,Low,Pending,Unable to access internal dashboard,53.78,IT Support
+938,71,407,2024-02-14,Software,Medium,Open,Shared drive permission issue,2.84,Security
+939,574,586,2024-12-23,Network,High,Escalated,Email not syncing to mobile device,43.25,Data Team
+940,226,327,2024-07-27,Account,Medium,Closed,Laptop performance issue,26.11,IT Support
+941,192,111,2025-09-06,Account,Medium,Escalated,Help desk request for new account provisioning,7.03,Applications
+942,249,994,2025-01-28,Email,Critical,Closed,Printer not reachable on floor network,61.49,Networking
+943,832,160,2024-09-02,Access,High,Open,Software license activation problem,50.03,Networking
+944,434,374,2025-02-21,Software,High,In Progress,Database timeout during report run,28.59,Applications
+945,879,911,2024-09-27,Database,Critical,Closed,Software license activation problem,48.39,Applications
+946,41,831,2024-01-03,Access,High,Closed,Password reset required,1.99,Security
+947,51,89,2025-11-11,Account,High,Escalated,Unable to access internal dashboard,23.35,Data Team
+948,573,785,2024-01-25,Security,Medium,In Progress,Software license activation problem,63.23,Security
+949,208,748,2025-10-29,Access,High,Closed,Laptop performance issue,71.17,Applications
+950,866,672,2025-03-06,Network,Medium,Closed,Laptop performance issue,58.55,IT Support
+951,59,740,2024-02-29,Access,Medium,Resolved,Help desk request for new account provisioning,42.59,IT Support
+952,455,534,2025-07-20,Hardware,High,Pending,Shared drive permission issue,69.65,Infrastructure
+953,660,972,2025-06-23,Network,Medium,Pending,VPN connection fails intermittently,24.46,Data Team
+954,185,640,2026-02-13,Access,High,In Progress,Unable to access internal dashboard,66.53,Networking
+955,649,455,2024-08-13,Printer,Medium,In Progress,Printer not reachable on floor network,28.66,Data Team
+956,26,525,2025-10-20,Hardware,Low,In Progress,Printer not reachable on floor network,37.67,Applications
+957,586,311,2026-02-18,VPN,High,Pending,Software license activation problem,61.05,Applications
+958,226,76,2026-01-05,Hardware,Low,Pending,Shared drive permission issue,68.20,Networking
+959,760,251,2026-03-09,Access,High,Escalated,Software license activation problem,66.99,Data Team
+960,634,516,2025-04-03,Account,Critical,Open,Shared drive permission issue,42.29,IT Support
+961,316,144,2026-02-03,Printer,High,Escalated,Printer not reachable on floor network,52.94,Applications
+962,30,776,2025-10-25,Hardware,Medium,Escalated,Printer not reachable on floor network,34.74,IT Support
+963,508,491,2025-06-05,Printer,High,In Progress,Shared drive permission issue,39.30,Infrastructure
+964,950,242,2025-02-22,Printer,Medium,Closed,Email not syncing to mobile device,2.26,Networking
+965,407,901,2025-11-01,Software,Medium,Escalated,Password reset required,42.84,Infrastructure
+966,443,446,2025-03-11,VPN,Medium,Closed,Shared drive permission issue,1.30,Networking
+967,200,459,2025-12-05,Printer,Low,Escalated,Email not syncing to mobile device,12.58,Data Team
+968,617,693,2025-10-18,Email,Critical,Open,Software license activation problem,21.34,Data Team
+969,828,326,2024-09-04,Database,Medium,In Progress,Email not syncing to mobile device,24.91,Security
+970,477,156,2025-05-06,Printer,Medium,Resolved,Software license activation problem,27.68,IT Support
+971,859,193,2025-07-16,Email,Medium,Closed,Shared drive permission issue,2.26,IT Support
+972,941,728,2024-03-15,Account,Low,Escalated,VPN connection fails intermittently,64.27,Security
+973,495,565,2024-12-03,Database,Low,Open,Password reset required,42.70,Applications
+974,360,821,2025-02-09,Hardware,Medium,Escalated,VPN connection fails intermittently,46.85,Applications
+975,439,41,2025-06-22,Access,High,Pending,Unable to access internal dashboard,0.81,Data Team
+976,269,277,2024-07-07,Database,High,In Progress,Shared drive permission issue,68.27,Data Team
+977,358,655,2025-05-18,VPN,Critical,Closed,Laptop performance issue,46.44,Infrastructure
+978,201,19,2025-08-26,Hardware,Low,In Progress,Email not syncing to mobile device,45.80,IT Support
+979,520,401,2025-10-21,Access,Medium,In Progress,Help desk request for new account provisioning,54.43,IT Support
+980,678,659,2025-02-15,Database,Medium,In Progress,Password reset required,16.73,Infrastructure
+981,620,216,2025-02-21,Hardware,High,Open,Printer not reachable on floor network,12.52,IT Support
+982,802,976,2024-01-14,VPN,High,Open,Password reset required,58.59,Infrastructure
+983,667,728,2025-01-29,Printer,Low,Closed,Help desk request for new account provisioning,32.76,Infrastructure
+984,968,812,2025-04-25,Account,Critical,Closed,Email not syncing to mobile device,35.88,Networking
+985,827,658,2024-04-04,Account,Medium,Closed,Help desk request for new account provisioning,26.77,Security
+986,796,931,2025-11-25,VPN,Medium,Closed,Printer not reachable on floor network,39.31,Security
+987,214,371,2026-03-18,Account,Medium,Pending,Laptop performance issue,18.69,Networking
+988,288,390,2024-03-08,Printer,High,Resolved,Printer not reachable on floor network,25.81,Data Team
+989,683,766,2024-07-22,Account,Medium,Pending,Shared drive permission issue,53.51,Infrastructure
+990,963,950,2025-11-08,Security,High,Escalated,Password reset required,61.61,Security
+991,445,402,2024-08-09,Account,Medium,In Progress,Password reset required,2.59,Networking
+992,472,485,2026-04-10,Security,Medium,Open,Shared drive permission issue,64.93,Applications
+993,163,792,2024-09-06,Printer,High,Resolved,Shared drive permission issue,16.12,Networking
+994,308,250,2024-09-14,Printer,Critical,Closed,Email not syncing to mobile device,62.46,IT Support
+995,25,782,2024-12-30,Account,Medium,Open,Email not syncing to mobile device,71.61,IT Support
+996,180,545,2025-09-02,Account,Medium,In Progress,Unable to access internal dashboard,4.16,Infrastructure
+997,177,940,2024-10-14,Database,High,Resolved,Unable to access internal dashboard,50.33,Security
+998,937,757,2024-08-20,VPN,Critical,Resolved,Email not syncing to mobile device,19.78,Applications
+999,644,993,2025-11-13,Access,Medium,Open,VPN connection fails intermittently,30.65,Applications
+1000,360,113,2025-07-26,Security,Low,In Progress,Unable to access internal dashboard,21.94,Applications

@@ -1,0 +1,1001 @@
+submission_id,employee_id,department_id,tool_id,submission_date,use_case_title,description,estimated_hours_saved_per_month,status,manager_rating
+1,300,832,408,2026-04-28,Dealer email summarization #1,Idea focuses on improving team productivity and response time through AI assistance.,53,Implemented,5
+2,645,666,451,2025-03-14,Schema recommendation workflow #2,Employee described how AI helped reduce repetitive manual work in the department.,20,Approved,5
+3,772,811,115,2026-01-09,Knowledge base search assistant #3,Idea focuses on improving team productivity and response time through AI assistance.,54,Implemented,3
+4,146,935,249,2026-03-25,Service scheduling recommendations #4,Submission explains a workflow improvement using AI for summarization and faster decision making.,35,Submitted,3
+5,658,711,76,2025-04-14,Service scheduling recommendations #5,Submission explains a workflow improvement using AI for summarization and faster decision making.,98,Approved,3
+6,303,706,456,2024-12-04,Dashboard insight narration #6,Idea focuses on improving team productivity and response time through AI assistance.,74,Approved,5
+7,37,780,144,2024-05-31,Warranty claim categorization #7,Employee described how AI helped reduce repetitive manual work in the department.,30,Approved,5
+8,372,731,299,2024-11-10,Knowledge base search assistant #8,Idea focuses on improving team productivity and response time through AI assistance.,62,Implemented,4
+9,690,302,159,2026-01-31,Support ticket triage #9,Submission explains a workflow improvement using AI for summarization and faster decision making.,79,Approved,4
+10,264,653,234,2024-01-29,Forecast commentary generator #10,Idea focuses on improving team productivity and response time through AI assistance.,20,Pilot,1
+11,266,373,739,2025-06-04,Product description draft generation #11,Use case captures an internal business process where AI may save time or improve accuracy.,81,Under Review,3
+12,660,160,602,2025-05-28,Meeting note summarization #12,Idea focuses on improving team productivity and response time through AI assistance.,50,Rejected,2
+13,892,538,494,2024-06-28,Service scheduling recommendations #13,Use case captures an internal business process where AI may save time or improve accuracy.,3,Implemented,1
+14,351,231,317,2024-07-30,Sales lead scoring support #14,Submission explains a workflow improvement using AI for summarization and faster decision making.,37,Pilot,1
+15,666,202,366,2025-05-25,Dashboard insight narration #15,Employee described how AI helped reduce repetitive manual work in the department.,109,Implemented,5
+16,920,234,760,2024-07-26,Customer sentiment tagging #16,Employee described how AI helped reduce repetitive manual work in the department.,53,Implemented,1
+17,975,338,520,2024-03-09,Inventory trend summary #17,Employee described how AI helped reduce repetitive manual work in the department.,104,Submitted,4
+18,581,536,254,2024-09-07,Inventory trend summary #18,Submission explains a workflow improvement using AI for summarization and faster decision making.,90,Implemented,2
+19,234,707,735,2025-04-12,Knowledge base search assistant #19,Employee described how AI helped reduce repetitive manual work in the department.,79,Approved,5
+20,285,94,761,2024-07-13,SEO content suggestions #20,Submission explains a workflow improvement using AI for summarization and faster decision making.,68,Approved,1
+21,213,234,250,2025-08-22,Service scheduling recommendations #21,Use case captures an internal business process where AI may save time or improve accuracy.,14,Pilot,1
+22,327,809,650,2024-03-15,Forecast commentary generator #22,Use case captures an internal business process where AI may save time or improve accuracy.,16,Rejected,1
+23,488,203,103,2025-07-09,Forecast commentary generator #23,Use case captures an internal business process where AI may save time or improve accuracy.,40,Pilot,1
+24,596,441,882,2024-04-24,Dashboard insight narration #24,Submission explains a workflow improvement using AI for summarization and faster decision making.,77,Implemented,5
+25,774,468,1,2024-09-14,Internal policy Q&A assistant #25,Idea focuses on improving team productivity and response time through AI assistance.,65,Implemented,2
+26,337,520,495,2025-06-10,Warranty claim categorization #26,Idea focuses on improving team productivity and response time through AI assistance.,35,Pilot,2
+27,350,282,695,2025-07-28,Warranty claim categorization #27,Use case captures an internal business process where AI may save time or improve accuracy.,16,Under Review,4
+28,7,327,915,2025-06-05,Service scheduling recommendations #28,Use case captures an internal business process where AI may save time or improve accuracy.,22,Under Review,1
+29,779,443,690,2024-11-07,Schema recommendation workflow #29,Use case captures an internal business process where AI may save time or improve accuracy.,45,Implemented,5
+30,843,188,199,2026-03-08,Schema recommendation workflow #30,Submission explains a workflow improvement using AI for summarization and faster decision making.,29,Approved,5
+31,313,328,785,2025-06-27,Service scheduling recommendations #31,Employee described how AI helped reduce repetitive manual work in the department.,89,Approved,5
+32,216,585,689,2024-06-07,Meeting note summarization #32,Submission explains a workflow improvement using AI for summarization and faster decision making.,26,Rejected,2
+33,873,162,625,2025-11-09,Knowledge base search assistant #33,Idea focuses on improving team productivity and response time through AI assistance.,68,Rejected,5
+34,808,427,799,2026-01-13,Inventory trend summary #34,Submission explains a workflow improvement using AI for summarization and faster decision making.,35,Rejected,3
+35,380,149,314,2024-12-07,Customer sentiment tagging #35,Idea focuses on improving team productivity and response time through AI assistance.,59,Approved,4
+36,577,403,781,2025-03-03,Automated FAQ drafting #36,Use case captures an internal business process where AI may save time or improve accuracy.,9,Rejected,3
+37,662,825,144,2025-04-12,Inventory trend summary #37,Employee described how AI helped reduce repetitive manual work in the department.,106,Implemented,2
+38,214,678,734,2024-09-19,Warranty claim categorization #38,Idea focuses on improving team productivity and response time through AI assistance.,5,Approved,4
+39,810,392,334,2025-07-25,Forecast commentary generator #39,Submission explains a workflow improvement using AI for summarization and faster decision making.,81,Pilot,4
+40,877,281,110,2024-03-17,Sales lead scoring support #40,Submission explains a workflow improvement using AI for summarization and faster decision making.,43,Implemented,4
+41,965,739,608,2025-04-26,Dealer email summarization #41,Use case captures an internal business process where AI may save time or improve accuracy.,90,Implemented,4
+42,256,287,622,2025-08-23,Product description draft generation #42,Employee described how AI helped reduce repetitive manual work in the department.,14,Submitted,3
+43,283,551,379,2025-03-24,Warranty claim categorization #43,Employee described how AI helped reduce repetitive manual work in the department.,62,Under Review,1
+44,333,794,751,2025-02-27,Support ticket triage #44,Submission explains a workflow improvement using AI for summarization and faster decision making.,77,Approved,5
+45,205,576,91,2025-03-24,Sales lead scoring support #45,Idea focuses on improving team productivity and response time through AI assistance.,75,Pilot,3
+46,571,544,837,2024-10-25,Automated FAQ drafting #46,Submission explains a workflow improvement using AI for summarization and faster decision making.,100,Submitted,3
+47,981,874,370,2026-03-02,Dashboard insight narration #47,Submission explains a workflow improvement using AI for summarization and faster decision making.,25,Approved,4
+48,234,472,371,2024-12-07,Forecast commentary generator #48,Idea focuses on improving team productivity and response time through AI assistance.,34,Pilot,1
+49,144,123,658,2025-02-24,Internal policy Q&A assistant #49,Use case captures an internal business process where AI may save time or improve accuracy.,105,Rejected,1
+50,852,542,62,2025-06-08,Customer sentiment tagging #50,Employee described how AI helped reduce repetitive manual work in the department.,74,Rejected,1
+51,983,517,895,2026-03-28,Meeting note summarization #51,Use case captures an internal business process where AI may save time or improve accuracy.,38,Pilot,3
+52,650,69,753,2024-03-18,SEO content suggestions #52,Employee described how AI helped reduce repetitive manual work in the department.,70,Under Review,5
+53,867,872,90,2025-08-10,Dashboard insight narration #53,Submission explains a workflow improvement using AI for summarization and faster decision making.,98,Submitted,4
+54,838,284,477,2025-04-07,Support ticket triage #54,Idea focuses on improving team productivity and response time through AI assistance.,11,Under Review,5
+55,348,465,541,2026-03-10,Internal policy Q&A assistant #55,Employee described how AI helped reduce repetitive manual work in the department.,53,Pilot,3
+56,7,639,849,2025-02-03,Automated FAQ drafting #56,Employee described how AI helped reduce repetitive manual work in the department.,30,Approved,4
+57,155,266,877,2024-08-16,Meeting note summarization #57,Use case captures an internal business process where AI may save time or improve accuracy.,85,Implemented,2
+58,789,842,589,2024-12-29,Support ticket triage #58,Submission explains a workflow improvement using AI for summarization and faster decision making.,100,Under Review,2
+59,316,186,104,2024-01-27,Dealer email summarization #59,Submission explains a workflow improvement using AI for summarization and faster decision making.,71,Approved,1
+60,336,892,323,2024-08-23,Forecast commentary generator #60,Submission explains a workflow improvement using AI for summarization and faster decision making.,40,Under Review,4
+61,278,239,959,2024-08-10,Customer sentiment tagging #61,Employee described how AI helped reduce repetitive manual work in the department.,19,Rejected,1
+62,855,971,385,2024-01-27,Dashboard insight narration #62,Submission explains a workflow improvement using AI for summarization and faster decision making.,50,Submitted,4
+63,450,409,204,2024-07-29,Product description draft generation #63,Employee described how AI helped reduce repetitive manual work in the department.,13,Under Review,5
+64,936,593,742,2025-06-12,Schema recommendation workflow #64,Submission explains a workflow improvement using AI for summarization and faster decision making.,98,Under Review,1
+65,964,501,759,2025-09-11,Customer sentiment tagging #65,Idea focuses on improving team productivity and response time through AI assistance.,55,Under Review,2
+66,93,819,520,2025-01-03,Service scheduling recommendations #66,Idea focuses on improving team productivity and response time through AI assistance.,67,Submitted,4
+67,17,8,390,2026-04-02,Internal policy Q&A assistant #67,Use case captures an internal business process where AI may save time or improve accuracy.,111,Submitted,3
+68,370,969,318,2024-03-07,Internal policy Q&A assistant #68,Idea focuses on improving team productivity and response time through AI assistance.,31,Implemented,1
+69,667,660,830,2025-02-03,Service scheduling recommendations #69,Employee described how AI helped reduce repetitive manual work in the department.,37,Implemented,3
+70,47,145,868,2024-09-11,Knowledge base search assistant #70,Employee described how AI helped reduce repetitive manual work in the department.,18,Pilot,2
+71,144,712,482,2026-02-19,Dealer email summarization #71,Employee described how AI helped reduce repetitive manual work in the department.,78,Under Review,3
+72,381,633,425,2026-04-23,Knowledge base search assistant #72,Use case captures an internal business process where AI may save time or improve accuracy.,24,Under Review,5
+73,989,156,760,2026-04-08,Knowledge base search assistant #73,Idea focuses on improving team productivity and response time through AI assistance.,114,Submitted,2
+74,31,510,209,2024-11-09,Product description draft generation #74,Idea focuses on improving team productivity and response time through AI assistance.,118,Approved,5
+75,329,30,803,2024-01-27,Meeting note summarization #75,Employee described how AI helped reduce repetitive manual work in the department.,115,Rejected,1
+76,753,893,148,2025-02-21,Dealer email summarization #76,Use case captures an internal business process where AI may save time or improve accuracy.,99,Pilot,5
+77,174,162,103,2024-01-16,Customer sentiment tagging #77,Submission explains a workflow improvement using AI for summarization and faster decision making.,13,Rejected,1
+78,116,992,488,2025-04-20,Internal policy Q&A assistant #78,Use case captures an internal business process where AI may save time or improve accuracy.,19,Pilot,1
+79,319,488,481,2024-09-20,Support ticket triage #79,Idea focuses on improving team productivity and response time through AI assistance.,86,Pilot,3
+80,980,629,685,2026-01-03,Schema recommendation workflow #80,Use case captures an internal business process where AI may save time or improve accuracy.,65,Implemented,5
+81,201,129,225,2025-06-11,Support ticket triage #81,Submission explains a workflow improvement using AI for summarization and faster decision making.,30,Implemented,1
+82,762,98,735,2025-02-17,Warranty claim categorization #82,Employee described how AI helped reduce repetitive manual work in the department.,33,Under Review,3
+83,190,748,676,2024-11-04,Meeting note summarization #83,Use case captures an internal business process where AI may save time or improve accuracy.,87,Pilot,5
+84,530,592,905,2024-09-30,Support ticket triage #84,Idea focuses on improving team productivity and response time through AI assistance.,56,Approved,2
+85,594,755,958,2024-02-05,Product description draft generation #85,Employee described how AI helped reduce repetitive manual work in the department.,103,Under Review,2
+86,15,147,650,2024-02-04,Sales lead scoring support #86,Submission explains a workflow improvement using AI for summarization and faster decision making.,52,Approved,1
+87,586,493,496,2024-12-18,Forecast commentary generator #87,Use case captures an internal business process where AI may save time or improve accuracy.,59,Under Review,4
+88,637,270,559,2025-03-26,Schema recommendation workflow #88,Idea focuses on improving team productivity and response time through AI assistance.,85,Pilot,3
+89,346,914,191,2024-09-18,Meeting note summarization #89,Use case captures an internal business process where AI may save time or improve accuracy.,100,Pilot,4
+90,680,99,685,2024-12-16,Inventory trend summary #90,Employee described how AI helped reduce repetitive manual work in the department.,102,Approved,4
+91,658,27,988,2025-07-10,Support ticket triage #91,Employee described how AI helped reduce repetitive manual work in the department.,31,Rejected,1
+92,124,564,730,2024-10-29,Support ticket triage #92,Idea focuses on improving team productivity and response time through AI assistance.,41,Rejected,4
+93,567,963,85,2025-05-31,Knowledge base search assistant #93,Use case captures an internal business process where AI may save time or improve accuracy.,106,Pilot,2
+94,146,861,697,2024-08-15,Automated FAQ drafting #94,Submission explains a workflow improvement using AI for summarization and faster decision making.,95,Implemented,3
+95,539,616,799,2024-06-04,Dealer email summarization #95,Idea focuses on improving team productivity and response time through AI assistance.,71,Under Review,5
+96,171,384,163,2024-04-12,Knowledge base search assistant #96,Submission explains a workflow improvement using AI for summarization and faster decision making.,109,Implemented,2
+97,554,965,979,2025-09-16,Internal policy Q&A assistant #97,Submission explains a workflow improvement using AI for summarization and faster decision making.,37,Submitted,4
+98,304,400,923,2025-06-18,Internal policy Q&A assistant #98,Use case captures an internal business process where AI may save time or improve accuracy.,61,Approved,2
+99,739,961,308,2024-01-01,SEO content suggestions #99,Idea focuses on improving team productivity and response time through AI assistance.,92,Pilot,3
+100,214,946,752,2025-09-19,SEO content suggestions #100,Employee described how AI helped reduce repetitive manual work in the department.,98,Rejected,2
+101,148,493,843,2024-06-13,Sales lead scoring support #101,Use case captures an internal business process where AI may save time or improve accuracy.,102,Under Review,4
+102,401,606,199,2024-09-11,Customer sentiment tagging #102,Employee described how AI helped reduce repetitive manual work in the department.,30,Approved,2
+103,915,412,127,2026-01-13,Support ticket triage #103,Submission explains a workflow improvement using AI for summarization and faster decision making.,58,Under Review,3
+104,779,336,12,2025-10-14,Schema recommendation workflow #104,Idea focuses on improving team productivity and response time through AI assistance.,69,Submitted,5
+105,483,238,677,2025-03-24,Warranty claim categorization #105,Employee described how AI helped reduce repetitive manual work in the department.,71,Implemented,5
+106,466,158,73,2026-02-11,Meeting note summarization #106,Idea focuses on improving team productivity and response time through AI assistance.,7,Rejected,3
+107,116,642,478,2025-03-12,Knowledge base search assistant #107,Use case captures an internal business process where AI may save time or improve accuracy.,99,Approved,2
+108,536,106,91,2026-01-19,Customer sentiment tagging #108,Submission explains a workflow improvement using AI for summarization and faster decision making.,113,Implemented,4
+109,857,719,987,2025-03-18,Internal policy Q&A assistant #109,Employee described how AI helped reduce repetitive manual work in the department.,83,Submitted,3
+110,863,742,751,2024-10-09,Inventory trend summary #110,Idea focuses on improving team productivity and response time through AI assistance.,55,Implemented,3
+111,366,86,14,2024-04-13,Service scheduling recommendations #111,Submission explains a workflow improvement using AI for summarization and faster decision making.,76,Rejected,2
+112,606,445,682,2024-09-29,Schema recommendation workflow #112,Use case captures an internal business process where AI may save time or improve accuracy.,73,Pilot,5
+113,385,622,532,2025-11-14,Product description draft generation #113,Employee described how AI helped reduce repetitive manual work in the department.,79,Submitted,5
+114,859,813,659,2024-04-10,Schema recommendation workflow #114,Employee described how AI helped reduce repetitive manual work in the department.,99,Under Review,3
+115,595,689,727,2025-09-10,Internal policy Q&A assistant #115,Use case captures an internal business process where AI may save time or improve accuracy.,93,Implemented,1
+116,356,663,808,2025-03-26,Dashboard insight narration #116,Employee described how AI helped reduce repetitive manual work in the department.,53,Implemented,4
+117,686,930,27,2024-08-09,Knowledge base search assistant #117,Employee described how AI helped reduce repetitive manual work in the department.,82,Approved,1
+118,300,943,423,2026-04-01,Automated FAQ drafting #118,Use case captures an internal business process where AI may save time or improve accuracy.,110,Approved,3
+119,839,700,353,2024-12-26,Sales lead scoring support #119,Idea focuses on improving team productivity and response time through AI assistance.,59,Submitted,3
+120,470,716,651,2024-09-26,Knowledge base search assistant #120,Submission explains a workflow improvement using AI for summarization and faster decision making.,73,Pilot,3
+121,759,411,772,2024-12-22,Knowledge base search assistant #121,Use case captures an internal business process where AI may save time or improve accuracy.,111,Submitted,3
+122,361,632,552,2026-01-27,Sales lead scoring support #122,Idea focuses on improving team productivity and response time through AI assistance.,108,Approved,1
+123,937,740,93,2025-10-16,Product description draft generation #123,Idea focuses on improving team productivity and response time through AI assistance.,81,Rejected,2
+124,775,392,208,2024-09-28,Service scheduling recommendations #124,Idea focuses on improving team productivity and response time through AI assistance.,45,Rejected,3
+125,773,164,983,2024-06-21,Meeting note summarization #125,Employee described how AI helped reduce repetitive manual work in the department.,16,Under Review,5
+126,318,931,519,2025-12-18,Warranty claim categorization #126,Submission explains a workflow improvement using AI for summarization and faster decision making.,52,Pilot,1
+127,204,96,93,2025-12-29,Product description draft generation #127,Idea focuses on improving team productivity and response time through AI assistance.,20,Implemented,3
+128,546,363,407,2024-05-16,Product description draft generation #128,Employee described how AI helped reduce repetitive manual work in the department.,110,Implemented,3
+129,629,584,995,2024-03-25,Meeting note summarization #129,Submission explains a workflow improvement using AI for summarization and faster decision making.,58,Submitted,2
+130,562,159,684,2024-10-07,Automated FAQ drafting #130,Use case captures an internal business process where AI may save time or improve accuracy.,30,Implemented,2
+131,252,897,232,2025-03-26,Forecast commentary generator #131,Submission explains a workflow improvement using AI for summarization and faster decision making.,3,Approved,2
+132,988,22,879,2025-09-18,Service scheduling recommendations #132,Use case captures an internal business process where AI may save time or improve accuracy.,55,Pilot,5
+133,582,197,423,2024-07-09,Product description draft generation #133,Use case captures an internal business process where AI may save time or improve accuracy.,97,Approved,3
+134,823,821,270,2025-03-17,Customer sentiment tagging #134,Idea focuses on improving team productivity and response time through AI assistance.,117,Under Review,3
+135,554,366,79,2025-12-10,Support ticket triage #135,Idea focuses on improving team productivity and response time through AI assistance.,112,Implemented,2
+136,815,552,593,2024-05-11,Schema recommendation workflow #136,Use case captures an internal business process where AI may save time or improve accuracy.,70,Approved,1
+137,827,847,619,2024-08-21,Customer sentiment tagging #137,Submission explains a workflow improvement using AI for summarization and faster decision making.,61,Approved,5
+138,857,55,472,2025-09-25,Dashboard insight narration #138,Use case captures an internal business process where AI may save time or improve accuracy.,77,Rejected,1
+139,977,176,23,2025-07-27,Dashboard insight narration #139,Employee described how AI helped reduce repetitive manual work in the department.,116,Approved,4
+140,889,724,152,2024-03-06,Customer sentiment tagging #140,Employee described how AI helped reduce repetitive manual work in the department.,94,Approved,5
+141,259,971,919,2026-01-15,Automated FAQ drafting #141,Use case captures an internal business process where AI may save time or improve accuracy.,57,Implemented,2
+142,406,221,678,2025-04-07,Warranty claim categorization #142,Idea focuses on improving team productivity and response time through AI assistance.,44,Under Review,5
+143,818,897,521,2025-02-20,Support ticket triage #143,Idea focuses on improving team productivity and response time through AI assistance.,112,Submitted,5
+144,55,730,773,2025-01-01,Schema recommendation workflow #144,Employee described how AI helped reduce repetitive manual work in the department.,80,Submitted,5
+145,424,748,166,2026-01-20,Forecast commentary generator #145,Submission explains a workflow improvement using AI for summarization and faster decision making.,78,Under Review,2
+146,31,665,952,2025-05-21,Schema recommendation workflow #146,Idea focuses on improving team productivity and response time through AI assistance.,13,Submitted,4
+147,588,718,972,2025-12-02,Product description draft generation #147,Use case captures an internal business process where AI may save time or improve accuracy.,50,Implemented,4
+148,142,868,352,2024-07-06,Schema recommendation workflow #148,Idea focuses on improving team productivity and response time through AI assistance.,47,Under Review,4
+149,901,259,512,2024-04-02,Knowledge base search assistant #149,Idea focuses on improving team productivity and response time through AI assistance.,53,Under Review,2
+150,360,663,649,2024-03-24,Meeting note summarization #150,Use case captures an internal business process where AI may save time or improve accuracy.,98,Submitted,5
+151,264,21,901,2025-09-12,Dealer email summarization #151,Employee described how AI helped reduce repetitive manual work in the department.,89,Approved,1
+152,173,2,987,2025-06-25,Automated FAQ drafting #152,Employee described how AI helped reduce repetitive manual work in the department.,43,Rejected,3
+153,29,820,927,2025-08-04,Customer sentiment tagging #153,Employee described how AI helped reduce repetitive manual work in the department.,24,Under Review,5
+154,511,187,549,2024-08-11,Customer sentiment tagging #154,Employee described how AI helped reduce repetitive manual work in the department.,113,Implemented,2
+155,615,384,588,2024-06-30,Dashboard insight narration #155,Submission explains a workflow improvement using AI for summarization and faster decision making.,66,Under Review,4
+156,32,638,40,2025-07-04,Schema recommendation workflow #156,Idea focuses on improving team productivity and response time through AI assistance.,39,Submitted,3
+157,700,185,605,2025-06-14,Knowledge base search assistant #157,Employee described how AI helped reduce repetitive manual work in the department.,65,Under Review,5
+158,159,628,943,2024-12-11,Dashboard insight narration #158,Use case captures an internal business process where AI may save time or improve accuracy.,102,Rejected,1
+159,685,568,68,2024-12-12,Sales lead scoring support #159,Idea focuses on improving team productivity and response time through AI assistance.,20,Under Review,4
+160,193,814,414,2024-02-12,Customer sentiment tagging #160,Employee described how AI helped reduce repetitive manual work in the department.,119,Rejected,5
+161,102,869,533,2024-04-03,Meeting note summarization #161,Use case captures an internal business process where AI may save time or improve accuracy.,98,Pilot,2
+162,290,329,139,2025-04-03,Forecast commentary generator #162,Idea focuses on improving team productivity and response time through AI assistance.,82,Rejected,4
+163,446,387,85,2025-05-17,Automated FAQ drafting #163,Use case captures an internal business process where AI may save time or improve accuracy.,15,Approved,5
+164,496,625,399,2024-11-09,Service scheduling recommendations #164,Idea focuses on improving team productivity and response time through AI assistance.,100,Implemented,1
+165,541,852,43,2024-07-11,SEO content suggestions #165,Idea focuses on improving team productivity and response time through AI assistance.,116,Pilot,5
+166,556,178,657,2024-11-17,Dealer email summarization #166,Employee described how AI helped reduce repetitive manual work in the department.,8,Approved,4
+167,193,361,988,2025-07-04,Dealer email summarization #167,Use case captures an internal business process where AI may save time or improve accuracy.,96,Pilot,5
+168,870,183,521,2025-01-14,Dealer email summarization #168,Submission explains a workflow improvement using AI for summarization and faster decision making.,14,Rejected,2
+169,914,227,730,2024-11-23,SEO content suggestions #169,Submission explains a workflow improvement using AI for summarization and faster decision making.,65,Under Review,5
+170,656,628,16,2024-02-16,Product description draft generation #170,Submission explains a workflow improvement using AI for summarization and faster decision making.,117,Implemented,1
+171,947,298,5,2024-09-03,Meeting note summarization #171,Submission explains a workflow improvement using AI for summarization and faster decision making.,51,Under Review,3
+172,940,858,412,2024-02-15,Support ticket triage #172,Submission explains a workflow improvement using AI for summarization and faster decision making.,78,Under Review,5
+173,685,265,904,2025-03-08,Warranty claim categorization #173,Submission explains a workflow improvement using AI for summarization and faster decision making.,114,Implemented,3
+174,420,707,11,2025-03-01,Internal policy Q&A assistant #174,Use case captures an internal business process where AI may save time or improve accuracy.,37,Under Review,4
+175,260,615,11,2025-10-03,Product description draft generation #175,Employee described how AI helped reduce repetitive manual work in the department.,91,Rejected,2
+176,679,707,229,2024-03-13,Schema recommendation workflow #176,Employee described how AI helped reduce repetitive manual work in the department.,22,Rejected,1
+177,188,550,336,2024-06-20,Inventory trend summary #177,Use case captures an internal business process where AI may save time or improve accuracy.,38,Pilot,3
+178,292,877,584,2024-09-24,Schema recommendation workflow #178,Employee described how AI helped reduce repetitive manual work in the department.,52,Under Review,1
+179,569,867,510,2024-07-24,Support ticket triage #179,Employee described how AI helped reduce repetitive manual work in the department.,62,Rejected,1
+180,115,235,39,2025-02-01,Knowledge base search assistant #180,Employee described how AI helped reduce repetitive manual work in the department.,99,Implemented,1
+181,248,447,631,2025-01-14,Dashboard insight narration #181,Submission explains a workflow improvement using AI for summarization and faster decision making.,58,Pilot,1
+182,679,957,516,2026-02-24,Forecast commentary generator #182,Submission explains a workflow improvement using AI for summarization and faster decision making.,94,Approved,1
+183,583,15,972,2024-06-05,Meeting note summarization #183,Idea focuses on improving team productivity and response time through AI assistance.,119,Under Review,3
+184,474,206,924,2025-10-21,Dealer email summarization #184,Use case captures an internal business process where AI may save time or improve accuracy.,50,Under Review,3
+185,518,66,231,2024-07-07,Forecast commentary generator #185,Idea focuses on improving team productivity and response time through AI assistance.,86,Implemented,4
+186,26,893,452,2024-03-12,Sales lead scoring support #186,Idea focuses on improving team productivity and response time through AI assistance.,73,Under Review,2
+187,561,988,326,2024-02-28,Schema recommendation workflow #187,Employee described how AI helped reduce repetitive manual work in the department.,54,Pilot,5
+188,18,634,738,2024-06-22,Meeting note summarization #188,Idea focuses on improving team productivity and response time through AI assistance.,6,Under Review,1
+189,701,240,7,2025-01-25,Automated FAQ drafting #189,Employee described how AI helped reduce repetitive manual work in the department.,106,Rejected,5
+190,123,878,230,2026-02-19,Dealer email summarization #190,Employee described how AI helped reduce repetitive manual work in the department.,4,Implemented,4
+191,960,586,661,2025-01-30,Warranty claim categorization #191,Use case captures an internal business process where AI may save time or improve accuracy.,59,Implemented,2
+192,700,503,628,2024-09-13,Customer sentiment tagging #192,Use case captures an internal business process where AI may save time or improve accuracy.,63,Under Review,4
+193,550,901,369,2024-08-17,Support ticket triage #193,Idea focuses on improving team productivity and response time through AI assistance.,83,Implemented,2
+194,987,991,398,2024-09-20,Knowledge base search assistant #194,Idea focuses on improving team productivity and response time through AI assistance.,96,Submitted,4
+195,825,308,148,2024-02-13,Dashboard insight narration #195,Use case captures an internal business process where AI may save time or improve accuracy.,92,Pilot,2
+196,412,129,861,2025-10-03,Customer sentiment tagging #196,Submission explains a workflow improvement using AI for summarization and faster decision making.,53,Rejected,4
+197,472,752,464,2025-03-30,Product description draft generation #197,Use case captures an internal business process where AI may save time or improve accuracy.,48,Approved,3
+198,682,409,137,2026-01-10,Forecast commentary generator #198,Submission explains a workflow improvement using AI for summarization and faster decision making.,29,Implemented,2
+199,583,200,971,2026-01-16,Customer sentiment tagging #199,Use case captures an internal business process where AI may save time or improve accuracy.,72,Rejected,3
+200,660,315,219,2025-02-06,Support ticket triage #200,Use case captures an internal business process where AI may save time or improve accuracy.,15,Pilot,4
+201,308,927,853,2026-03-04,Internal policy Q&A assistant #201,Employee described how AI helped reduce repetitive manual work in the department.,27,Under Review,3
+202,565,912,161,2025-11-06,Product description draft generation #202,Use case captures an internal business process where AI may save time or improve accuracy.,25,Rejected,1
+203,711,212,396,2025-08-04,Knowledge base search assistant #203,Idea focuses on improving team productivity and response time through AI assistance.,97,Implemented,5
+204,788,160,657,2025-02-15,Forecast commentary generator #204,Submission explains a workflow improvement using AI for summarization and faster decision making.,54,Approved,4
+205,252,889,757,2024-05-13,Service scheduling recommendations #205,Idea focuses on improving team productivity and response time through AI assistance.,80,Pilot,5
+206,753,644,897,2024-02-06,Schema recommendation workflow #206,Employee described how AI helped reduce repetitive manual work in the department.,12,Submitted,1
+207,943,883,891,2024-02-24,Meeting note summarization #207,Employee described how AI helped reduce repetitive manual work in the department.,42,Approved,2
+208,762,155,981,2024-08-06,Warranty claim categorization #208,Employee described how AI helped reduce repetitive manual work in the department.,48,Pilot,3
+209,598,927,849,2025-04-02,Service scheduling recommendations #209,Idea focuses on improving team productivity and response time through AI assistance.,92,Under Review,3
+210,311,104,822,2025-07-29,Knowledge base search assistant #210,Submission explains a workflow improvement using AI for summarization and faster decision making.,22,Rejected,1
+211,546,933,634,2025-02-23,Knowledge base search assistant #211,Use case captures an internal business process where AI may save time or improve accuracy.,91,Approved,2
+212,1000,117,680,2024-05-30,Dashboard insight narration #212,Employee described how AI helped reduce repetitive manual work in the department.,98,Submitted,2
+213,902,391,485,2025-01-23,Service scheduling recommendations #213,Submission explains a workflow improvement using AI for summarization and faster decision making.,100,Submitted,5
+214,705,838,372,2025-03-27,Knowledge base search assistant #214,Use case captures an internal business process where AI may save time or improve accuracy.,116,Submitted,4
+215,970,688,581,2024-12-18,Meeting note summarization #215,Employee described how AI helped reduce repetitive manual work in the department.,115,Approved,1
+216,182,139,640,2024-11-03,Product description draft generation #216,Submission explains a workflow improvement using AI for summarization and faster decision making.,16,Implemented,2
+217,985,650,329,2024-10-26,SEO content suggestions #217,Idea focuses on improving team productivity and response time through AI assistance.,79,Rejected,1
+218,637,913,605,2025-03-03,Knowledge base search assistant #218,Idea focuses on improving team productivity and response time through AI assistance.,110,Approved,2
+219,526,287,533,2024-01-25,Service scheduling recommendations #219,Idea focuses on improving team productivity and response time through AI assistance.,117,Under Review,1
+220,665,245,718,2024-11-09,Inventory trend summary #220,Use case captures an internal business process where AI may save time or improve accuracy.,57,Approved,1
+221,280,768,778,2025-11-03,Dashboard insight narration #221,Employee described how AI helped reduce repetitive manual work in the department.,44,Pilot,1
+222,134,893,949,2025-10-01,Automated FAQ drafting #222,Employee described how AI helped reduce repetitive manual work in the department.,40,Rejected,2
+223,927,482,390,2025-02-01,Dealer email summarization #223,Idea focuses on improving team productivity and response time through AI assistance.,91,Rejected,3
+224,376,823,525,2026-03-13,Internal policy Q&A assistant #224,Use case captures an internal business process where AI may save time or improve accuracy.,92,Approved,2
+225,966,355,737,2024-09-24,Forecast commentary generator #225,Use case captures an internal business process where AI may save time or improve accuracy.,38,Approved,1
+226,936,461,941,2025-11-18,SEO content suggestions #226,Idea focuses on improving team productivity and response time through AI assistance.,112,Pilot,1
+227,24,831,132,2026-04-05,Schema recommendation workflow #227,Submission explains a workflow improvement using AI for summarization and faster decision making.,11,Under Review,3
+228,67,158,586,2026-03-31,Sales lead scoring support #228,Employee described how AI helped reduce repetitive manual work in the department.,112,Submitted,1
+229,741,14,755,2026-04-06,Meeting note summarization #229,Employee described how AI helped reduce repetitive manual work in the department.,21,Pilot,4
+230,647,895,339,2026-03-15,Schema recommendation workflow #230,Employee described how AI helped reduce repetitive manual work in the department.,9,Implemented,2
+231,205,941,764,2024-03-24,Knowledge base search assistant #231,Employee described how AI helped reduce repetitive manual work in the department.,93,Submitted,1
+232,444,811,703,2024-08-26,Forecast commentary generator #232,Employee described how AI helped reduce repetitive manual work in the department.,93,Submitted,4
+233,329,641,543,2024-07-16,Service scheduling recommendations #233,Submission explains a workflow improvement using AI for summarization and faster decision making.,92,Rejected,5
+234,724,191,481,2024-10-21,Dealer email summarization #234,Use case captures an internal business process where AI may save time or improve accuracy.,25,Pilot,1
+235,82,181,998,2024-07-21,Inventory trend summary #235,Submission explains a workflow improvement using AI for summarization and faster decision making.,114,Pilot,5
+236,997,194,717,2024-05-06,SEO content suggestions #236,Submission explains a workflow improvement using AI for summarization and faster decision making.,25,Approved,2
+237,167,405,651,2025-08-29,Warranty claim categorization #237,Use case captures an internal business process where AI may save time or improve accuracy.,66,Implemented,3
+238,224,437,257,2026-04-24,Customer sentiment tagging #238,Submission explains a workflow improvement using AI for summarization and faster decision making.,69,Submitted,3
+239,289,773,166,2024-03-07,Dealer email summarization #239,Employee described how AI helped reduce repetitive manual work in the department.,65,Approved,1
+240,635,774,838,2025-03-16,SEO content suggestions #240,Use case captures an internal business process where AI may save time or improve accuracy.,3,Implemented,1
+241,327,603,790,2025-01-05,SEO content suggestions #241,Idea focuses on improving team productivity and response time through AI assistance.,95,Approved,4
+242,367,761,831,2025-05-06,Customer sentiment tagging #242,Use case captures an internal business process where AI may save time or improve accuracy.,40,Rejected,3
+243,560,763,195,2024-08-21,Knowledge base search assistant #243,Employee described how AI helped reduce repetitive manual work in the department.,90,Approved,4
+244,477,902,473,2024-11-28,Product description draft generation #244,Use case captures an internal business process where AI may save time or improve accuracy.,113,Rejected,4
+245,157,146,756,2026-02-07,Product description draft generation #245,Use case captures an internal business process where AI may save time or improve accuracy.,5,Under Review,3
+246,391,892,648,2024-06-01,Product description draft generation #246,Idea focuses on improving team productivity and response time through AI assistance.,3,Rejected,2
+247,155,608,969,2024-07-07,Forecast commentary generator #247,Employee described how AI helped reduce repetitive manual work in the department.,4,Rejected,4
+248,154,278,346,2024-07-21,Automated FAQ drafting #248,Use case captures an internal business process where AI may save time or improve accuracy.,52,Under Review,3
+249,850,979,875,2025-07-16,Inventory trend summary #249,Submission explains a workflow improvement using AI for summarization and faster decision making.,26,Rejected,5
+250,742,512,444,2025-03-21,Knowledge base search assistant #250,Use case captures an internal business process where AI may save time or improve accuracy.,87,Submitted,3
+251,985,109,69,2024-11-27,Service scheduling recommendations #251,Idea focuses on improving team productivity and response time through AI assistance.,20,Under Review,5
+252,966,507,823,2024-08-09,Internal policy Q&A assistant #252,Use case captures an internal business process where AI may save time or improve accuracy.,3,Approved,2
+253,347,646,319,2025-12-01,Internal policy Q&A assistant #253,Employee described how AI helped reduce repetitive manual work in the department.,78,Under Review,5
+254,289,350,743,2025-01-17,Support ticket triage #254,Idea focuses on improving team productivity and response time through AI assistance.,74,Rejected,1
+255,19,458,379,2025-03-03,Sales lead scoring support #255,Submission explains a workflow improvement using AI for summarization and faster decision making.,43,Implemented,2
+256,932,893,925,2024-11-16,Service scheduling recommendations #256,Idea focuses on improving team productivity and response time through AI assistance.,73,Approved,5
+257,813,340,716,2024-07-18,Support ticket triage #257,Idea focuses on improving team productivity and response time through AI assistance.,102,Implemented,5
+258,995,934,235,2025-12-26,Sales lead scoring support #258,Submission explains a workflow improvement using AI for summarization and faster decision making.,64,Pilot,4
+259,912,20,321,2025-06-07,Schema recommendation workflow #259,Use case captures an internal business process where AI may save time or improve accuracy.,98,Under Review,5
+260,330,84,542,2025-05-17,Dashboard insight narration #260,Idea focuses on improving team productivity and response time through AI assistance.,10,Rejected,4
+261,797,198,811,2026-02-27,Inventory trend summary #261,Submission explains a workflow improvement using AI for summarization and faster decision making.,48,Submitted,4
+262,253,229,649,2024-01-04,Meeting note summarization #262,Idea focuses on improving team productivity and response time through AI assistance.,107,Pilot,4
+263,576,150,803,2024-10-06,Meeting note summarization #263,Use case captures an internal business process where AI may save time or improve accuracy.,42,Pilot,5
+264,205,844,831,2025-10-23,Forecast commentary generator #264,Employee described how AI helped reduce repetitive manual work in the department.,39,Implemented,1
+265,754,907,200,2025-06-20,Warranty claim categorization #265,Submission explains a workflow improvement using AI for summarization and faster decision making.,103,Rejected,4
+266,718,839,874,2024-01-12,Warranty claim categorization #266,Idea focuses on improving team productivity and response time through AI assistance.,28,Under Review,3
+267,26,30,668,2025-10-21,Internal policy Q&A assistant #267,Employee described how AI helped reduce repetitive manual work in the department.,49,Rejected,2
+268,458,641,392,2025-07-22,Knowledge base search assistant #268,Use case captures an internal business process where AI may save time or improve accuracy.,99,Approved,1
+269,960,281,467,2024-10-09,Forecast commentary generator #269,Use case captures an internal business process where AI may save time or improve accuracy.,38,Under Review,5
+270,132,331,980,2024-01-18,Schema recommendation workflow #270,Employee described how AI helped reduce repetitive manual work in the department.,113,Approved,5
+271,489,378,146,2024-11-18,Product description draft generation #271,Employee described how AI helped reduce repetitive manual work in the department.,82,Rejected,3
+272,406,183,335,2025-09-19,Dealer email summarization #272,Idea focuses on improving team productivity and response time through AI assistance.,43,Pilot,5
+273,41,905,524,2024-02-27,Support ticket triage #273,Use case captures an internal business process where AI may save time or improve accuracy.,10,Submitted,2
+274,156,105,536,2024-06-16,Sales lead scoring support #274,Employee described how AI helped reduce repetitive manual work in the department.,98,Approved,3
+275,347,84,423,2024-12-17,SEO content suggestions #275,Use case captures an internal business process where AI may save time or improve accuracy.,53,Pilot,1
+276,538,427,658,2026-03-19,Product description draft generation #276,Submission explains a workflow improvement using AI for summarization and faster decision making.,72,Submitted,2
+277,460,163,119,2026-02-20,Inventory trend summary #277,Submission explains a workflow improvement using AI for summarization and faster decision making.,32,Submitted,5
+278,25,54,659,2025-12-15,Sales lead scoring support #278,Use case captures an internal business process where AI may save time or improve accuracy.,7,Submitted,2
+279,777,239,973,2024-06-05,Support ticket triage #279,Idea focuses on improving team productivity and response time through AI assistance.,43,Rejected,4
+280,20,523,784,2024-10-23,Service scheduling recommendations #280,Employee described how AI helped reduce repetitive manual work in the department.,87,Implemented,4
+281,564,70,42,2024-07-23,Dealer email summarization #281,Submission explains a workflow improvement using AI for summarization and faster decision making.,31,Pilot,4
+282,8,358,719,2024-03-23,Customer sentiment tagging #282,Submission explains a workflow improvement using AI for summarization and faster decision making.,52,Under Review,2
+283,550,8,938,2025-10-04,Warranty claim categorization #283,Idea focuses on improving team productivity and response time through AI assistance.,73,Approved,5
+284,398,164,855,2024-07-25,Inventory trend summary #284,Idea focuses on improving team productivity and response time through AI assistance.,27,Approved,3
+285,403,123,667,2024-10-19,Dashboard insight narration #285,Employee described how AI helped reduce repetitive manual work in the department.,59,Pilot,5
+286,789,416,210,2024-07-08,Schema recommendation workflow #286,Employee described how AI helped reduce repetitive manual work in the department.,51,Submitted,2
+287,205,778,584,2026-01-23,Warranty claim categorization #287,Submission explains a workflow improvement using AI for summarization and faster decision making.,115,Pilot,3
+288,370,475,56,2025-10-25,Sales lead scoring support #288,Idea focuses on improving team productivity and response time through AI assistance.,29,Pilot,1
+289,318,13,222,2026-04-29,Knowledge base search assistant #289,Idea focuses on improving team productivity and response time through AI assistance.,28,Rejected,4
+290,738,336,469,2025-02-04,Knowledge base search assistant #290,Use case captures an internal business process where AI may save time or improve accuracy.,63,Pilot,5
+291,293,815,684,2024-09-11,SEO content suggestions #291,Employee described how AI helped reduce repetitive manual work in the department.,115,Submitted,1
+292,635,52,878,2024-01-12,Inventory trend summary #292,Employee described how AI helped reduce repetitive manual work in the department.,40,Rejected,4
+293,747,582,985,2024-06-12,Schema recommendation workflow #293,Employee described how AI helped reduce repetitive manual work in the department.,49,Under Review,2
+294,995,434,760,2025-01-16,SEO content suggestions #294,Idea focuses on improving team productivity and response time through AI assistance.,55,Implemented,1
+295,305,789,36,2024-05-02,Warranty claim categorization #295,Submission explains a workflow improvement using AI for summarization and faster decision making.,35,Rejected,2
+296,124,942,652,2026-02-01,Automated FAQ drafting #296,Use case captures an internal business process where AI may save time or improve accuracy.,24,Submitted,1
+297,89,743,241,2025-04-11,Inventory trend summary #297,Idea focuses on improving team productivity and response time through AI assistance.,4,Implemented,5
+298,492,65,749,2025-12-09,Support ticket triage #298,Submission explains a workflow improvement using AI for summarization and faster decision making.,10,Rejected,4
+299,31,39,510,2025-03-18,Dashboard insight narration #299,Use case captures an internal business process where AI may save time or improve accuracy.,24,Submitted,5
+300,919,46,673,2024-03-05,Inventory trend summary #300,Idea focuses on improving team productivity and response time through AI assistance.,94,Rejected,2
+301,822,274,25,2025-11-18,Inventory trend summary #301,Submission explains a workflow improvement using AI for summarization and faster decision making.,32,Implemented,4
+302,830,2,666,2024-02-15,Internal policy Q&A assistant #302,Use case captures an internal business process where AI may save time or improve accuracy.,103,Under Review,1
+303,294,373,91,2025-09-04,Customer sentiment tagging #303,Use case captures an internal business process where AI may save time or improve accuracy.,107,Rejected,5
+304,168,383,675,2025-01-15,Support ticket triage #304,Idea focuses on improving team productivity and response time through AI assistance.,96,Implemented,3
+305,417,179,595,2025-02-15,Customer sentiment tagging #305,Use case captures an internal business process where AI may save time or improve accuracy.,46,Approved,2
+306,834,689,770,2025-05-21,Internal policy Q&A assistant #306,Idea focuses on improving team productivity and response time through AI assistance.,57,Submitted,5
+307,260,907,141,2024-12-06,Customer sentiment tagging #307,Use case captures an internal business process where AI may save time or improve accuracy.,59,Pilot,2
+308,912,44,352,2025-06-02,Support ticket triage #308,Idea focuses on improving team productivity and response time through AI assistance.,71,Implemented,2
+309,872,818,588,2024-05-22,Forecast commentary generator #309,Use case captures an internal business process where AI may save time or improve accuracy.,12,Rejected,1
+310,514,558,43,2025-06-16,Schema recommendation workflow #310,Employee described how AI helped reduce repetitive manual work in the department.,34,Pilot,2
+311,758,233,701,2025-12-27,Meeting note summarization #311,Use case captures an internal business process where AI may save time or improve accuracy.,16,Approved,3
+312,562,960,405,2025-06-19,Product description draft generation #312,Submission explains a workflow improvement using AI for summarization and faster decision making.,75,Approved,4
+313,705,770,109,2024-08-19,Dashboard insight narration #313,Submission explains a workflow improvement using AI for summarization and faster decision making.,108,Implemented,2
+314,734,1,915,2026-03-23,Schema recommendation workflow #314,Use case captures an internal business process where AI may save time or improve accuracy.,20,Submitted,3
+315,248,774,416,2024-11-06,Forecast commentary generator #315,Employee described how AI helped reduce repetitive manual work in the department.,106,Under Review,1
+316,17,32,303,2024-05-03,Forecast commentary generator #316,Submission explains a workflow improvement using AI for summarization and faster decision making.,107,Implemented,1
+317,69,260,464,2024-05-01,Internal policy Q&A assistant #317,Idea focuses on improving team productivity and response time through AI assistance.,86,Rejected,1
+318,715,612,308,2024-12-17,Product description draft generation #318,Idea focuses on improving team productivity and response time through AI assistance.,28,Approved,4
+319,635,604,942,2025-05-04,Dealer email summarization #319,Use case captures an internal business process where AI may save time or improve accuracy.,6,Rejected,3
+320,360,32,262,2025-12-18,Service scheduling recommendations #320,Use case captures an internal business process where AI may save time or improve accuracy.,98,Pilot,1
+321,433,706,602,2025-09-27,Customer sentiment tagging #321,Use case captures an internal business process where AI may save time or improve accuracy.,5,Rejected,1
+322,986,500,778,2024-03-29,Service scheduling recommendations #322,Idea focuses on improving team productivity and response time through AI assistance.,71,Submitted,1
+323,252,742,851,2026-01-02,Schema recommendation workflow #323,Use case captures an internal business process where AI may save time or improve accuracy.,50,Implemented,3
+324,248,619,481,2024-02-05,Meeting note summarization #324,Idea focuses on improving team productivity and response time through AI assistance.,72,Implemented,4
+325,222,629,421,2024-04-07,Automated FAQ drafting #325,Submission explains a workflow improvement using AI for summarization and faster decision making.,77,Implemented,1
+326,958,519,456,2024-03-11,Knowledge base search assistant #326,Use case captures an internal business process where AI may save time or improve accuracy.,37,Implemented,5
+327,398,821,948,2025-07-02,Dealer email summarization #327,Idea focuses on improving team productivity and response time through AI assistance.,76,Submitted,5
+328,503,179,924,2025-04-07,Warranty claim categorization #328,Submission explains a workflow improvement using AI for summarization and faster decision making.,7,Approved,5
+329,340,437,113,2025-12-04,Support ticket triage #329,Employee described how AI helped reduce repetitive manual work in the department.,27,Rejected,4
+330,256,6,397,2026-03-05,Knowledge base search assistant #330,Use case captures an internal business process where AI may save time or improve accuracy.,7,Approved,2
+331,229,349,887,2025-11-30,Service scheduling recommendations #331,Submission explains a workflow improvement using AI for summarization and faster decision making.,93,Rejected,1
+332,104,169,143,2024-05-15,Automated FAQ drafting #332,Use case captures an internal business process where AI may save time or improve accuracy.,65,Approved,4
+333,22,726,538,2025-12-11,Customer sentiment tagging #333,Employee described how AI helped reduce repetitive manual work in the department.,55,Rejected,1
+334,286,447,571,2025-12-19,Internal policy Q&A assistant #334,Employee described how AI helped reduce repetitive manual work in the department.,10,Submitted,3
+335,899,972,681,2025-01-01,Service scheduling recommendations #335,Use case captures an internal business process where AI may save time or improve accuracy.,66,Under Review,2
+336,124,25,166,2024-03-29,Knowledge base search assistant #336,Submission explains a workflow improvement using AI for summarization and faster decision making.,59,Implemented,5
+337,383,571,270,2025-05-04,SEO content suggestions #337,Submission explains a workflow improvement using AI for summarization and faster decision making.,76,Rejected,1
+338,574,41,238,2024-07-26,Support ticket triage #338,Idea focuses on improving team productivity and response time through AI assistance.,19,Implemented,4
+339,12,381,62,2025-06-06,Automated FAQ drafting #339,Employee described how AI helped reduce repetitive manual work in the department.,69,Implemented,3
+340,600,544,10,2024-11-06,Support ticket triage #340,Idea focuses on improving team productivity and response time through AI assistance.,119,Under Review,4
+341,821,219,194,2025-11-10,Service scheduling recommendations #341,Use case captures an internal business process where AI may save time or improve accuracy.,63,Under Review,1
+342,177,398,567,2025-10-10,SEO content suggestions #342,Submission explains a workflow improvement using AI for summarization and faster decision making.,87,Under Review,5
+343,149,882,779,2024-03-10,Service scheduling recommendations #343,Employee described how AI helped reduce repetitive manual work in the department.,74,Under Review,2
+344,642,772,424,2025-10-02,Customer sentiment tagging #344,Submission explains a workflow improvement using AI for summarization and faster decision making.,107,Approved,4
+345,62,771,443,2024-02-13,Meeting note summarization #345,Use case captures an internal business process where AI may save time or improve accuracy.,5,Under Review,3
+346,401,461,621,2024-08-18,Support ticket triage #346,Use case captures an internal business process where AI may save time or improve accuracy.,80,Pilot,4
+347,662,893,774,2025-10-12,Knowledge base search assistant #347,Submission explains a workflow improvement using AI for summarization and faster decision making.,78,Pilot,3
+348,510,792,77,2025-03-19,Automated FAQ drafting #348,Use case captures an internal business process where AI may save time or improve accuracy.,10,Pilot,1
+349,722,914,796,2024-05-29,Dealer email summarization #349,Idea focuses on improving team productivity and response time through AI assistance.,37,Rejected,3
+350,476,666,827,2024-12-15,Warranty claim categorization #350,Idea focuses on improving team productivity and response time through AI assistance.,119,Approved,4
+351,524,500,396,2026-02-14,Support ticket triage #351,Use case captures an internal business process where AI may save time or improve accuracy.,45,Submitted,4
+352,999,351,546,2025-06-13,SEO content suggestions #352,Idea focuses on improving team productivity and response time through AI assistance.,82,Approved,3
+353,896,296,609,2025-06-09,Sales lead scoring support #353,Idea focuses on improving team productivity and response time through AI assistance.,120,Approved,2
+354,580,196,357,2024-11-09,Forecast commentary generator #354,Idea focuses on improving team productivity and response time through AI assistance.,68,Implemented,4
+355,286,271,613,2025-03-10,Forecast commentary generator #355,Submission explains a workflow improvement using AI for summarization and faster decision making.,104,Implemented,3
+356,195,704,703,2025-01-05,Meeting note summarization #356,Submission explains a workflow improvement using AI for summarization and faster decision making.,104,Rejected,5
+357,533,178,121,2026-01-11,Warranty claim categorization #357,Submission explains a workflow improvement using AI for summarization and faster decision making.,28,Pilot,3
+358,188,909,664,2026-04-09,Service scheduling recommendations #358,Idea focuses on improving team productivity and response time through AI assistance.,33,Rejected,4
+359,735,278,955,2025-08-04,Dashboard insight narration #359,Idea focuses on improving team productivity and response time through AI assistance.,20,Approved,5
+360,74,259,128,2025-01-20,Product description draft generation #360,Employee described how AI helped reduce repetitive manual work in the department.,10,Under Review,3
+361,951,507,466,2025-07-17,Inventory trend summary #361,Use case captures an internal business process where AI may save time or improve accuracy.,27,Approved,1
+362,438,644,502,2025-09-01,Schema recommendation workflow #362,Use case captures an internal business process where AI may save time or improve accuracy.,57,Rejected,3
+363,123,144,186,2024-05-05,Customer sentiment tagging #363,Employee described how AI helped reduce repetitive manual work in the department.,7,Submitted,3
+364,111,562,549,2024-10-01,Support ticket triage #364,Employee described how AI helped reduce repetitive manual work in the department.,120,Implemented,4
+365,210,41,913,2025-11-07,Dealer email summarization #365,Employee described how AI helped reduce repetitive manual work in the department.,16,Approved,5
+366,737,284,292,2025-03-16,Sales lead scoring support #366,Submission explains a workflow improvement using AI for summarization and faster decision making.,30,Pilot,5
+367,585,770,274,2025-07-19,Customer sentiment tagging #367,Submission explains a workflow improvement using AI for summarization and faster decision making.,21,Submitted,5
+368,599,325,781,2024-08-13,Knowledge base search assistant #368,Use case captures an internal business process where AI may save time or improve accuracy.,28,Pilot,5
+369,18,978,165,2024-04-03,Inventory trend summary #369,Use case captures an internal business process where AI may save time or improve accuracy.,17,Submitted,2
+370,866,417,227,2024-09-04,Dashboard insight narration #370,Submission explains a workflow improvement using AI for summarization and faster decision making.,116,Under Review,2
+371,287,110,4,2024-09-01,Warranty claim categorization #371,Use case captures an internal business process where AI may save time or improve accuracy.,76,Pilot,4
+372,457,219,238,2024-04-12,SEO content suggestions #372,Use case captures an internal business process where AI may save time or improve accuracy.,93,Rejected,4
+373,154,757,910,2025-01-28,Product description draft generation #373,Employee described how AI helped reduce repetitive manual work in the department.,71,Approved,2
+374,903,690,504,2025-03-23,Meeting note summarization #374,Idea focuses on improving team productivity and response time through AI assistance.,4,Rejected,5
+375,631,398,859,2025-03-28,Forecast commentary generator #375,Idea focuses on improving team productivity and response time through AI assistance.,20,Implemented,1
+376,616,858,716,2025-11-30,Product description draft generation #376,Submission explains a workflow improvement using AI for summarization and faster decision making.,102,Rejected,2
+377,224,322,362,2025-02-18,Inventory trend summary #377,Submission explains a workflow improvement using AI for summarization and faster decision making.,93,Approved,2
+378,389,615,899,2025-04-25,Automated FAQ drafting #378,Submission explains a workflow improvement using AI for summarization and faster decision making.,84,Implemented,1
+379,464,731,820,2024-01-23,Product description draft generation #379,Idea focuses on improving team productivity and response time through AI assistance.,48,Rejected,1
+380,503,447,742,2025-04-01,Internal policy Q&A assistant #380,Employee described how AI helped reduce repetitive manual work in the department.,57,Approved,3
+381,235,276,376,2024-09-23,Service scheduling recommendations #381,Submission explains a workflow improvement using AI for summarization and faster decision making.,23,Under Review,5
+382,661,530,614,2025-06-27,Forecast commentary generator #382,Employee described how AI helped reduce repetitive manual work in the department.,50,Approved,1
+383,779,235,93,2025-12-25,Knowledge base search assistant #383,Employee described how AI helped reduce repetitive manual work in the department.,80,Implemented,5
+384,52,257,82,2025-06-21,Inventory trend summary #384,Use case captures an internal business process where AI may save time or improve accuracy.,21,Approved,2
+385,880,447,286,2024-07-09,Sales lead scoring support #385,Use case captures an internal business process where AI may save time or improve accuracy.,41,Under Review,5
+386,69,238,893,2024-04-04,Dealer email summarization #386,Submission explains a workflow improvement using AI for summarization and faster decision making.,38,Pilot,4
+387,965,434,917,2024-06-20,Sales lead scoring support #387,Employee described how AI helped reduce repetitive manual work in the department.,105,Under Review,5
+388,730,79,69,2026-03-02,Schema recommendation workflow #388,Idea focuses on improving team productivity and response time through AI assistance.,106,Under Review,5
+389,128,798,474,2025-07-20,Customer sentiment tagging #389,Submission explains a workflow improvement using AI for summarization and faster decision making.,21,Pilot,2
+390,252,806,9,2024-11-29,Knowledge base search assistant #390,Idea focuses on improving team productivity and response time through AI assistance.,67,Submitted,5
+391,517,917,59,2025-02-07,Support ticket triage #391,Submission explains a workflow improvement using AI for summarization and faster decision making.,8,Rejected,2
+392,867,136,248,2025-09-15,Customer sentiment tagging #392,Idea focuses on improving team productivity and response time through AI assistance.,61,Under Review,4
+393,180,728,113,2025-12-31,Sales lead scoring support #393,Submission explains a workflow improvement using AI for summarization and faster decision making.,83,Pilot,1
+394,69,387,140,2024-01-01,Warranty claim categorization #394,Use case captures an internal business process where AI may save time or improve accuracy.,69,Rejected,4
+395,564,555,744,2025-02-17,Dashboard insight narration #395,Idea focuses on improving team productivity and response time through AI assistance.,102,Pilot,5
+396,736,858,768,2025-02-18,Inventory trend summary #396,Use case captures an internal business process where AI may save time or improve accuracy.,23,Pilot,4
+397,130,825,38,2024-07-30,SEO content suggestions #397,Idea focuses on improving team productivity and response time through AI assistance.,109,Approved,1
+398,619,926,423,2025-01-26,Product description draft generation #398,Idea focuses on improving team productivity and response time through AI assistance.,49,Submitted,3
+399,499,204,769,2024-01-17,Forecast commentary generator #399,Use case captures an internal business process where AI may save time or improve accuracy.,101,Implemented,2
+400,461,886,605,2026-03-20,Support ticket triage #400,Idea focuses on improving team productivity and response time through AI assistance.,52,Under Review,2
+401,17,923,233,2025-03-25,Inventory trend summary #401,Use case captures an internal business process where AI may save time or improve accuracy.,53,Rejected,4
+402,381,904,210,2025-04-19,Support ticket triage #402,Use case captures an internal business process where AI may save time or improve accuracy.,8,Under Review,2
+403,919,656,945,2024-04-13,Warranty claim categorization #403,Idea focuses on improving team productivity and response time through AI assistance.,8,Approved,4
+404,932,396,909,2025-10-31,Internal policy Q&A assistant #404,Employee described how AI helped reduce repetitive manual work in the department.,78,Approved,3
+405,841,525,565,2025-05-03,Dealer email summarization #405,Use case captures an internal business process where AI may save time or improve accuracy.,10,Approved,3
+406,199,318,945,2025-06-02,Knowledge base search assistant #406,Employee described how AI helped reduce repetitive manual work in the department.,14,Under Review,5
+407,277,62,26,2025-06-05,Forecast commentary generator #407,Idea focuses on improving team productivity and response time through AI assistance.,5,Rejected,4
+408,343,818,628,2025-04-16,Customer sentiment tagging #408,Idea focuses on improving team productivity and response time through AI assistance.,38,Approved,1
+409,821,530,600,2024-05-06,Dashboard insight narration #409,Use case captures an internal business process where AI may save time or improve accuracy.,57,Pilot,1
+410,683,799,562,2026-01-16,SEO content suggestions #410,Submission explains a workflow improvement using AI for summarization and faster decision making.,107,Rejected,3
+411,677,732,451,2026-01-19,Inventory trend summary #411,Submission explains a workflow improvement using AI for summarization and faster decision making.,20,Under Review,1
+412,632,394,283,2025-02-07,Sales lead scoring support #412,Employee described how AI helped reduce repetitive manual work in the department.,7,Approved,1
+413,977,137,200,2025-03-04,Forecast commentary generator #413,Use case captures an internal business process where AI may save time or improve accuracy.,104,Under Review,4
+414,561,582,262,2024-08-03,Automated FAQ drafting #414,Employee described how AI helped reduce repetitive manual work in the department.,22,Submitted,3
+415,745,495,806,2024-03-08,Sales lead scoring support #415,Use case captures an internal business process where AI may save time or improve accuracy.,119,Under Review,4
+416,117,82,686,2025-04-15,Meeting note summarization #416,Idea focuses on improving team productivity and response time through AI assistance.,110,Rejected,3
+417,591,572,562,2026-04-13,Meeting note summarization #417,Idea focuses on improving team productivity and response time through AI assistance.,69,Under Review,5
+418,533,699,286,2026-04-05,Sales lead scoring support #418,Submission explains a workflow improvement using AI for summarization and faster decision making.,106,Submitted,4
+419,495,279,337,2025-06-05,Warranty claim categorization #419,Use case captures an internal business process where AI may save time or improve accuracy.,94,Rejected,1
+420,975,606,308,2026-03-31,Inventory trend summary #420,Employee described how AI helped reduce repetitive manual work in the department.,107,Under Review,5
+421,229,865,803,2024-08-12,Sales lead scoring support #421,Use case captures an internal business process where AI may save time or improve accuracy.,117,Under Review,1
+422,715,556,518,2025-01-06,Internal policy Q&A assistant #422,Use case captures an internal business process where AI may save time or improve accuracy.,55,Pilot,3
+423,307,84,249,2024-06-15,Service scheduling recommendations #423,Employee described how AI helped reduce repetitive manual work in the department.,101,Approved,1
+424,447,416,835,2025-03-18,Support ticket triage #424,Use case captures an internal business process where AI may save time or improve accuracy.,62,Submitted,3
+425,961,380,122,2024-11-11,Sales lead scoring support #425,Use case captures an internal business process where AI may save time or improve accuracy.,114,Rejected,4
+426,603,220,416,2025-03-16,Sales lead scoring support #426,Idea focuses on improving team productivity and response time through AI assistance.,33,Pilot,2
+427,345,164,613,2024-11-30,Product description draft generation #427,Employee described how AI helped reduce repetitive manual work in the department.,14,Submitted,1
+428,816,756,9,2024-06-02,Internal policy Q&A assistant #428,Use case captures an internal business process where AI may save time or improve accuracy.,116,Submitted,2
+429,53,3,483,2024-06-30,Dealer email summarization #429,Submission explains a workflow improvement using AI for summarization and faster decision making.,39,Approved,3
+430,683,586,90,2024-02-11,Knowledge base search assistant #430,Idea focuses on improving team productivity and response time through AI assistance.,44,Submitted,1
+431,597,85,41,2025-09-21,Automated FAQ drafting #431,Submission explains a workflow improvement using AI for summarization and faster decision making.,103,Under Review,4
+432,844,503,111,2024-09-30,Warranty claim categorization #432,Employee described how AI helped reduce repetitive manual work in the department.,108,Pilot,3
+433,142,67,474,2025-09-12,Inventory trend summary #433,Submission explains a workflow improvement using AI for summarization and faster decision making.,84,Implemented,5
+434,99,509,622,2024-08-17,Warranty claim categorization #434,Employee described how AI helped reduce repetitive manual work in the department.,52,Approved,2
+435,712,485,830,2025-04-08,Customer sentiment tagging #435,Idea focuses on improving team productivity and response time through AI assistance.,39,Implemented,4
+436,429,827,953,2024-08-28,Warranty claim categorization #436,Idea focuses on improving team productivity and response time through AI assistance.,28,Under Review,4
+437,153,721,159,2024-02-07,SEO content suggestions #437,Employee described how AI helped reduce repetitive manual work in the department.,77,Submitted,2
+438,111,460,130,2024-06-01,SEO content suggestions #438,Idea focuses on improving team productivity and response time through AI assistance.,100,Approved,3
+439,594,245,736,2025-05-08,Internal policy Q&A assistant #439,Use case captures an internal business process where AI may save time or improve accuracy.,17,Implemented,5
+440,747,602,310,2025-12-27,Forecast commentary generator #440,Use case captures an internal business process where AI may save time or improve accuracy.,85,Submitted,3
+441,161,401,197,2024-12-19,SEO content suggestions #441,Employee described how AI helped reduce repetitive manual work in the department.,6,Approved,4
+442,192,833,510,2025-04-19,Product description draft generation #442,Idea focuses on improving team productivity and response time through AI assistance.,59,Under Review,3
+443,764,990,725,2025-03-08,Meeting note summarization #443,Submission explains a workflow improvement using AI for summarization and faster decision making.,2,Under Review,3
+444,426,96,499,2024-12-08,Support ticket triage #444,Employee described how AI helped reduce repetitive manual work in the department.,115,Under Review,2
+445,526,619,508,2024-10-11,Forecast commentary generator #445,Submission explains a workflow improvement using AI for summarization and faster decision making.,55,Submitted,1
+446,647,370,729,2024-12-17,Customer sentiment tagging #446,Idea focuses on improving team productivity and response time through AI assistance.,2,Submitted,4
+447,791,845,993,2025-05-28,Forecast commentary generator #447,Submission explains a workflow improvement using AI for summarization and faster decision making.,20,Approved,5
+448,281,544,401,2025-06-25,Forecast commentary generator #448,Use case captures an internal business process where AI may save time or improve accuracy.,100,Implemented,1
+449,466,988,737,2025-08-28,Warranty claim categorization #449,Use case captures an internal business process where AI may save time or improve accuracy.,7,Approved,3
+450,19,418,604,2025-10-04,SEO content suggestions #450,Use case captures an internal business process where AI may save time or improve accuracy.,108,Rejected,4
+451,937,906,624,2025-08-08,Sales lead scoring support #451,Idea focuses on improving team productivity and response time through AI assistance.,108,Pilot,2
+452,461,272,308,2025-10-29,Dealer email summarization #452,Submission explains a workflow improvement using AI for summarization and faster decision making.,87,Pilot,3
+453,405,272,5,2025-06-27,Sales lead scoring support #453,Employee described how AI helped reduce repetitive manual work in the department.,30,Rejected,2
+454,407,3,441,2024-02-18,SEO content suggestions #454,Idea focuses on improving team productivity and response time through AI assistance.,70,Pilot,4
+455,17,514,890,2026-01-20,Warranty claim categorization #455,Employee described how AI helped reduce repetitive manual work in the department.,65,Pilot,2
+456,547,678,566,2024-10-21,Schema recommendation workflow #456,Submission explains a workflow improvement using AI for summarization and faster decision making.,120,Rejected,5
+457,744,337,182,2025-07-12,Forecast commentary generator #457,Employee described how AI helped reduce repetitive manual work in the department.,89,Rejected,1
+458,337,663,252,2025-05-06,Automated FAQ drafting #458,Employee described how AI helped reduce repetitive manual work in the department.,18,Implemented,3
+459,174,674,300,2025-11-18,Inventory trend summary #459,Use case captures an internal business process where AI may save time or improve accuracy.,22,Rejected,2
+460,747,168,371,2024-04-09,Warranty claim categorization #460,Idea focuses on improving team productivity and response time through AI assistance.,71,Implemented,5
+461,655,71,79,2024-06-08,Schema recommendation workflow #461,Employee described how AI helped reduce repetitive manual work in the department.,32,Submitted,3
+462,989,184,117,2026-02-22,Dashboard insight narration #462,Idea focuses on improving team productivity and response time through AI assistance.,17,Pilot,5
+463,477,524,126,2025-05-07,Inventory trend summary #463,Employee described how AI helped reduce repetitive manual work in the department.,47,Submitted,3
+464,181,398,826,2024-07-12,Inventory trend summary #464,Employee described how AI helped reduce repetitive manual work in the department.,118,Pilot,1
+465,65,167,150,2024-12-16,Knowledge base search assistant #465,Submission explains a workflow improvement using AI for summarization and faster decision making.,63,Implemented,3
+466,31,349,874,2025-02-02,Internal policy Q&A assistant #466,Employee described how AI helped reduce repetitive manual work in the department.,105,Pilot,4
+467,218,172,195,2025-09-27,Service scheduling recommendations #467,Employee described how AI helped reduce repetitive manual work in the department.,97,Under Review,4
+468,571,790,469,2025-01-31,Meeting note summarization #468,Idea focuses on improving team productivity and response time through AI assistance.,27,Submitted,1
+469,464,193,4,2025-08-07,Customer sentiment tagging #469,Employee described how AI helped reduce repetitive manual work in the department.,87,Approved,3
+470,426,768,858,2024-01-08,Meeting note summarization #470,Use case captures an internal business process where AI may save time or improve accuracy.,12,Under Review,1
+471,609,534,575,2026-02-23,Schema recommendation workflow #471,Submission explains a workflow improvement using AI for summarization and faster decision making.,62,Rejected,5
+472,565,744,780,2024-12-14,Schema recommendation workflow #472,Employee described how AI helped reduce repetitive manual work in the department.,102,Implemented,3
+473,252,320,550,2026-04-21,Internal policy Q&A assistant #473,Idea focuses on improving team productivity and response time through AI assistance.,6,Submitted,1
+474,962,308,681,2024-05-20,Inventory trend summary #474,Use case captures an internal business process where AI may save time or improve accuracy.,21,Approved,3
+475,871,422,77,2025-06-27,Customer sentiment tagging #475,Employee described how AI helped reduce repetitive manual work in the department.,65,Approved,3
+476,417,24,27,2024-10-18,Meeting note summarization #476,Submission explains a workflow improvement using AI for summarization and faster decision making.,93,Submitted,2
+477,954,538,618,2025-09-05,Schema recommendation workflow #477,Idea focuses on improving team productivity and response time through AI assistance.,16,Submitted,3
+478,787,342,326,2024-05-06,Knowledge base search assistant #478,Submission explains a workflow improvement using AI for summarization and faster decision making.,76,Submitted,2
+479,51,284,319,2026-02-17,SEO content suggestions #479,Idea focuses on improving team productivity and response time through AI assistance.,118,Pilot,3
+480,103,917,414,2026-02-09,Dealer email summarization #480,Idea focuses on improving team productivity and response time through AI assistance.,119,Rejected,1
+481,674,342,276,2026-01-28,Dealer email summarization #481,Submission explains a workflow improvement using AI for summarization and faster decision making.,10,Submitted,5
+482,5,110,913,2025-05-03,Dealer email summarization #482,Use case captures an internal business process where AI may save time or improve accuracy.,105,Approved,4
+483,555,110,271,2024-06-11,Sales lead scoring support #483,Employee described how AI helped reduce repetitive manual work in the department.,44,Under Review,2
+484,665,941,583,2025-12-18,Schema recommendation workflow #484,Employee described how AI helped reduce repetitive manual work in the department.,62,Under Review,2
+485,174,756,981,2026-04-21,Sales lead scoring support #485,Use case captures an internal business process where AI may save time or improve accuracy.,2,Implemented,5
+486,897,280,591,2026-03-24,Forecast commentary generator #486,Use case captures an internal business process where AI may save time or improve accuracy.,72,Under Review,1
+487,441,217,628,2025-11-13,Product description draft generation #487,Submission explains a workflow improvement using AI for summarization and faster decision making.,107,Pilot,3
+488,353,140,415,2025-08-27,Internal policy Q&A assistant #488,Idea focuses on improving team productivity and response time through AI assistance.,36,Under Review,5
+489,877,911,128,2025-12-24,Internal policy Q&A assistant #489,Idea focuses on improving team productivity and response time through AI assistance.,84,Pilot,4
+490,2,118,416,2025-08-27,Forecast commentary generator #490,Idea focuses on improving team productivity and response time through AI assistance.,90,Under Review,5
+491,189,834,657,2025-08-17,Schema recommendation workflow #491,Submission explains a workflow improvement using AI for summarization and faster decision making.,18,Implemented,1
+492,237,256,763,2024-02-17,SEO content suggestions #492,Use case captures an internal business process where AI may save time or improve accuracy.,19,Under Review,3
+493,983,116,589,2024-01-03,Forecast commentary generator #493,Employee described how AI helped reduce repetitive manual work in the department.,108,Implemented,1
+494,424,110,350,2024-07-30,Dashboard insight narration #494,Submission explains a workflow improvement using AI for summarization and faster decision making.,20,Implemented,1
+495,890,378,333,2025-02-24,Product description draft generation #495,Idea focuses on improving team productivity and response time through AI assistance.,58,Implemented,2
+496,879,651,150,2024-07-30,Product description draft generation #496,Idea focuses on improving team productivity and response time through AI assistance.,26,Implemented,2
+497,502,501,972,2024-10-07,Internal policy Q&A assistant #497,Employee described how AI helped reduce repetitive manual work in the department.,34,Submitted,4
+498,475,163,63,2026-03-11,Dealer email summarization #498,Use case captures an internal business process where AI may save time or improve accuracy.,69,Approved,2
+499,424,114,903,2024-10-21,Support ticket triage #499,Idea focuses on improving team productivity and response time through AI assistance.,37,Under Review,4
+500,788,15,485,2026-03-15,SEO content suggestions #500,Use case captures an internal business process where AI may save time or improve accuracy.,46,Approved,2
+501,461,206,705,2024-10-09,Service scheduling recommendations #501,Use case captures an internal business process where AI may save time or improve accuracy.,36,Under Review,4
+502,226,449,927,2024-05-16,Automated FAQ drafting #502,Submission explains a workflow improvement using AI for summarization and faster decision making.,84,Rejected,4
+503,225,972,565,2025-06-05,Support ticket triage #503,Employee described how AI helped reduce repetitive manual work in the department.,36,Implemented,3
+504,535,261,707,2024-04-11,Inventory trend summary #504,Idea focuses on improving team productivity and response time through AI assistance.,97,Rejected,1
+505,65,581,981,2024-04-19,Sales lead scoring support #505,Idea focuses on improving team productivity and response time through AI assistance.,34,Under Review,5
+506,877,629,589,2026-03-29,Knowledge base search assistant #506,Use case captures an internal business process where AI may save time or improve accuracy.,69,Submitted,2
+507,982,21,336,2026-02-25,Internal policy Q&A assistant #507,Idea focuses on improving team productivity and response time through AI assistance.,2,Rejected,2
+508,192,112,751,2024-11-09,Internal policy Q&A assistant #508,Idea focuses on improving team productivity and response time through AI assistance.,91,Approved,5
+509,205,644,412,2025-11-16,Customer sentiment tagging #509,Employee described how AI helped reduce repetitive manual work in the department.,50,Rejected,5
+510,201,912,251,2024-11-28,Dealer email summarization #510,Idea focuses on improving team productivity and response time through AI assistance.,47,Rejected,2
+511,546,342,505,2024-08-21,Internal policy Q&A assistant #511,Employee described how AI helped reduce repetitive manual work in the department.,90,Submitted,1
+512,579,918,141,2024-08-24,Internal policy Q&A assistant #512,Employee described how AI helped reduce repetitive manual work in the department.,28,Rejected,4
+513,548,757,75,2024-04-15,Dashboard insight narration #513,Submission explains a workflow improvement using AI for summarization and faster decision making.,30,Implemented,2
+514,224,380,100,2024-02-07,Inventory trend summary #514,Employee described how AI helped reduce repetitive manual work in the department.,119,Pilot,4
+515,124,288,659,2025-08-25,Dashboard insight narration #515,Submission explains a workflow improvement using AI for summarization and faster decision making.,13,Approved,2
+516,627,122,96,2026-04-04,Inventory trend summary #516,Submission explains a workflow improvement using AI for summarization and faster decision making.,7,Rejected,3
+517,555,172,674,2026-02-14,Automated FAQ drafting #517,Use case captures an internal business process where AI may save time or improve accuracy.,106,Under Review,4
+518,909,339,103,2024-03-31,Sales lead scoring support #518,Idea focuses on improving team productivity and response time through AI assistance.,2,Rejected,3
+519,958,366,772,2025-04-08,Knowledge base search assistant #519,Employee described how AI helped reduce repetitive manual work in the department.,96,Submitted,5
+520,22,684,282,2024-07-16,Knowledge base search assistant #520,Submission explains a workflow improvement using AI for summarization and faster decision making.,31,Implemented,1
+521,751,184,201,2026-04-27,Forecast commentary generator #521,Submission explains a workflow improvement using AI for summarization and faster decision making.,18,Approved,4
+522,63,678,461,2024-08-19,Support ticket triage #522,Employee described how AI helped reduce repetitive manual work in the department.,17,Implemented,2
+523,376,643,775,2026-02-18,Warranty claim categorization #523,Use case captures an internal business process where AI may save time or improve accuracy.,21,Implemented,1
+524,854,923,163,2025-04-30,Product description draft generation #524,Employee described how AI helped reduce repetitive manual work in the department.,23,Approved,1
+525,546,180,701,2025-03-06,Schema recommendation workflow #525,Employee described how AI helped reduce repetitive manual work in the department.,99,Under Review,2
+526,75,158,426,2024-04-21,Internal policy Q&A assistant #526,Submission explains a workflow improvement using AI for summarization and faster decision making.,91,Under Review,3
+527,731,533,731,2025-07-22,Meeting note summarization #527,Use case captures an internal business process where AI may save time or improve accuracy.,22,Pilot,5
+528,677,581,221,2025-04-04,Internal policy Q&A assistant #528,Submission explains a workflow improvement using AI for summarization and faster decision making.,80,Rejected,3
+529,324,267,621,2024-08-07,Automated FAQ drafting #529,Submission explains a workflow improvement using AI for summarization and faster decision making.,53,Approved,4
+530,792,549,477,2024-04-03,Schema recommendation workflow #530,Submission explains a workflow improvement using AI for summarization and faster decision making.,117,Submitted,2
+531,755,718,547,2024-04-25,Service scheduling recommendations #531,Use case captures an internal business process where AI may save time or improve accuracy.,118,Implemented,5
+532,730,756,837,2024-05-18,Dealer email summarization #532,Submission explains a workflow improvement using AI for summarization and faster decision making.,70,Under Review,2
+533,247,930,52,2025-06-04,SEO content suggestions #533,Submission explains a workflow improvement using AI for summarization and faster decision making.,70,Pilot,1
+534,348,538,551,2024-04-05,Inventory trend summary #534,Idea focuses on improving team productivity and response time through AI assistance.,44,Pilot,2
+535,848,183,46,2025-03-13,Service scheduling recommendations #535,Submission explains a workflow improvement using AI for summarization and faster decision making.,19,Under Review,1
+536,531,152,640,2025-03-28,SEO content suggestions #536,Use case captures an internal business process where AI may save time or improve accuracy.,94,Implemented,5
+537,83,756,779,2024-11-25,Dashboard insight narration #537,Submission explains a workflow improvement using AI for summarization and faster decision making.,89,Approved,3
+538,31,34,784,2024-01-12,Automated FAQ drafting #538,Employee described how AI helped reduce repetitive manual work in the department.,112,Implemented,1
+539,86,331,169,2026-02-14,SEO content suggestions #539,Employee described how AI helped reduce repetitive manual work in the department.,90,Under Review,4
+540,976,825,101,2025-03-25,Customer sentiment tagging #540,Employee described how AI helped reduce repetitive manual work in the department.,102,Implemented,5
+541,27,737,154,2024-12-27,Meeting note summarization #541,Use case captures an internal business process where AI may save time or improve accuracy.,88,Submitted,5
+542,662,297,771,2024-10-26,Inventory trend summary #542,Submission explains a workflow improvement using AI for summarization and faster decision making.,12,Pilot,2
+543,615,685,591,2025-07-06,Service scheduling recommendations #543,Idea focuses on improving team productivity and response time through AI assistance.,64,Pilot,1
+544,155,180,845,2026-02-20,Warranty claim categorization #544,Employee described how AI helped reduce repetitive manual work in the department.,42,Rejected,4
+545,42,520,446,2025-04-23,Automated FAQ drafting #545,Employee described how AI helped reduce repetitive manual work in the department.,78,Submitted,1
+546,678,268,908,2024-09-08,Product description draft generation #546,Idea focuses on improving team productivity and response time through AI assistance.,83,Approved,1
+547,371,742,529,2024-10-08,Support ticket triage #547,Use case captures an internal business process where AI may save time or improve accuracy.,50,Pilot,1
+548,242,423,153,2026-03-27,Inventory trend summary #548,Submission explains a workflow improvement using AI for summarization and faster decision making.,43,Approved,1
+549,375,318,842,2024-06-23,Product description draft generation #549,Employee described how AI helped reduce repetitive manual work in the department.,72,Implemented,1
+550,641,482,55,2025-02-20,Forecast commentary generator #550,Submission explains a workflow improvement using AI for summarization and faster decision making.,54,Pilot,5
+551,572,472,633,2024-12-29,Automated FAQ drafting #551,Submission explains a workflow improvement using AI for summarization and faster decision making.,18,Submitted,1
+552,275,822,49,2024-05-05,Product description draft generation #552,Idea focuses on improving team productivity and response time through AI assistance.,108,Pilot,1
+553,912,570,938,2025-06-25,Automated FAQ drafting #553,Idea focuses on improving team productivity and response time through AI assistance.,82,Implemented,3
+554,986,878,660,2024-06-30,Service scheduling recommendations #554,Use case captures an internal business process where AI may save time or improve accuracy.,114,Under Review,5
+555,199,388,736,2026-02-21,Forecast commentary generator #555,Employee described how AI helped reduce repetitive manual work in the department.,53,Approved,2
+556,159,690,68,2024-05-24,Product description draft generation #556,Idea focuses on improving team productivity and response time through AI assistance.,94,Under Review,5
+557,586,661,686,2025-11-13,Warranty claim categorization #557,Use case captures an internal business process where AI may save time or improve accuracy.,40,Under Review,1
+558,249,901,430,2026-02-13,Support ticket triage #558,Idea focuses on improving team productivity and response time through AI assistance.,94,Implemented,5
+559,442,220,107,2024-11-13,Inventory trend summary #559,Employee described how AI helped reduce repetitive manual work in the department.,61,Submitted,4
+560,299,969,647,2025-02-03,Knowledge base search assistant #560,Idea focuses on improving team productivity and response time through AI assistance.,98,Approved,3
+561,888,895,44,2024-07-10,Product description draft generation #561,Submission explains a workflow improvement using AI for summarization and faster decision making.,94,Implemented,3
+562,349,557,700,2024-07-10,Warranty claim categorization #562,Submission explains a workflow improvement using AI for summarization and faster decision making.,112,Implemented,1
+563,685,87,482,2025-01-21,Warranty claim categorization #563,Use case captures an internal business process where AI may save time or improve accuracy.,103,Approved,3
+564,526,590,984,2026-04-14,Automated FAQ drafting #564,Submission explains a workflow improvement using AI for summarization and faster decision making.,95,Submitted,3
+565,248,570,715,2025-05-27,Knowledge base search assistant #565,Idea focuses on improving team productivity and response time through AI assistance.,44,Implemented,2
+566,477,625,852,2025-12-14,Dealer email summarization #566,Idea focuses on improving team productivity and response time through AI assistance.,6,Approved,1
+567,874,299,245,2024-07-28,Forecast commentary generator #567,Submission explains a workflow improvement using AI for summarization and faster decision making.,99,Approved,2
+568,849,539,264,2025-08-24,Meeting note summarization #568,Employee described how AI helped reduce repetitive manual work in the department.,52,Implemented,2
+569,827,145,826,2024-04-14,SEO content suggestions #569,Employee described how AI helped reduce repetitive manual work in the department.,93,Pilot,4
+570,539,478,739,2026-03-17,Schema recommendation workflow #570,Employee described how AI helped reduce repetitive manual work in the department.,79,Under Review,2
+571,608,94,647,2025-11-26,Forecast commentary generator #571,Use case captures an internal business process where AI may save time or improve accuracy.,29,Under Review,4
+572,660,331,232,2024-02-10,Internal policy Q&A assistant #572,Employee described how AI helped reduce repetitive manual work in the department.,94,Submitted,1
+573,941,769,627,2026-02-18,Service scheduling recommendations #573,Idea focuses on improving team productivity and response time through AI assistance.,51,Submitted,4
+574,984,513,879,2025-02-20,Automated FAQ drafting #574,Employee described how AI helped reduce repetitive manual work in the department.,118,Under Review,2
+575,841,28,831,2024-01-31,Schema recommendation workflow #575,Idea focuses on improving team productivity and response time through AI assistance.,101,Rejected,1
+576,563,131,858,2025-09-03,Automated FAQ drafting #576,Submission explains a workflow improvement using AI for summarization and faster decision making.,90,Rejected,3
+577,484,653,720,2025-05-24,Inventory trend summary #577,Idea focuses on improving team productivity and response time through AI assistance.,107,Pilot,1
+578,984,743,930,2025-03-01,Automated FAQ drafting #578,Submission explains a workflow improvement using AI for summarization and faster decision making.,52,Approved,5
+579,812,355,138,2024-02-29,SEO content suggestions #579,Idea focuses on improving team productivity and response time through AI assistance.,79,Submitted,1
+580,892,539,655,2026-03-01,Warranty claim categorization #580,Employee described how AI helped reduce repetitive manual work in the department.,71,Approved,2
+581,237,407,543,2025-05-03,Meeting note summarization #581,Employee described how AI helped reduce repetitive manual work in the department.,77,Under Review,4
+582,200,175,835,2026-01-10,Knowledge base search assistant #582,Submission explains a workflow improvement using AI for summarization and faster decision making.,79,Pilot,5
+583,152,76,246,2025-04-07,Inventory trend summary #583,Idea focuses on improving team productivity and response time through AI assistance.,45,Rejected,1
+584,95,262,957,2024-02-07,Warranty claim categorization #584,Submission explains a workflow improvement using AI for summarization and faster decision making.,68,Pilot,4
+585,964,766,44,2026-04-29,Customer sentiment tagging #585,Employee described how AI helped reduce repetitive manual work in the department.,101,Approved,2
+586,505,959,405,2025-03-14,Internal policy Q&A assistant #586,Employee described how AI helped reduce repetitive manual work in the department.,68,Implemented,1
+587,120,765,132,2025-03-12,Automated FAQ drafting #587,Employee described how AI helped reduce repetitive manual work in the department.,26,Submitted,5
+588,907,209,370,2025-02-03,Product description draft generation #588,Employee described how AI helped reduce repetitive manual work in the department.,106,Submitted,4
+589,158,702,467,2024-03-15,Meeting note summarization #589,Submission explains a workflow improvement using AI for summarization and faster decision making.,14,Under Review,2
+590,261,920,349,2024-12-30,Dealer email summarization #590,Use case captures an internal business process where AI may save time or improve accuracy.,67,Pilot,2
+591,447,586,112,2025-05-12,Service scheduling recommendations #591,Use case captures an internal business process where AI may save time or improve accuracy.,99,Pilot,2
+592,637,216,538,2024-09-27,Warranty claim categorization #592,Employee described how AI helped reduce repetitive manual work in the department.,16,Under Review,3
+593,918,568,6,2026-03-23,Dashboard insight narration #593,Submission explains a workflow improvement using AI for summarization and faster decision making.,45,Approved,2
+594,489,884,684,2025-07-17,Support ticket triage #594,Use case captures an internal business process where AI may save time or improve accuracy.,7,Under Review,2
+595,661,384,630,2026-01-11,Schema recommendation workflow #595,Employee described how AI helped reduce repetitive manual work in the department.,15,Implemented,3
+596,463,708,711,2024-01-19,Dealer email summarization #596,Idea focuses on improving team productivity and response time through AI assistance.,74,Pilot,1
+597,823,297,293,2025-08-10,Knowledge base search assistant #597,Employee described how AI helped reduce repetitive manual work in the department.,93,Rejected,3
+598,597,827,170,2025-02-16,Internal policy Q&A assistant #598,Use case captures an internal business process where AI may save time or improve accuracy.,113,Implemented,3
+599,851,566,658,2025-09-11,Dashboard insight narration #599,Employee described how AI helped reduce repetitive manual work in the department.,115,Pilot,3
+600,149,549,803,2025-01-09,Product description draft generation #600,Submission explains a workflow improvement using AI for summarization and faster decision making.,20,Approved,5
+601,106,302,22,2026-03-01,Warranty claim categorization #601,Submission explains a workflow improvement using AI for summarization and faster decision making.,24,Under Review,1
+602,190,860,800,2026-04-06,Sales lead scoring support #602,Idea focuses on improving team productivity and response time through AI assistance.,101,Under Review,4
+603,414,578,574,2024-02-26,Internal policy Q&A assistant #603,Employee described how AI helped reduce repetitive manual work in the department.,73,Rejected,2
+604,408,656,121,2025-04-13,Internal policy Q&A assistant #604,Employee described how AI helped reduce repetitive manual work in the department.,84,Rejected,2
+605,768,222,317,2025-07-29,Sales lead scoring support #605,Submission explains a workflow improvement using AI for summarization and faster decision making.,43,Implemented,5
+606,930,371,666,2024-09-06,Support ticket triage #606,Employee described how AI helped reduce repetitive manual work in the department.,109,Approved,1
+607,919,353,984,2025-02-21,Schema recommendation workflow #607,Submission explains a workflow improvement using AI for summarization and faster decision making.,117,Implemented,5
+608,625,445,350,2024-01-31,Support ticket triage #608,Use case captures an internal business process where AI may save time or improve accuracy.,77,Approved,5
+609,693,151,445,2025-11-07,Inventory trend summary #609,Employee described how AI helped reduce repetitive manual work in the department.,102,Pilot,4
+610,587,388,353,2025-02-20,SEO content suggestions #610,Submission explains a workflow improvement using AI for summarization and faster decision making.,3,Pilot,4
+611,829,437,101,2025-11-19,Support ticket triage #611,Submission explains a workflow improvement using AI for summarization and faster decision making.,105,Pilot,3
+612,586,345,946,2026-02-07,Schema recommendation workflow #612,Idea focuses on improving team productivity and response time through AI assistance.,109,Under Review,3
+613,409,555,153,2024-09-03,Warranty claim categorization #613,Idea focuses on improving team productivity and response time through AI assistance.,82,Submitted,1
+614,853,983,169,2025-05-04,Sales lead scoring support #614,Employee described how AI helped reduce repetitive manual work in the department.,2,Implemented,5
+615,445,615,401,2025-02-02,SEO content suggestions #615,Employee described how AI helped reduce repetitive manual work in the department.,16,Rejected,5
+616,207,77,84,2025-11-15,Forecast commentary generator #616,Idea focuses on improving team productivity and response time through AI assistance.,107,Submitted,1
+617,969,68,385,2025-06-24,Dealer email summarization #617,Idea focuses on improving team productivity and response time through AI assistance.,12,Approved,5
+618,75,879,756,2024-11-25,Dealer email summarization #618,Use case captures an internal business process where AI may save time or improve accuracy.,54,Under Review,5
+619,201,893,597,2025-03-29,Internal policy Q&A assistant #619,Submission explains a workflow improvement using AI for summarization and faster decision making.,8,Implemented,3
+620,226,653,287,2024-10-03,Automated FAQ drafting #620,Use case captures an internal business process where AI may save time or improve accuracy.,58,Rejected,5
+621,289,401,167,2024-02-29,Dashboard insight narration #621,Submission explains a workflow improvement using AI for summarization and faster decision making.,94,Rejected,4
+622,688,134,611,2024-05-20,Customer sentiment tagging #622,Employee described how AI helped reduce repetitive manual work in the department.,73,Submitted,4
+623,743,641,846,2025-04-30,Product description draft generation #623,Employee described how AI helped reduce repetitive manual work in the department.,22,Pilot,5
+624,69,788,797,2024-09-26,Automated FAQ drafting #624,Use case captures an internal business process where AI may save time or improve accuracy.,69,Implemented,5
+625,270,69,994,2024-07-18,Forecast commentary generator #625,Submission explains a workflow improvement using AI for summarization and faster decision making.,60,Under Review,1
+626,960,136,978,2024-11-17,Customer sentiment tagging #626,Submission explains a workflow improvement using AI for summarization and faster decision making.,27,Approved,4
+627,112,479,558,2024-03-22,Dashboard insight narration #627,Employee described how AI helped reduce repetitive manual work in the department.,28,Under Review,1
+628,81,618,168,2024-01-01,Product description draft generation #628,Employee described how AI helped reduce repetitive manual work in the department.,30,Rejected,2
+629,845,526,686,2024-11-21,Support ticket triage #629,Use case captures an internal business process where AI may save time or improve accuracy.,65,Pilot,5
+630,1000,354,386,2024-05-04,Forecast commentary generator #630,Submission explains a workflow improvement using AI for summarization and faster decision making.,59,Submitted,5
+631,304,315,271,2025-08-29,Dealer email summarization #631,Submission explains a workflow improvement using AI for summarization and faster decision making.,112,Pilot,3
+632,49,145,885,2025-02-09,Warranty claim categorization #632,Employee described how AI helped reduce repetitive manual work in the department.,106,Submitted,4
+633,283,292,55,2024-08-30,Dashboard insight narration #633,Submission explains a workflow improvement using AI for summarization and faster decision making.,89,Approved,1
+634,408,482,548,2024-04-20,Support ticket triage #634,Use case captures an internal business process where AI may save time or improve accuracy.,96,Rejected,5
+635,175,938,192,2024-03-17,Automated FAQ drafting #635,Submission explains a workflow improvement using AI for summarization and faster decision making.,83,Submitted,4
+636,916,841,604,2025-07-03,Knowledge base search assistant #636,Employee described how AI helped reduce repetitive manual work in the department.,82,Under Review,3
+637,532,953,998,2025-03-05,Knowledge base search assistant #637,Idea focuses on improving team productivity and response time through AI assistance.,96,Rejected,5
+638,449,240,777,2025-03-12,Sales lead scoring support #638,Submission explains a workflow improvement using AI for summarization and faster decision making.,114,Submitted,5
+639,182,557,698,2024-11-22,Internal policy Q&A assistant #639,Employee described how AI helped reduce repetitive manual work in the department.,45,Under Review,5
+640,769,461,983,2026-01-26,Automated FAQ drafting #640,Use case captures an internal business process where AI may save time or improve accuracy.,102,Implemented,5
+641,558,737,652,2025-03-14,Product description draft generation #641,Employee described how AI helped reduce repetitive manual work in the department.,60,Rejected,1
+642,413,882,961,2025-05-23,Sales lead scoring support #642,Use case captures an internal business process where AI may save time or improve accuracy.,68,Under Review,1
+643,374,783,3,2025-01-20,Support ticket triage #643,Employee described how AI helped reduce repetitive manual work in the department.,86,Under Review,2
+644,230,645,358,2024-12-01,Knowledge base search assistant #644,Employee described how AI helped reduce repetitive manual work in the department.,52,Implemented,3
+645,16,796,344,2025-07-06,Dashboard insight narration #645,Employee described how AI helped reduce repetitive manual work in the department.,89,Approved,4
+646,584,154,751,2024-03-15,Knowledge base search assistant #646,Employee described how AI helped reduce repetitive manual work in the department.,75,Under Review,3
+647,582,408,993,2025-04-12,Dealer email summarization #647,Idea focuses on improving team productivity and response time through AI assistance.,32,Rejected,5
+648,624,555,296,2026-03-13,Automated FAQ drafting #648,Submission explains a workflow improvement using AI for summarization and faster decision making.,18,Submitted,3
+649,818,35,975,2025-09-11,Sales lead scoring support #649,Use case captures an internal business process where AI may save time or improve accuracy.,94,Pilot,3
+650,520,993,299,2025-10-25,Support ticket triage #650,Idea focuses on improving team productivity and response time through AI assistance.,114,Pilot,3
+651,867,754,625,2025-06-08,SEO content suggestions #651,Employee described how AI helped reduce repetitive manual work in the department.,38,Approved,4
+652,642,559,520,2025-04-13,Dealer email summarization #652,Use case captures an internal business process where AI may save time or improve accuracy.,13,Approved,2
+653,241,917,558,2025-02-15,Dashboard insight narration #653,Use case captures an internal business process where AI may save time or improve accuracy.,63,Under Review,5
+654,788,996,673,2024-07-10,Automated FAQ drafting #654,Use case captures an internal business process where AI may save time or improve accuracy.,37,Rejected,1
+655,987,629,66,2026-01-06,Dashboard insight narration #655,Use case captures an internal business process where AI may save time or improve accuracy.,80,Pilot,4
+656,394,555,154,2025-09-30,Internal policy Q&A assistant #656,Use case captures an internal business process where AI may save time or improve accuracy.,93,Under Review,2
+657,328,529,591,2024-07-19,Service scheduling recommendations #657,Employee described how AI helped reduce repetitive manual work in the department.,103,Implemented,5
+658,326,698,537,2024-01-01,Product description draft generation #658,Submission explains a workflow improvement using AI for summarization and faster decision making.,89,Implemented,2
+659,378,54,713,2024-10-02,Automated FAQ drafting #659,Idea focuses on improving team productivity and response time through AI assistance.,98,Rejected,4
+660,746,635,340,2025-12-03,Dashboard insight narration #660,Employee described how AI helped reduce repetitive manual work in the department.,5,Implemented,1
+661,172,287,922,2025-07-08,Knowledge base search assistant #661,Idea focuses on improving team productivity and response time through AI assistance.,111,Approved,3
+662,258,187,957,2025-06-20,Product description draft generation #662,Use case captures an internal business process where AI may save time or improve accuracy.,77,Rejected,2
+663,144,362,847,2026-04-14,Warranty claim categorization #663,Submission explains a workflow improvement using AI for summarization and faster decision making.,83,Under Review,2
+664,700,546,758,2025-08-12,Inventory trend summary #664,Use case captures an internal business process where AI may save time or improve accuracy.,108,Under Review,2
+665,560,984,924,2025-08-09,Schema recommendation workflow #665,Idea focuses on improving team productivity and response time through AI assistance.,53,Under Review,3
+666,82,701,697,2024-12-01,Knowledge base search assistant #666,Idea focuses on improving team productivity and response time through AI assistance.,94,Rejected,2
+667,936,968,352,2025-02-02,Knowledge base search assistant #667,Submission explains a workflow improvement using AI for summarization and faster decision making.,53,Pilot,2
+668,890,712,228,2024-12-17,Customer sentiment tagging #668,Employee described how AI helped reduce repetitive manual work in the department.,30,Pilot,1
+669,574,728,401,2025-01-13,Customer sentiment tagging #669,Employee described how AI helped reduce repetitive manual work in the department.,84,Rejected,5
+670,270,980,396,2025-07-26,Meeting note summarization #670,Employee described how AI helped reduce repetitive manual work in the department.,80,Approved,4
+671,792,697,295,2026-04-24,Inventory trend summary #671,Submission explains a workflow improvement using AI for summarization and faster decision making.,2,Under Review,3
+672,644,639,123,2025-11-22,SEO content suggestions #672,Employee described how AI helped reduce repetitive manual work in the department.,118,Rejected,5
+673,496,169,49,2024-07-22,Meeting note summarization #673,Submission explains a workflow improvement using AI for summarization and faster decision making.,36,Submitted,1
+674,859,373,216,2025-02-07,Warranty claim categorization #674,Employee described how AI helped reduce repetitive manual work in the department.,43,Approved,4
+675,111,335,848,2024-12-01,Forecast commentary generator #675,Employee described how AI helped reduce repetitive manual work in the department.,29,Implemented,2
+676,375,635,908,2024-08-07,Internal policy Q&A assistant #676,Use case captures an internal business process where AI may save time or improve accuracy.,95,Pilot,1
+677,244,818,437,2025-04-03,Meeting note summarization #677,Employee described how AI helped reduce repetitive manual work in the department.,4,Pilot,3
+678,976,867,154,2025-12-14,Schema recommendation workflow #678,Idea focuses on improving team productivity and response time through AI assistance.,100,Submitted,1
+679,795,363,182,2025-04-12,Product description draft generation #679,Employee described how AI helped reduce repetitive manual work in the department.,91,Pilot,5
+680,485,575,62,2025-09-11,Support ticket triage #680,Use case captures an internal business process where AI may save time or improve accuracy.,2,Approved,3
+681,133,241,865,2025-06-10,Customer sentiment tagging #681,Use case captures an internal business process where AI may save time or improve accuracy.,22,Under Review,3
+682,571,829,935,2026-04-08,Internal policy Q&A assistant #682,Use case captures an internal business process where AI may save time or improve accuracy.,9,Approved,5
+683,519,426,812,2026-02-11,Dashboard insight narration #683,Use case captures an internal business process where AI may save time or improve accuracy.,37,Approved,2
+684,142,505,724,2024-12-11,Meeting note summarization #684,Idea focuses on improving team productivity and response time through AI assistance.,71,Implemented,3
+685,751,603,433,2025-01-07,Meeting note summarization #685,Idea focuses on improving team productivity and response time through AI assistance.,24,Pilot,2
+686,312,981,630,2024-05-01,SEO content suggestions #686,Use case captures an internal business process where AI may save time or improve accuracy.,44,Submitted,2
+687,955,872,7,2024-02-10,Dealer email summarization #687,Submission explains a workflow improvement using AI for summarization and faster decision making.,104,Approved,3
+688,655,236,601,2025-10-24,Sales lead scoring support #688,Employee described how AI helped reduce repetitive manual work in the department.,32,Under Review,1
+689,819,334,890,2024-11-20,SEO content suggestions #689,Submission explains a workflow improvement using AI for summarization and faster decision making.,2,Approved,3
+690,493,35,535,2024-07-27,Internal policy Q&A assistant #690,Submission explains a workflow improvement using AI for summarization and faster decision making.,89,Submitted,3
+691,311,292,872,2025-06-16,Product description draft generation #691,Use case captures an internal business process where AI may save time or improve accuracy.,77,Pilot,4
+692,148,512,987,2025-12-07,Sales lead scoring support #692,Use case captures an internal business process where AI may save time or improve accuracy.,59,Implemented,4
+693,737,973,300,2025-10-20,Internal policy Q&A assistant #693,Submission explains a workflow improvement using AI for summarization and faster decision making.,97,Submitted,2
+694,376,867,528,2026-01-26,Knowledge base search assistant #694,Idea focuses on improving team productivity and response time through AI assistance.,38,Under Review,1
+695,539,224,825,2026-04-13,Knowledge base search assistant #695,Employee described how AI helped reduce repetitive manual work in the department.,96,Under Review,2
+696,857,65,130,2024-07-23,Support ticket triage #696,Employee described how AI helped reduce repetitive manual work in the department.,82,Approved,5
+697,95,61,387,2026-01-26,Automated FAQ drafting #697,Employee described how AI helped reduce repetitive manual work in the department.,68,Under Review,4
+698,269,502,164,2024-07-27,Dashboard insight narration #698,Idea focuses on improving team productivity and response time through AI assistance.,5,Pilot,2
+699,786,483,414,2025-06-15,SEO content suggestions #699,Use case captures an internal business process where AI may save time or improve accuracy.,24,Under Review,3
+700,492,476,329,2024-09-23,Customer sentiment tagging #700,Idea focuses on improving team productivity and response time through AI assistance.,63,Under Review,4
+701,159,884,585,2024-02-03,Meeting note summarization #701,Submission explains a workflow improvement using AI for summarization and faster decision making.,81,Submitted,5
+702,837,795,876,2025-11-16,Dashboard insight narration #702,Use case captures an internal business process where AI may save time or improve accuracy.,117,Implemented,5
+703,247,748,105,2025-02-05,Dealer email summarization #703,Submission explains a workflow improvement using AI for summarization and faster decision making.,93,Rejected,1
+704,661,481,180,2024-03-05,Dashboard insight narration #704,Submission explains a workflow improvement using AI for summarization and faster decision making.,27,Rejected,2
+705,949,579,672,2025-08-19,Knowledge base search assistant #705,Employee described how AI helped reduce repetitive manual work in the department.,43,Under Review,2
+706,159,591,979,2025-08-03,Forecast commentary generator #706,Use case captures an internal business process where AI may save time or improve accuracy.,114,Under Review,1
+707,751,438,819,2024-11-30,SEO content suggestions #707,Idea focuses on improving team productivity and response time through AI assistance.,32,Pilot,5
+708,148,243,919,2024-06-19,Meeting note summarization #708,Idea focuses on improving team productivity and response time through AI assistance.,91,Under Review,5
+709,877,916,554,2024-07-27,Meeting note summarization #709,Idea focuses on improving team productivity and response time through AI assistance.,36,Rejected,1
+710,501,743,661,2025-04-19,Service scheduling recommendations #710,Submission explains a workflow improvement using AI for summarization and faster decision making.,22,Rejected,3
+711,254,965,21,2025-08-07,Meeting note summarization #711,Idea focuses on improving team productivity and response time through AI assistance.,112,Approved,5
+712,831,976,794,2025-05-25,Schema recommendation workflow #712,Submission explains a workflow improvement using AI for summarization and faster decision making.,116,Rejected,5
+713,845,869,882,2025-08-19,Dashboard insight narration #713,Employee described how AI helped reduce repetitive manual work in the department.,25,Pilot,2
+714,451,72,166,2024-02-26,Meeting note summarization #714,Submission explains a workflow improvement using AI for summarization and faster decision making.,87,Pilot,4
+715,778,540,933,2025-05-24,Schema recommendation workflow #715,Submission explains a workflow improvement using AI for summarization and faster decision making.,64,Implemented,3
+716,142,594,975,2025-07-25,Sales lead scoring support #716,Submission explains a workflow improvement using AI for summarization and faster decision making.,21,Submitted,1
+717,138,813,374,2025-02-10,Dealer email summarization #717,Submission explains a workflow improvement using AI for summarization and faster decision making.,24,Submitted,1
+718,272,780,568,2025-05-15,Dashboard insight narration #718,Use case captures an internal business process where AI may save time or improve accuracy.,46,Implemented,2
+719,710,758,740,2025-12-22,Customer sentiment tagging #719,Idea focuses on improving team productivity and response time through AI assistance.,25,Under Review,5
+720,404,947,63,2026-03-28,Dealer email summarization #720,Submission explains a workflow improvement using AI for summarization and faster decision making.,4,Approved,3
+721,242,945,398,2025-10-22,SEO content suggestions #721,Idea focuses on improving team productivity and response time through AI assistance.,16,Rejected,1
+722,356,856,893,2024-06-15,Forecast commentary generator #722,Employee described how AI helped reduce repetitive manual work in the department.,4,Under Review,5
+723,172,798,950,2026-01-17,Customer sentiment tagging #723,Employee described how AI helped reduce repetitive manual work in the department.,13,Approved,2
+724,490,284,670,2026-01-22,Forecast commentary generator #724,Employee described how AI helped reduce repetitive manual work in the department.,80,Under Review,1
+725,591,426,482,2024-03-25,Forecast commentary generator #725,Use case captures an internal business process where AI may save time or improve accuracy.,13,Pilot,1
+726,149,408,50,2025-10-10,Support ticket triage #726,Submission explains a workflow improvement using AI for summarization and faster decision making.,16,Under Review,2
+727,121,888,704,2025-12-18,Dashboard insight narration #727,Use case captures an internal business process where AI may save time or improve accuracy.,61,Implemented,2
+728,55,118,621,2026-02-28,SEO content suggestions #728,Employee described how AI helped reduce repetitive manual work in the department.,16,Rejected,4
+729,108,133,936,2024-07-04,Dealer email summarization #729,Employee described how AI helped reduce repetitive manual work in the department.,81,Implemented,1
+730,458,140,741,2024-12-17,Dashboard insight narration #730,Submission explains a workflow improvement using AI for summarization and faster decision making.,27,Pilot,2
+731,38,301,586,2024-07-16,Internal policy Q&A assistant #731,Use case captures an internal business process where AI may save time or improve accuracy.,45,Under Review,5
+732,14,677,184,2025-04-11,Warranty claim categorization #732,Employee described how AI helped reduce repetitive manual work in the department.,21,Approved,2
+733,103,93,292,2024-01-24,Product description draft generation #733,Submission explains a workflow improvement using AI for summarization and faster decision making.,120,Approved,1
+734,591,681,335,2024-05-17,Support ticket triage #734,Idea focuses on improving team productivity and response time through AI assistance.,50,Under Review,1
+735,861,843,606,2024-07-17,Customer sentiment tagging #735,Idea focuses on improving team productivity and response time through AI assistance.,94,Rejected,1
+736,830,760,754,2025-11-01,Automated FAQ drafting #736,Submission explains a workflow improvement using AI for summarization and faster decision making.,93,Implemented,5
+737,611,354,132,2026-03-08,Service scheduling recommendations #737,Employee described how AI helped reduce repetitive manual work in the department.,101,Submitted,2
+738,993,465,122,2024-05-25,Inventory trend summary #738,Submission explains a workflow improvement using AI for summarization and faster decision making.,56,Approved,5
+739,335,553,376,2025-01-31,Warranty claim categorization #739,Submission explains a workflow improvement using AI for summarization and faster decision making.,29,Submitted,3
+740,965,77,910,2026-01-30,Support ticket triage #740,Employee described how AI helped reduce repetitive manual work in the department.,20,Rejected,1
+741,433,127,371,2025-09-20,Knowledge base search assistant #741,Use case captures an internal business process where AI may save time or improve accuracy.,31,Pilot,4
+742,285,62,171,2025-09-05,Dealer email summarization #742,Use case captures an internal business process where AI may save time or improve accuracy.,94,Implemented,1
+743,442,437,883,2025-08-27,Automated FAQ drafting #743,Use case captures an internal business process where AI may save time or improve accuracy.,31,Under Review,2
+744,881,289,544,2025-10-27,Schema recommendation workflow #744,Idea focuses on improving team productivity and response time through AI assistance.,42,Approved,2
+745,848,900,701,2025-10-08,Automated FAQ drafting #745,Submission explains a workflow improvement using AI for summarization and faster decision making.,91,Implemented,3
+746,34,256,61,2024-05-07,Automated FAQ drafting #746,Idea focuses on improving team productivity and response time through AI assistance.,118,Rejected,4
+747,578,937,787,2025-10-17,Dashboard insight narration #747,Idea focuses on improving team productivity and response time through AI assistance.,56,Approved,5
+748,67,380,454,2025-08-27,Customer sentiment tagging #748,Idea focuses on improving team productivity and response time through AI assistance.,38,Rejected,2
+749,969,253,258,2025-05-06,Schema recommendation workflow #749,Submission explains a workflow improvement using AI for summarization and faster decision making.,109,Approved,4
+750,445,3,114,2024-02-15,Dealer email summarization #750,Employee described how AI helped reduce repetitive manual work in the department.,104,Pilot,1
+751,40,213,28,2026-04-05,Internal policy Q&A assistant #751,Submission explains a workflow improvement using AI for summarization and faster decision making.,14,Rejected,4
+752,283,782,966,2024-04-02,Service scheduling recommendations #752,Submission explains a workflow improvement using AI for summarization and faster decision making.,56,Pilot,1
+753,558,14,530,2024-04-09,Customer sentiment tagging #753,Use case captures an internal business process where AI may save time or improve accuracy.,15,Under Review,5
+754,32,890,738,2024-04-20,Meeting note summarization #754,Employee described how AI helped reduce repetitive manual work in the department.,61,Submitted,2
+755,521,44,419,2025-04-08,Schema recommendation workflow #755,Submission explains a workflow improvement using AI for summarization and faster decision making.,8,Rejected,2
+756,341,82,993,2024-02-18,Warranty claim categorization #756,Idea focuses on improving team productivity and response time through AI assistance.,69,Approved,4
+757,308,205,821,2025-02-14,Knowledge base search assistant #757,Employee described how AI helped reduce repetitive manual work in the department.,92,Under Review,1
+758,18,579,446,2024-07-05,Customer sentiment tagging #758,Idea focuses on improving team productivity and response time through AI assistance.,59,Rejected,4
+759,611,260,509,2024-01-31,Forecast commentary generator #759,Employee described how AI helped reduce repetitive manual work in the department.,73,Submitted,3
+760,204,688,823,2026-03-06,Forecast commentary generator #760,Use case captures an internal business process where AI may save time or improve accuracy.,22,Rejected,3
+761,859,448,911,2025-02-07,Internal policy Q&A assistant #761,Submission explains a workflow improvement using AI for summarization and faster decision making.,12,Approved,5
+762,66,538,247,2026-04-30,Support ticket triage #762,Use case captures an internal business process where AI may save time or improve accuracy.,4,Submitted,1
+763,273,413,425,2025-03-11,Schema recommendation workflow #763,Idea focuses on improving team productivity and response time through AI assistance.,44,Implemented,5
+764,26,774,70,2026-03-25,Schema recommendation workflow #764,Employee described how AI helped reduce repetitive manual work in the department.,59,Pilot,4
+765,683,479,128,2024-09-15,Dealer email summarization #765,Employee described how AI helped reduce repetitive manual work in the department.,97,Implemented,3
+766,600,242,557,2026-02-25,SEO content suggestions #766,Idea focuses on improving team productivity and response time through AI assistance.,75,Submitted,3
+767,256,684,725,2024-03-08,Meeting note summarization #767,Submission explains a workflow improvement using AI for summarization and faster decision making.,7,Approved,5
+768,624,514,39,2026-04-07,Warranty claim categorization #768,Use case captures an internal business process where AI may save time or improve accuracy.,120,Rejected,5
+769,542,505,655,2024-08-17,SEO content suggestions #769,Submission explains a workflow improvement using AI for summarization and faster decision making.,61,Pilot,4
+770,702,124,834,2025-02-28,Product description draft generation #770,Idea focuses on improving team productivity and response time through AI assistance.,15,Rejected,4
+771,979,102,153,2024-08-09,Service scheduling recommendations #771,Idea focuses on improving team productivity and response time through AI assistance.,8,Rejected,4
+772,585,273,255,2024-08-26,Knowledge base search assistant #772,Idea focuses on improving team productivity and response time through AI assistance.,57,Under Review,2
+773,755,706,991,2025-06-11,Warranty claim categorization #773,Employee described how AI helped reduce repetitive manual work in the department.,80,Rejected,1
+774,69,729,843,2024-09-27,Knowledge base search assistant #774,Use case captures an internal business process where AI may save time or improve accuracy.,110,Implemented,2
+775,27,220,479,2024-02-22,Dashboard insight narration #775,Submission explains a workflow improvement using AI for summarization and faster decision making.,15,Submitted,4
+776,57,862,163,2025-11-07,Automated FAQ drafting #776,Idea focuses on improving team productivity and response time through AI assistance.,14,Pilot,1
+777,241,379,701,2025-12-19,Dashboard insight narration #777,Submission explains a workflow improvement using AI for summarization and faster decision making.,116,Submitted,1
+778,1000,456,986,2024-01-23,Warranty claim categorization #778,Employee described how AI helped reduce repetitive manual work in the department.,106,Submitted,5
+779,951,409,916,2024-09-23,Warranty claim categorization #779,Submission explains a workflow improvement using AI for summarization and faster decision making.,22,Submitted,4
+780,970,902,905,2024-12-30,Sales lead scoring support #780,Use case captures an internal business process where AI may save time or improve accuracy.,66,Approved,4
+781,955,12,553,2024-06-25,Dealer email summarization #781,Employee described how AI helped reduce repetitive manual work in the department.,35,Pilot,1
+782,429,486,328,2025-04-29,SEO content suggestions #782,Submission explains a workflow improvement using AI for summarization and faster decision making.,109,Under Review,4
+783,577,88,307,2025-09-01,Product description draft generation #783,Employee described how AI helped reduce repetitive manual work in the department.,99,Implemented,1
+784,957,162,524,2025-05-26,Inventory trend summary #784,Submission explains a workflow improvement using AI for summarization and faster decision making.,78,Implemented,4
+785,574,926,517,2024-06-03,Dashboard insight narration #785,Use case captures an internal business process where AI may save time or improve accuracy.,76,Implemented,4
+786,681,651,52,2024-09-30,Dealer email summarization #786,Idea focuses on improving team productivity and response time through AI assistance.,31,Implemented,1
+787,265,927,810,2024-03-31,Internal policy Q&A assistant #787,Employee described how AI helped reduce repetitive manual work in the department.,47,Rejected,1
+788,507,922,566,2025-10-19,Sales lead scoring support #788,Submission explains a workflow improvement using AI for summarization and faster decision making.,64,Approved,5
+789,572,230,342,2026-01-10,Product description draft generation #789,Idea focuses on improving team productivity and response time through AI assistance.,15,Rejected,5
+790,818,880,825,2025-11-05,Product description draft generation #790,Submission explains a workflow improvement using AI for summarization and faster decision making.,39,Implemented,1
+791,907,620,949,2025-03-07,Warranty claim categorization #791,Use case captures an internal business process where AI may save time or improve accuracy.,51,Pilot,2
+792,738,272,959,2025-09-18,Internal policy Q&A assistant #792,Employee described how AI helped reduce repetitive manual work in the department.,36,Rejected,5
+793,320,156,67,2025-03-30,Automated FAQ drafting #793,Submission explains a workflow improvement using AI for summarization and faster decision making.,73,Approved,1
+794,396,146,164,2024-12-30,Sales lead scoring support #794,Use case captures an internal business process where AI may save time or improve accuracy.,37,Pilot,5
+795,129,1,515,2025-08-10,Sales lead scoring support #795,Idea focuses on improving team productivity and response time through AI assistance.,70,Rejected,5
+796,714,514,234,2025-09-20,Dealer email summarization #796,Use case captures an internal business process where AI may save time or improve accuracy.,19,Approved,4
+797,492,155,771,2025-06-23,Dashboard insight narration #797,Employee described how AI helped reduce repetitive manual work in the department.,56,Submitted,5
+798,854,65,92,2024-11-03,SEO content suggestions #798,Submission explains a workflow improvement using AI for summarization and faster decision making.,108,Submitted,5
+799,918,775,743,2024-09-11,Customer sentiment tagging #799,Submission explains a workflow improvement using AI for summarization and faster decision making.,107,Under Review,4
+800,111,239,219,2025-05-01,Internal policy Q&A assistant #800,Employee described how AI helped reduce repetitive manual work in the department.,45,Under Review,2
+801,45,941,261,2024-11-24,Schema recommendation workflow #801,Use case captures an internal business process where AI may save time or improve accuracy.,44,Implemented,1
+802,932,170,369,2024-10-12,Warranty claim categorization #802,Use case captures an internal business process where AI may save time or improve accuracy.,20,Approved,1
+803,632,100,440,2024-11-21,Dealer email summarization #803,Submission explains a workflow improvement using AI for summarization and faster decision making.,91,Approved,3
+804,29,807,581,2025-03-02,Product description draft generation #804,Employee described how AI helped reduce repetitive manual work in the department.,62,Implemented,4
+805,919,934,954,2026-02-04,SEO content suggestions #805,Submission explains a workflow improvement using AI for summarization and faster decision making.,91,Approved,5
+806,552,587,772,2025-07-13,Dealer email summarization #806,Employee described how AI helped reduce repetitive manual work in the department.,112,Rejected,4
+807,854,565,149,2024-04-09,Inventory trend summary #807,Employee described how AI helped reduce repetitive manual work in the department.,58,Approved,4
+808,530,869,108,2026-03-17,Sales lead scoring support #808,Idea focuses on improving team productivity and response time through AI assistance.,81,Under Review,4
+809,642,386,970,2024-09-28,Internal policy Q&A assistant #809,Submission explains a workflow improvement using AI for summarization and faster decision making.,91,Pilot,4
+810,714,634,563,2025-03-26,Warranty claim categorization #810,Use case captures an internal business process where AI may save time or improve accuracy.,74,Approved,1
+811,336,349,603,2024-09-24,Meeting note summarization #811,Employee described how AI helped reduce repetitive manual work in the department.,16,Submitted,5
+812,139,740,614,2025-11-26,Knowledge base search assistant #812,Employee described how AI helped reduce repetitive manual work in the department.,110,Implemented,4
+813,370,253,714,2025-01-25,Dealer email summarization #813,Idea focuses on improving team productivity and response time through AI assistance.,16,Submitted,4
+814,81,433,700,2026-01-15,Dealer email summarization #814,Submission explains a workflow improvement using AI for summarization and faster decision making.,108,Pilot,5
+815,771,790,569,2026-04-06,Product description draft generation #815,Submission explains a workflow improvement using AI for summarization and faster decision making.,55,Approved,2
+816,421,1000,727,2025-10-25,Support ticket triage #816,Employee described how AI helped reduce repetitive manual work in the department.,67,Pilot,3
+817,336,382,614,2024-02-27,Product description draft generation #817,Use case captures an internal business process where AI may save time or improve accuracy.,2,Submitted,1
+818,609,672,667,2025-08-09,Warranty claim categorization #818,Submission explains a workflow improvement using AI for summarization and faster decision making.,40,Pilot,5
+819,257,184,49,2024-10-27,Product description draft generation #819,Use case captures an internal business process where AI may save time or improve accuracy.,89,Approved,5
+820,629,446,442,2025-05-24,Internal policy Q&A assistant #820,Employee described how AI helped reduce repetitive manual work in the department.,43,Rejected,3
+821,166,15,840,2026-03-20,Warranty claim categorization #821,Idea focuses on improving team productivity and response time through AI assistance.,56,Approved,4
+822,775,454,349,2025-07-04,Automated FAQ drafting #822,Use case captures an internal business process where AI may save time or improve accuracy.,102,Approved,3
+823,988,227,197,2026-03-11,Automated FAQ drafting #823,Use case captures an internal business process where AI may save time or improve accuracy.,18,Under Review,3
+824,265,819,415,2025-01-25,Support ticket triage #824,Submission explains a workflow improvement using AI for summarization and faster decision making.,100,Rejected,3
+825,718,297,56,2024-04-21,Product description draft generation #825,Idea focuses on improving team productivity and response time through AI assistance.,79,Pilot,3
+826,235,948,55,2024-01-10,Internal policy Q&A assistant #826,Submission explains a workflow improvement using AI for summarization and faster decision making.,111,Under Review,1
+827,180,156,302,2024-07-04,Dashboard insight narration #827,Use case captures an internal business process where AI may save time or improve accuracy.,114,Rejected,4
+828,319,411,138,2026-02-21,Meeting note summarization #828,Employee described how AI helped reduce repetitive manual work in the department.,51,Submitted,1
+829,81,182,288,2025-12-27,Schema recommendation workflow #829,Employee described how AI helped reduce repetitive manual work in the department.,49,Pilot,3
+830,547,817,530,2025-10-16,Product description draft generation #830,Employee described how AI helped reduce repetitive manual work in the department.,2,Pilot,1
+831,111,486,603,2025-06-12,Product description draft generation #831,Use case captures an internal business process where AI may save time or improve accuracy.,93,Rejected,5
+832,131,201,896,2024-03-22,Knowledge base search assistant #832,Idea focuses on improving team productivity and response time through AI assistance.,58,Submitted,3
+833,457,139,736,2025-02-22,Inventory trend summary #833,Submission explains a workflow improvement using AI for summarization and faster decision making.,83,Rejected,1
+834,151,748,114,2024-06-17,Dealer email summarization #834,Submission explains a workflow improvement using AI for summarization and faster decision making.,69,Approved,2
+835,754,778,906,2025-05-05,Meeting note summarization #835,Submission explains a workflow improvement using AI for summarization and faster decision making.,57,Approved,5
+836,748,396,888,2026-02-09,Dealer email summarization #836,Use case captures an internal business process where AI may save time or improve accuracy.,72,Approved,2
+837,378,272,971,2025-06-10,Knowledge base search assistant #837,Idea focuses on improving team productivity and response time through AI assistance.,18,Submitted,5
+838,712,770,239,2025-05-30,Meeting note summarization #838,Idea focuses on improving team productivity and response time through AI assistance.,48,Approved,1
+839,33,693,968,2025-03-15,Inventory trend summary #839,Idea focuses on improving team productivity and response time through AI assistance.,85,Approved,3
+840,668,479,347,2026-01-27,Support ticket triage #840,Submission explains a workflow improvement using AI for summarization and faster decision making.,110,Submitted,1
+841,144,968,199,2024-06-06,Dashboard insight narration #841,Idea focuses on improving team productivity and response time through AI assistance.,100,Pilot,5
+842,784,755,749,2025-05-18,SEO content suggestions #842,Use case captures an internal business process where AI may save time or improve accuracy.,58,Rejected,2
+843,249,681,301,2025-10-22,Knowledge base search assistant #843,Use case captures an internal business process where AI may save time or improve accuracy.,23,Submitted,2
+844,889,853,569,2025-07-05,Product description draft generation #844,Submission explains a workflow improvement using AI for summarization and faster decision making.,106,Submitted,4
+845,363,732,13,2025-11-01,Dealer email summarization #845,Employee described how AI helped reduce repetitive manual work in the department.,79,Rejected,2
+846,847,43,262,2024-12-02,Forecast commentary generator #846,Employee described how AI helped reduce repetitive manual work in the department.,51,Pilot,2
+847,333,737,559,2025-05-30,Support ticket triage #847,Idea focuses on improving team productivity and response time through AI assistance.,81,Under Review,3
+848,869,236,903,2024-11-08,Automated FAQ drafting #848,Employee described how AI helped reduce repetitive manual work in the department.,111,Implemented,1
+849,528,71,733,2025-02-09,Dashboard insight narration #849,Use case captures an internal business process where AI may save time or improve accuracy.,66,Approved,5
+850,927,69,863,2025-03-11,Customer sentiment tagging #850,Submission explains a workflow improvement using AI for summarization and faster decision making.,37,Approved,3
+851,939,687,979,2025-01-03,Inventory trend summary #851,Idea focuses on improving team productivity and response time through AI assistance.,56,Submitted,5
+852,216,840,548,2025-01-05,SEO content suggestions #852,Use case captures an internal business process where AI may save time or improve accuracy.,79,Pilot,2
+853,462,722,804,2025-07-19,Schema recommendation workflow #853,Employee described how AI helped reduce repetitive manual work in the department.,84,Implemented,3
+854,247,660,611,2024-05-06,Support ticket triage #854,Use case captures an internal business process where AI may save time or improve accuracy.,66,Pilot,3
+855,896,552,753,2025-01-30,Internal policy Q&A assistant #855,Submission explains a workflow improvement using AI for summarization and faster decision making.,115,Implemented,5
+856,63,314,323,2025-05-07,Support ticket triage #856,Use case captures an internal business process where AI may save time or improve accuracy.,15,Approved,4
+857,698,141,260,2025-01-20,Sales lead scoring support #857,Employee described how AI helped reduce repetitive manual work in the department.,105,Submitted,5
+858,554,766,987,2025-01-25,Inventory trend summary #858,Submission explains a workflow improvement using AI for summarization and faster decision making.,36,Under Review,2
+859,852,571,665,2024-08-19,Dashboard insight narration #859,Submission explains a workflow improvement using AI for summarization and faster decision making.,68,Under Review,2
+860,582,812,106,2024-06-03,Schema recommendation workflow #860,Use case captures an internal business process where AI may save time or improve accuracy.,5,Rejected,2
+861,967,903,581,2024-08-03,Knowledge base search assistant #861,Employee described how AI helped reduce repetitive manual work in the department.,93,Pilot,5
+862,947,218,172,2024-05-29,Schema recommendation workflow #862,Employee described how AI helped reduce repetitive manual work in the department.,106,Submitted,1
+863,190,236,180,2024-01-03,Automated FAQ drafting #863,Employee described how AI helped reduce repetitive manual work in the department.,90,Pilot,4
+864,473,445,389,2024-04-27,Dealer email summarization #864,Employee described how AI helped reduce repetitive manual work in the department.,67,Implemented,5
+865,688,889,572,2026-04-01,Service scheduling recommendations #865,Use case captures an internal business process where AI may save time or improve accuracy.,17,Submitted,5
+866,86,838,303,2024-07-12,Customer sentiment tagging #866,Use case captures an internal business process where AI may save time or improve accuracy.,103,Submitted,3
+867,64,940,742,2024-08-28,Warranty claim categorization #867,Idea focuses on improving team productivity and response time through AI assistance.,85,Under Review,1
+868,604,523,774,2024-02-18,Service scheduling recommendations #868,Idea focuses on improving team productivity and response time through AI assistance.,55,Pilot,2
+869,200,323,317,2025-02-22,Meeting note summarization #869,Employee described how AI helped reduce repetitive manual work in the department.,6,Submitted,2
+870,751,792,18,2025-04-13,Product description draft generation #870,Submission explains a workflow improvement using AI for summarization and faster decision making.,2,Approved,3
+871,967,338,976,2026-01-30,Product description draft generation #871,Use case captures an internal business process where AI may save time or improve accuracy.,108,Submitted,3
+872,21,925,706,2024-02-17,Internal policy Q&A assistant #872,Use case captures an internal business process where AI may save time or improve accuracy.,116,Implemented,4
+873,433,276,95,2024-03-16,Automated FAQ drafting #873,Use case captures an internal business process where AI may save time or improve accuracy.,119,Approved,3
+874,889,89,726,2024-04-02,Sales lead scoring support #874,Idea focuses on improving team productivity and response time through AI assistance.,2,Rejected,5
+875,332,103,409,2025-09-20,Inventory trend summary #875,Use case captures an internal business process where AI may save time or improve accuracy.,7,Pilot,5
+876,16,377,792,2025-07-29,Forecast commentary generator #876,Use case captures an internal business process where AI may save time or improve accuracy.,55,Pilot,2
+877,302,568,145,2025-01-21,Product description draft generation #877,Submission explains a workflow improvement using AI for summarization and faster decision making.,51,Pilot,4
+878,804,16,541,2024-08-27,Internal policy Q&A assistant #878,Employee described how AI helped reduce repetitive manual work in the department.,62,Pilot,4
+879,801,630,75,2025-01-07,Automated FAQ drafting #879,Idea focuses on improving team productivity and response time through AI assistance.,104,Pilot,4
+880,185,372,465,2024-03-20,Dashboard insight narration #880,Use case captures an internal business process where AI may save time or improve accuracy.,4,Implemented,5
+881,243,130,23,2024-03-30,Support ticket triage #881,Use case captures an internal business process where AI may save time or improve accuracy.,114,Implemented,3
+882,466,870,987,2025-10-08,Knowledge base search assistant #882,Use case captures an internal business process where AI may save time or improve accuracy.,3,Approved,1
+883,567,876,6,2026-02-18,Customer sentiment tagging #883,Submission explains a workflow improvement using AI for summarization and faster decision making.,11,Rejected,3
+884,344,523,322,2024-04-30,Dashboard insight narration #884,Use case captures an internal business process where AI may save time or improve accuracy.,60,Approved,1
+885,688,766,142,2025-05-14,Warranty claim categorization #885,Use case captures an internal business process where AI may save time or improve accuracy.,79,Under Review,1
+886,99,555,690,2026-03-27,Support ticket triage #886,Idea focuses on improving team productivity and response time through AI assistance.,13,Pilot,5
+887,413,963,142,2025-03-22,Inventory trend summary #887,Submission explains a workflow improvement using AI for summarization and faster decision making.,22,Under Review,5
+888,966,489,343,2025-06-08,SEO content suggestions #888,Use case captures an internal business process where AI may save time or improve accuracy.,8,Implemented,3
+889,739,749,376,2024-09-29,Support ticket triage #889,Employee described how AI helped reduce repetitive manual work in the department.,107,Pilot,3
+890,698,301,382,2025-05-12,Dealer email summarization #890,Idea focuses on improving team productivity and response time through AI assistance.,57,Pilot,2
+891,3,866,592,2024-05-24,Support ticket triage #891,Idea focuses on improving team productivity and response time through AI assistance.,65,Submitted,5
+892,19,961,752,2024-02-20,SEO content suggestions #892,Use case captures an internal business process where AI may save time or improve accuracy.,30,Implemented,3
+893,420,282,974,2024-02-24,Dashboard insight narration #893,Submission explains a workflow improvement using AI for summarization and faster decision making.,29,Under Review,3
+894,868,886,482,2024-06-30,Knowledge base search assistant #894,Idea focuses on improving team productivity and response time through AI assistance.,115,Implemented,3
+895,6,60,92,2025-05-12,Knowledge base search assistant #895,Submission explains a workflow improvement using AI for summarization and faster decision making.,90,Approved,4
+896,247,93,140,2025-03-05,SEO content suggestions #896,Use case captures an internal business process where AI may save time or improve accuracy.,71,Approved,1
+897,494,68,61,2026-03-16,Customer sentiment tagging #897,Employee described how AI helped reduce repetitive manual work in the department.,13,Submitted,5
+898,381,999,2,2025-09-17,Knowledge base search assistant #898,Use case captures an internal business process where AI may save time or improve accuracy.,115,Submitted,1
+899,323,191,438,2024-03-23,Dealer email summarization #899,Idea focuses on improving team productivity and response time through AI assistance.,31,Rejected,1
+900,841,584,140,2024-07-23,Dealer email summarization #900,Employee described how AI helped reduce repetitive manual work in the department.,61,Submitted,4
+901,608,322,697,2024-01-16,Automated FAQ drafting #901,Use case captures an internal business process where AI may save time or improve accuracy.,34,Implemented,1
+902,899,517,588,2026-03-15,Warranty claim categorization #902,Idea focuses on improving team productivity and response time through AI assistance.,91,Approved,2
+903,831,662,145,2026-03-27,Dashboard insight narration #903,Use case captures an internal business process where AI may save time or improve accuracy.,77,Pilot,5
+904,219,886,879,2025-02-26,Customer sentiment tagging #904,Submission explains a workflow improvement using AI for summarization and faster decision making.,78,Approved,3
+905,980,484,785,2024-04-28,Internal policy Q&A assistant #905,Employee described how AI helped reduce repetitive manual work in the department.,81,Implemented,5
+906,948,145,486,2024-07-26,Warranty claim categorization #906,Employee described how AI helped reduce repetitive manual work in the department.,29,Implemented,1
+907,37,265,341,2024-02-16,Support ticket triage #907,Idea focuses on improving team productivity and response time through AI assistance.,101,Pilot,5
+908,413,228,702,2024-07-06,SEO content suggestions #908,Use case captures an internal business process where AI may save time or improve accuracy.,116,Approved,2
+909,995,903,803,2026-03-20,Customer sentiment tagging #909,Use case captures an internal business process where AI may save time or improve accuracy.,34,Pilot,2
+910,346,893,941,2024-06-04,Internal policy Q&A assistant #910,Employee described how AI helped reduce repetitive manual work in the department.,53,Approved,5
+911,446,40,764,2025-03-15,Dashboard insight narration #911,Submission explains a workflow improvement using AI for summarization and faster decision making.,77,Pilot,2
+912,735,258,913,2024-11-02,Forecast commentary generator #912,Idea focuses on improving team productivity and response time through AI assistance.,24,Approved,2
+913,392,944,817,2025-10-07,Warranty claim categorization #913,Use case captures an internal business process where AI may save time or improve accuracy.,119,Under Review,5
+914,49,339,343,2024-02-24,Dashboard insight narration #914,Use case captures an internal business process where AI may save time or improve accuracy.,120,Approved,1
+915,403,369,460,2025-09-26,Meeting note summarization #915,Idea focuses on improving team productivity and response time through AI assistance.,12,Approved,4
+916,164,211,579,2024-07-06,Automated FAQ drafting #916,Employee described how AI helped reduce repetitive manual work in the department.,71,Approved,3
+917,110,44,506,2025-10-06,Warranty claim categorization #917,Employee described how AI helped reduce repetitive manual work in the department.,87,Pilot,1
+918,911,240,103,2024-03-26,Schema recommendation workflow #918,Use case captures an internal business process where AI may save time or improve accuracy.,101,Pilot,4
+919,98,616,704,2024-01-20,Support ticket triage #919,Idea focuses on improving team productivity and response time through AI assistance.,105,Approved,4
+920,699,399,56,2025-12-04,Knowledge base search assistant #920,Submission explains a workflow improvement using AI for summarization and faster decision making.,83,Submitted,4
+921,735,636,380,2024-08-27,Meeting note summarization #921,Idea focuses on improving team productivity and response time through AI assistance.,91,Submitted,2
+922,1,915,85,2025-11-13,Support ticket triage #922,Submission explains a workflow improvement using AI for summarization and faster decision making.,58,Approved,5
+923,366,893,986,2024-03-01,Automated FAQ drafting #923,Submission explains a workflow improvement using AI for summarization and faster decision making.,112,Rejected,1
+924,81,328,114,2024-12-11,Forecast commentary generator #924,Submission explains a workflow improvement using AI for summarization and faster decision making.,118,Approved,5
+925,266,451,649,2025-09-24,Meeting note summarization #925,Employee described how AI helped reduce repetitive manual work in the department.,58,Approved,1
+926,979,855,505,2024-04-12,Dashboard insight narration #926,Submission explains a workflow improvement using AI for summarization and faster decision making.,110,Under Review,4
+927,610,564,51,2024-12-28,Customer sentiment tagging #927,Employee described how AI helped reduce repetitive manual work in the department.,118,Under Review,1
+928,50,10,403,2024-10-21,Forecast commentary generator #928,Idea focuses on improving team productivity and response time through AI assistance.,100,Implemented,1
+929,209,707,919,2025-08-15,Schema recommendation workflow #929,Employee described how AI helped reduce repetitive manual work in the department.,37,Approved,2
+930,961,33,900,2024-08-07,Internal policy Q&A assistant #930,Employee described how AI helped reduce repetitive manual work in the department.,66,Pilot,3
+931,66,74,556,2024-11-03,Schema recommendation workflow #931,Submission explains a workflow improvement using AI for summarization and faster decision making.,85,Approved,5
+932,632,914,179,2025-07-12,Customer sentiment tagging #932,Idea focuses on improving team productivity and response time through AI assistance.,99,Under Review,3
+933,703,581,349,2024-05-30,Dealer email summarization #933,Idea focuses on improving team productivity and response time through AI assistance.,51,Submitted,1
+934,61,418,987,2025-05-13,Automated FAQ drafting #934,Employee described how AI helped reduce repetitive manual work in the department.,52,Pilot,4
+935,966,936,931,2026-04-24,Dealer email summarization #935,Employee described how AI helped reduce repetitive manual work in the department.,71,Rejected,4
+936,489,270,46,2026-03-07,Sales lead scoring support #936,Use case captures an internal business process where AI may save time or improve accuracy.,66,Approved,2
+937,734,912,980,2024-08-11,Forecast commentary generator #937,Idea focuses on improving team productivity and response time through AI assistance.,41,Pilot,3
+938,883,231,22,2024-01-03,Product description draft generation #938,Use case captures an internal business process where AI may save time or improve accuracy.,60,Rejected,2
+939,343,336,9,2024-08-11,Knowledge base search assistant #939,Idea focuses on improving team productivity and response time through AI assistance.,108,Submitted,1
+940,506,218,389,2024-11-16,Inventory trend summary #940,Submission explains a workflow improvement using AI for summarization and faster decision making.,117,Rejected,2
+941,293,109,471,2025-07-04,Inventory trend summary #941,Submission explains a workflow improvement using AI for summarization and faster decision making.,76,Submitted,2
+942,678,970,587,2025-12-20,Support ticket triage #942,Submission explains a workflow improvement using AI for summarization and faster decision making.,103,Under Review,3
+943,339,877,98,2024-03-12,Automated FAQ drafting #943,Employee described how AI helped reduce repetitive manual work in the department.,75,Submitted,4
+944,860,694,48,2024-12-30,Sales lead scoring support #944,Employee described how AI helped reduce repetitive manual work in the department.,83,Pilot,5
+945,936,424,523,2024-09-16,Sales lead scoring support #945,Employee described how AI helped reduce repetitive manual work in the department.,21,Submitted,1
+946,394,403,455,2024-08-13,Support ticket triage #946,Employee described how AI helped reduce repetitive manual work in the department.,38,Implemented,3
+947,981,999,946,2025-04-12,Meeting note summarization #947,Use case captures an internal business process where AI may save time or improve accuracy.,43,Pilot,2
+948,90,176,608,2026-01-24,Internal policy Q&A assistant #948,Idea focuses on improving team productivity and response time through AI assistance.,23,Rejected,1
+949,237,977,864,2024-09-03,Internal policy Q&A assistant #949,Submission explains a workflow improvement using AI for summarization and faster decision making.,104,Submitted,2
+950,469,379,363,2025-06-17,Knowledge base search assistant #950,Employee described how AI helped reduce repetitive manual work in the department.,34,Rejected,4
+951,912,26,712,2025-09-02,Support ticket triage #951,Employee described how AI helped reduce repetitive manual work in the department.,118,Rejected,1
+952,94,821,353,2024-06-14,Sales lead scoring support #952,Employee described how AI helped reduce repetitive manual work in the department.,25,Under Review,4
+953,718,981,173,2024-04-11,Knowledge base search assistant #953,Employee described how AI helped reduce repetitive manual work in the department.,47,Pilot,1
+954,535,587,932,2025-05-15,Automated FAQ drafting #954,Idea focuses on improving team productivity and response time through AI assistance.,74,Submitted,4
+955,109,792,115,2025-05-30,Internal policy Q&A assistant #955,Submission explains a workflow improvement using AI for summarization and faster decision making.,70,Approved,3
+956,564,564,84,2026-01-17,Meeting note summarization #956,Use case captures an internal business process where AI may save time or improve accuracy.,90,Rejected,2
+957,721,708,97,2025-01-25,Dealer email summarization #957,Employee described how AI helped reduce repetitive manual work in the department.,98,Approved,2
+958,491,548,784,2026-04-07,Forecast commentary generator #958,Employee described how AI helped reduce repetitive manual work in the department.,72,Rejected,5
+959,966,159,521,2025-08-18,Service scheduling recommendations #959,Submission explains a workflow improvement using AI for summarization and faster decision making.,104,Pilot,3
+960,340,985,904,2024-11-14,Dealer email summarization #960,Employee described how AI helped reduce repetitive manual work in the department.,67,Under Review,2
+961,740,773,489,2024-06-15,Automated FAQ drafting #961,Employee described how AI helped reduce repetitive manual work in the department.,24,Pilot,2
+962,630,302,550,2024-05-10,Sales lead scoring support #962,Submission explains a workflow improvement using AI for summarization and faster decision making.,86,Under Review,1
+963,259,91,285,2024-10-12,Service scheduling recommendations #963,Idea focuses on improving team productivity and response time through AI assistance.,85,Under Review,2
+964,947,768,881,2025-06-21,Schema recommendation workflow #964,Employee described how AI helped reduce repetitive manual work in the department.,55,Approved,5
+965,617,728,201,2025-12-18,Automated FAQ drafting #965,Submission explains a workflow improvement using AI for summarization and faster decision making.,96,Implemented,1
+966,131,37,650,2024-07-31,Dealer email summarization #966,Idea focuses on improving team productivity and response time through AI assistance.,93,Implemented,2
+967,225,873,135,2024-05-13,Dashboard insight narration #967,Use case captures an internal business process where AI may save time or improve accuracy.,47,Under Review,1
+968,250,382,736,2024-07-17,Dealer email summarization #968,Submission explains a workflow improvement using AI for summarization and faster decision making.,66,Submitted,4
+969,344,908,49,2025-02-20,Inventory trend summary #969,Use case captures an internal business process where AI may save time or improve accuracy.,27,Submitted,1
+970,353,733,813,2025-09-01,Sales lead scoring support #970,Use case captures an internal business process where AI may save time or improve accuracy.,60,Rejected,3
+971,408,925,599,2024-04-08,Sales lead scoring support #971,Submission explains a workflow improvement using AI for summarization and faster decision making.,100,Submitted,1
+972,668,166,613,2024-04-01,Internal policy Q&A assistant #972,Employee described how AI helped reduce repetitive manual work in the department.,62,Approved,4
+973,886,623,42,2024-06-11,Forecast commentary generator #973,Employee described how AI helped reduce repetitive manual work in the department.,102,Submitted,3
+974,254,863,989,2026-01-29,Inventory trend summary #974,Employee described how AI helped reduce repetitive manual work in the department.,81,Rejected,4
+975,167,155,582,2024-03-24,Forecast commentary generator #975,Employee described how AI helped reduce repetitive manual work in the department.,55,Rejected,1
+976,514,58,376,2025-02-19,Customer sentiment tagging #976,Use case captures an internal business process where AI may save time or improve accuracy.,109,Rejected,4
+977,977,772,899,2024-02-11,Product description draft generation #977,Submission explains a workflow improvement using AI for summarization and faster decision making.,91,Rejected,2
+978,87,585,525,2026-04-03,Product description draft generation #978,Idea focuses on improving team productivity and response time through AI assistance.,48,Submitted,3
+979,596,294,798,2026-02-20,Inventory trend summary #979,Idea focuses on improving team productivity and response time through AI assistance.,85,Submitted,4
+980,989,442,401,2024-07-20,Warranty claim categorization #980,Submission explains a workflow improvement using AI for summarization and faster decision making.,93,Under Review,5
+981,427,353,9,2024-11-05,Product description draft generation #981,Submission explains a workflow improvement using AI for summarization and faster decision making.,60,Under Review,2
+982,867,173,395,2024-05-17,Internal policy Q&A assistant #982,Employee described how AI helped reduce repetitive manual work in the department.,13,Approved,2
+983,262,222,805,2025-02-24,Support ticket triage #983,Idea focuses on improving team productivity and response time through AI assistance.,85,Pilot,3
+984,273,690,155,2024-04-13,Dealer email summarization #984,Use case captures an internal business process where AI may save time or improve accuracy.,78,Implemented,5
+985,101,758,638,2025-02-21,Support ticket triage #985,Submission explains a workflow improvement using AI for summarization and faster decision making.,94,Approved,1
+986,674,616,585,2025-11-30,Product description draft generation #986,Idea focuses on improving team productivity and response time through AI assistance.,30,Under Review,5
+987,347,825,246,2024-05-17,Warranty claim categorization #987,Use case captures an internal business process where AI may save time or improve accuracy.,25,Approved,1
+988,374,545,242,2024-08-18,Sales lead scoring support #988,Idea focuses on improving team productivity and response time through AI assistance.,27,Submitted,2
+989,80,81,724,2025-01-09,Service scheduling recommendations #989,Use case captures an internal business process where AI may save time or improve accuracy.,5,Approved,3
+990,379,885,479,2026-03-08,Product description draft generation #990,Idea focuses on improving team productivity and response time through AI assistance.,65,Approved,4
+991,412,601,730,2026-01-07,Inventory trend summary #991,Idea focuses on improving team productivity and response time through AI assistance.,27,Approved,2
+992,448,380,578,2025-04-28,Inventory trend summary #992,Use case captures an internal business process where AI may save time or improve accuracy.,51,Implemented,5
+993,796,515,392,2026-04-06,SEO content suggestions #993,Use case captures an internal business process where AI may save time or improve accuracy.,28,Approved,2
+994,81,182,352,2024-10-19,Customer sentiment tagging #994,Employee described how AI helped reduce repetitive manual work in the department.,70,Implemented,1
+995,587,341,948,2025-09-25,Warranty claim categorization #995,Employee described how AI helped reduce repetitive manual work in the department.,106,Approved,2
+996,779,409,611,2024-05-26,Meeting note summarization #996,Idea focuses on improving team productivity and response time through AI assistance.,75,Rejected,4
+997,310,865,458,2024-07-05,Schema recommendation workflow #997,Submission explains a workflow improvement using AI for summarization and faster decision making.,3,Rejected,3
+998,140,246,377,2026-03-06,Schema recommendation workflow #998,Idea focuses on improving team productivity and response time through AI assistance.,25,Rejected,1
+999,956,834,293,2024-02-23,Inventory trend summary #999,Submission explains a workflow improvement using AI for summarization and faster decision making.,33,Under Review,4
+1000,837,120,309,2026-03-06,Meeting note summarization #1000,Idea focuses on improving team productivity and response time through AI assistance.,29,Implemented,1

@@ -1,0 +1,1001 @@
+update_id,ticket_id,update_date,updated_by,update_note,new_status
+1,24,2025-11-04,Analyst 36,Ticket reviewed and assigned to support queue.,Pending
+2,215,2024-12-17,Analyst 5,User contacted for additional details.,Escalated
+3,611,2024-09-28,Queue Monitor 44,Closed after successful validation.,Closed
+4,239,2026-04-24,Analyst 49,Temporary workaround provided to user.,Resolved
+5,880,2026-02-15,Team Lead 13,Ticket reviewed and assigned to support queue.,Closed
+6,743,2024-04-12,System 10,User contacted for additional details.,Closed
+7,362,2025-08-12,System 18,User contacted for additional details.,Escalated
+8,367,2024-07-08,Manager 17,User contacted for additional details.,Resolved
+9,445,2025-11-22,Manager 12,Closed after successful validation.,Pending
+10,114,2025-12-09,System 34,Issue reproduced and escalation requested.,Escalated
+11,229,2025-06-25,Analyst 36,Closed after successful validation.,Closed
+12,359,2024-12-22,Team Lead 22,Ticket reviewed and assigned to support queue.,Pending
+13,648,2026-02-13,Manager 3,Awaiting confirmation after fix deployment.,Closed
+14,83,2025-08-21,Analyst 21,Ticket reviewed and assigned to support queue.,Open
+15,489,2025-11-12,Team Lead 23,Issue reproduced and escalation requested.,Pending
+16,774,2025-12-01,Analyst 45,Temporary workaround provided to user.,Closed
+17,33,2026-02-22,Manager 9,Temporary workaround provided to user.,In Progress
+18,557,2024-04-20,Manager 30,User contacted for additional details.,In Progress
+19,453,2024-09-13,Manager 7,User contacted for additional details.,Open
+20,684,2024-11-21,Manager 24,Temporary workaround provided to user.,Closed
+21,740,2026-02-19,Queue Monitor 11,Temporary workaround provided to user.,Pending
+22,905,2024-04-13,Analyst 49,Temporary workaround provided to user.,Open
+23,527,2024-09-20,Technician 8,Awaiting confirmation after fix deployment.,Closed
+24,453,2025-02-05,Analyst 1,Awaiting confirmation after fix deployment.,Resolved
+25,956,2024-03-01,Manager 37,User contacted for additional details.,Open
+26,618,2025-03-17,Analyst 2,User contacted for additional details.,Resolved
+27,613,2024-12-10,System 28,Closed after successful validation.,Escalated
+28,964,2024-03-01,Team Lead 22,Ticket reviewed and assigned to support queue.,Closed
+29,338,2026-01-08,Technician 38,Awaiting confirmation after fix deployment.,In Progress
+30,940,2026-04-20,Analyst 44,Closed after successful validation.,Closed
+31,429,2025-03-27,Analyst 44,Ticket reviewed and assigned to support queue.,In Progress
+32,976,2026-02-17,Analyst 18,User contacted for additional details.,Resolved
+33,942,2025-07-23,Technician 3,Issue reproduced and escalation requested.,Resolved
+34,353,2024-04-02,Queue Monitor 19,Closed after successful validation.,In Progress
+35,59,2024-05-28,Team Lead 39,User contacted for additional details.,Escalated
+36,305,2025-01-10,System 44,User contacted for additional details.,Resolved
+37,180,2026-03-15,Queue Monitor 16,Ticket reviewed and assigned to support queue.,In Progress
+38,262,2024-05-15,Manager 24,Issue reproduced and escalation requested.,Escalated
+39,388,2025-04-22,Analyst 39,Awaiting confirmation after fix deployment.,Open
+40,113,2026-01-05,Team Lead 19,Awaiting confirmation after fix deployment.,Open
+41,767,2024-10-19,Queue Monitor 17,User contacted for additional details.,Open
+42,534,2025-12-25,Analyst 42,Issue reproduced and escalation requested.,In Progress
+43,447,2025-09-21,Team Lead 15,Ticket reviewed and assigned to support queue.,Open
+44,703,2025-10-30,Analyst 43,Awaiting confirmation after fix deployment.,Escalated
+45,496,2024-05-01,Queue Monitor 42,Ticket reviewed and assigned to support queue.,Pending
+46,17,2025-02-21,Analyst 44,Awaiting confirmation after fix deployment.,Open
+47,972,2025-11-20,Manager 39,User contacted for additional details.,Escalated
+48,925,2026-03-12,Team Lead 5,Temporary workaround provided to user.,In Progress
+49,878,2024-06-14,Technician 8,Temporary workaround provided to user.,In Progress
+50,702,2025-09-21,System 48,Ticket reviewed and assigned to support queue.,Closed
+51,516,2025-05-15,Analyst 40,User contacted for additional details.,In Progress
+52,101,2025-08-30,Technician 16,Temporary workaround provided to user.,Resolved
+53,922,2024-03-18,Team Lead 29,User contacted for additional details.,Closed
+54,472,2025-03-21,Manager 8,Ticket reviewed and assigned to support queue.,Pending
+55,141,2025-08-01,Technician 44,Temporary workaround provided to user.,Escalated
+56,2,2025-03-28,Queue Monitor 19,Issue reproduced and escalation requested.,Resolved
+57,759,2025-09-25,Queue Monitor 6,Issue reproduced and escalation requested.,In Progress
+58,58,2024-09-17,Team Lead 21,Ticket reviewed and assigned to support queue.,Open
+59,829,2024-06-30,System 9,Closed after successful validation.,Escalated
+60,761,2026-04-06,Technician 16,Awaiting confirmation after fix deployment.,Escalated
+61,569,2025-09-19,System 14,Closed after successful validation.,Pending
+62,654,2024-12-20,System 11,Awaiting confirmation after fix deployment.,Pending
+63,516,2025-02-13,Manager 49,Temporary workaround provided to user.,Open
+64,244,2025-10-26,System 18,Ticket reviewed and assigned to support queue.,Resolved
+65,800,2026-01-06,Analyst 18,Temporary workaround provided to user.,Closed
+66,707,2025-04-15,Queue Monitor 23,Issue reproduced and escalation requested.,Closed
+67,71,2025-07-03,Queue Monitor 47,User contacted for additional details.,In Progress
+68,808,2025-03-10,Technician 33,Ticket reviewed and assigned to support queue.,Open
+69,78,2024-09-06,Technician 43,User contacted for additional details.,Escalated
+70,177,2024-03-14,System 49,Issue reproduced and escalation requested.,Open
+71,250,2024-09-07,Team Lead 25,Ticket reviewed and assigned to support queue.,Open
+72,559,2024-11-13,Analyst 10,Ticket reviewed and assigned to support queue.,Open
+73,241,2025-07-02,Queue Monitor 36,User contacted for additional details.,Pending
+74,816,2024-08-29,Analyst 3,Awaiting confirmation after fix deployment.,Closed
+75,202,2025-12-02,Queue Monitor 5,Closed after successful validation.,Escalated
+76,536,2024-05-04,Queue Monitor 50,Closed after successful validation.,Escalated
+77,228,2025-03-01,System 16,Awaiting confirmation after fix deployment.,Resolved
+78,693,2025-11-14,Queue Monitor 6,Closed after successful validation.,Closed
+79,491,2024-09-08,Queue Monitor 25,Awaiting confirmation after fix deployment.,Open
+80,478,2026-02-06,Technician 38,Closed after successful validation.,Pending
+81,664,2025-05-12,Manager 31,User contacted for additional details.,Open
+82,44,2024-01-24,Team Lead 9,Ticket reviewed and assigned to support queue.,Pending
+83,716,2026-01-04,System 50,Ticket reviewed and assigned to support queue.,Escalated
+84,936,2024-01-10,Manager 8,Temporary workaround provided to user.,In Progress
+85,276,2025-07-28,Team Lead 2,Closed after successful validation.,Closed
+86,546,2025-09-13,Team Lead 7,User contacted for additional details.,In Progress
+87,470,2024-01-07,Technician 24,Ticket reviewed and assigned to support queue.,Open
+88,904,2026-03-10,Technician 49,Ticket reviewed and assigned to support queue.,Resolved
+89,272,2026-03-28,Queue Monitor 20,Issue reproduced and escalation requested.,Pending
+90,958,2025-01-07,Manager 39,Temporary workaround provided to user.,In Progress
+91,632,2025-02-08,Team Lead 22,Temporary workaround provided to user.,Open
+92,615,2024-07-09,Manager 28,Temporary workaround provided to user.,Open
+93,242,2025-03-25,Manager 47,Closed after successful validation.,Open
+94,705,2026-02-12,Queue Monitor 33,Awaiting confirmation after fix deployment.,Escalated
+95,769,2024-05-24,Manager 16,Awaiting confirmation after fix deployment.,Pending
+96,411,2024-04-19,Analyst 48,Temporary workaround provided to user.,Escalated
+97,946,2026-03-05,Manager 35,User contacted for additional details.,Open
+98,382,2025-01-07,Manager 14,Temporary workaround provided to user.,Open
+99,201,2025-07-11,Technician 31,Closed after successful validation.,Pending
+100,843,2024-02-17,Analyst 47,User contacted for additional details.,In Progress
+101,704,2025-11-02,Queue Monitor 49,Issue reproduced and escalation requested.,Closed
+102,390,2024-03-11,Team Lead 20,Temporary workaround provided to user.,Escalated
+103,181,2025-05-21,Manager 14,Closed after successful validation.,In Progress
+104,1,2024-10-30,Queue Monitor 8,Ticket reviewed and assigned to support queue.,Escalated
+105,427,2026-03-08,System 44,Issue reproduced and escalation requested.,In Progress
+106,642,2025-11-18,System 24,User contacted for additional details.,Pending
+107,524,2024-08-20,System 39,Temporary workaround provided to user.,Resolved
+108,755,2025-03-07,Analyst 27,Issue reproduced and escalation requested.,Escalated
+109,28,2024-09-13,Manager 21,Temporary workaround provided to user.,Resolved
+110,579,2025-01-31,Technician 33,Temporary workaround provided to user.,Open
+111,222,2025-01-21,Technician 36,User contacted for additional details.,Open
+112,29,2024-10-11,Technician 15,Temporary workaround provided to user.,Closed
+113,618,2025-10-18,Analyst 26,Closed after successful validation.,In Progress
+114,707,2024-03-21,Team Lead 37,User contacted for additional details.,Closed
+115,975,2024-05-28,Queue Monitor 39,Ticket reviewed and assigned to support queue.,Closed
+116,660,2024-06-20,Manager 4,Temporary workaround provided to user.,Pending
+117,613,2024-08-16,Team Lead 5,Ticket reviewed and assigned to support queue.,Pending
+118,52,2025-01-21,Queue Monitor 44,User contacted for additional details.,Resolved
+119,97,2024-03-24,Technician 29,User contacted for additional details.,In Progress
+120,526,2024-06-09,Team Lead 31,Ticket reviewed and assigned to support queue.,Resolved
+121,198,2024-01-21,System 35,Ticket reviewed and assigned to support queue.,Escalated
+122,714,2025-08-20,Manager 42,Ticket reviewed and assigned to support queue.,Escalated
+123,343,2025-11-24,Manager 34,Awaiting confirmation after fix deployment.,Closed
+124,810,2026-01-14,Technician 42,Issue reproduced and escalation requested.,Resolved
+125,489,2024-10-18,Technician 40,Temporary workaround provided to user.,Resolved
+126,615,2024-02-28,Team Lead 11,User contacted for additional details.,Open
+127,503,2024-05-07,System 18,Awaiting confirmation after fix deployment.,Escalated
+128,810,2024-12-09,Manager 23,Awaiting confirmation after fix deployment.,Closed
+129,98,2025-07-20,Technician 35,Closed after successful validation.,Open
+130,964,2024-01-10,Manager 5,Temporary workaround provided to user.,In Progress
+131,648,2026-03-31,Queue Monitor 46,Issue reproduced and escalation requested.,Escalated
+132,883,2024-09-06,System 27,User contacted for additional details.,Open
+133,173,2025-09-02,Manager 24,Issue reproduced and escalation requested.,Escalated
+134,838,2024-07-01,Queue Monitor 49,Temporary workaround provided to user.,Open
+135,429,2025-09-03,Team Lead 39,Temporary workaround provided to user.,In Progress
+136,500,2025-07-28,Technician 5,Ticket reviewed and assigned to support queue.,Resolved
+137,860,2024-08-04,Technician 45,Closed after successful validation.,Resolved
+138,664,2025-08-17,Technician 4,Temporary workaround provided to user.,Resolved
+139,971,2024-06-19,Queue Monitor 4,Ticket reviewed and assigned to support queue.,In Progress
+140,659,2026-04-23,System 32,Ticket reviewed and assigned to support queue.,Escalated
+141,506,2024-12-22,Analyst 44,Closed after successful validation.,In Progress
+142,118,2025-02-02,Analyst 45,User contacted for additional details.,Escalated
+143,944,2024-05-03,Analyst 5,Temporary workaround provided to user.,Resolved
+144,882,2025-06-23,Team Lead 18,Awaiting confirmation after fix deployment.,Open
+145,773,2024-02-16,Team Lead 45,Awaiting confirmation after fix deployment.,Open
+146,249,2025-05-02,Queue Monitor 11,Awaiting confirmation after fix deployment.,Pending
+147,768,2024-10-29,Team Lead 34,Issue reproduced and escalation requested.,Resolved
+148,231,2024-12-15,Queue Monitor 27,User contacted for additional details.,Closed
+149,613,2025-08-23,Technician 49,Ticket reviewed and assigned to support queue.,In Progress
+150,494,2024-10-12,Queue Monitor 14,Awaiting confirmation after fix deployment.,Closed
+151,158,2024-05-28,Team Lead 50,Issue reproduced and escalation requested.,Open
+152,449,2026-04-08,Team Lead 5,Awaiting confirmation after fix deployment.,Closed
+153,758,2024-07-07,Team Lead 36,Ticket reviewed and assigned to support queue.,Closed
+154,757,2024-09-17,Manager 27,User contacted for additional details.,Open
+155,839,2025-12-21,Analyst 46,User contacted for additional details.,Escalated
+156,831,2024-02-08,System 45,Awaiting confirmation after fix deployment.,Escalated
+157,239,2025-08-08,Technician 17,Issue reproduced and escalation requested.,Pending
+158,101,2026-04-24,Analyst 47,Awaiting confirmation after fix deployment.,Pending
+159,326,2024-08-27,System 21,Temporary workaround provided to user.,In Progress
+160,795,2024-02-23,Technician 16,Ticket reviewed and assigned to support queue.,Escalated
+161,613,2025-02-13,Technician 43,Closed after successful validation.,Pending
+162,794,2025-09-28,System 42,Awaiting confirmation after fix deployment.,Escalated
+163,713,2025-11-08,Team Lead 24,Awaiting confirmation after fix deployment.,Resolved
+164,476,2024-05-18,Queue Monitor 18,Closed after successful validation.,Open
+165,576,2026-02-06,Technician 39,User contacted for additional details.,Closed
+166,111,2025-04-16,Manager 41,User contacted for additional details.,Pending
+167,667,2026-02-17,System 27,Temporary workaround provided to user.,Resolved
+168,66,2024-03-09,Analyst 14,Awaiting confirmation after fix deployment.,Escalated
+169,197,2025-03-15,Manager 2,Temporary workaround provided to user.,Closed
+170,140,2024-05-03,Manager 43,User contacted for additional details.,Closed
+171,301,2024-01-12,Queue Monitor 12,Issue reproduced and escalation requested.,In Progress
+172,667,2024-06-24,Queue Monitor 11,Closed after successful validation.,Pending
+173,97,2025-12-05,Technician 34,Closed after successful validation.,In Progress
+174,831,2026-04-08,System 27,Closed after successful validation.,In Progress
+175,190,2026-01-21,Analyst 28,Issue reproduced and escalation requested.,Pending
+176,924,2024-01-15,System 35,Ticket reviewed and assigned to support queue.,Closed
+177,810,2024-11-13,Team Lead 18,User contacted for additional details.,Pending
+178,780,2025-07-20,Team Lead 10,Closed after successful validation.,Closed
+179,32,2024-06-10,Queue Monitor 18,User contacted for additional details.,Pending
+180,8,2025-12-15,Technician 20,Temporary workaround provided to user.,Escalated
+181,360,2025-12-19,System 8,Closed after successful validation.,Closed
+182,528,2025-03-12,Queue Monitor 5,Issue reproduced and escalation requested.,Escalated
+183,281,2024-01-09,Technician 37,Issue reproduced and escalation requested.,Open
+184,317,2025-05-21,Team Lead 13,Awaiting confirmation after fix deployment.,Resolved
+185,635,2025-12-24,System 13,Temporary workaround provided to user.,Open
+186,328,2024-11-14,Queue Monitor 9,Issue reproduced and escalation requested.,Pending
+187,96,2025-12-01,Queue Monitor 40,Ticket reviewed and assigned to support queue.,Resolved
+188,932,2026-04-24,Analyst 25,Ticket reviewed and assigned to support queue.,Closed
+189,924,2026-04-21,System 2,Closed after successful validation.,In Progress
+190,326,2025-01-27,Team Lead 40,Issue reproduced and escalation requested.,In Progress
+191,768,2025-08-14,Technician 12,Ticket reviewed and assigned to support queue.,Closed
+192,980,2024-06-27,Analyst 31,Temporary workaround provided to user.,Closed
+193,391,2025-03-19,Technician 43,Temporary workaround provided to user.,Resolved
+194,178,2026-03-04,Analyst 37,Issue reproduced and escalation requested.,In Progress
+195,238,2025-07-04,Manager 6,Awaiting confirmation after fix deployment.,Pending
+196,96,2024-03-07,Queue Monitor 35,User contacted for additional details.,Resolved
+197,694,2024-01-17,Technician 15,Issue reproduced and escalation requested.,In Progress
+198,288,2025-10-31,Queue Monitor 10,Issue reproduced and escalation requested.,Open
+199,388,2025-03-10,Queue Monitor 12,Awaiting confirmation after fix deployment.,Closed
+200,193,2024-10-03,Manager 13,User contacted for additional details.,Pending
+201,691,2025-06-13,Technician 39,User contacted for additional details.,In Progress
+202,264,2024-08-01,Manager 24,Ticket reviewed and assigned to support queue.,Closed
+203,540,2025-01-25,Manager 40,Issue reproduced and escalation requested.,Closed
+204,39,2025-06-03,Manager 50,Issue reproduced and escalation requested.,Pending
+205,180,2024-10-18,Analyst 47,Awaiting confirmation after fix deployment.,In Progress
+206,393,2025-09-27,Analyst 36,Issue reproduced and escalation requested.,Pending
+207,22,2025-04-05,Team Lead 14,Issue reproduced and escalation requested.,Open
+208,592,2024-12-21,Analyst 49,Awaiting confirmation after fix deployment.,Closed
+209,926,2025-06-19,Technician 24,Awaiting confirmation after fix deployment.,Pending
+210,901,2025-05-06,Queue Monitor 1,User contacted for additional details.,Resolved
+211,438,2026-04-06,Technician 28,Issue reproduced and escalation requested.,Pending
+212,215,2024-11-26,Technician 7,Temporary workaround provided to user.,Escalated
+213,337,2024-02-15,Team Lead 30,Ticket reviewed and assigned to support queue.,Resolved
+214,536,2024-07-25,System 3,Awaiting confirmation after fix deployment.,Resolved
+215,349,2024-10-07,Analyst 36,Awaiting confirmation after fix deployment.,Escalated
+216,218,2024-10-08,Team Lead 48,Closed after successful validation.,Resolved
+217,661,2025-02-15,Queue Monitor 25,Awaiting confirmation after fix deployment.,Escalated
+218,441,2025-04-05,Technician 35,Awaiting confirmation after fix deployment.,Resolved
+219,265,2025-04-12,System 27,Closed after successful validation.,Open
+220,469,2025-12-18,Queue Monitor 2,Temporary workaround provided to user.,Resolved
+221,53,2024-03-28,Team Lead 40,Temporary workaround provided to user.,Open
+222,83,2024-01-27,Analyst 34,Issue reproduced and escalation requested.,Closed
+223,955,2025-04-03,System 22,Temporary workaround provided to user.,Escalated
+224,850,2025-01-02,Manager 28,Closed after successful validation.,Pending
+225,1,2025-10-30,Team Lead 5,Awaiting confirmation after fix deployment.,Closed
+226,518,2025-03-08,System 44,Ticket reviewed and assigned to support queue.,Escalated
+227,504,2025-11-09,Team Lead 17,Awaiting confirmation after fix deployment.,Closed
+228,700,2024-07-04,Analyst 19,Closed after successful validation.,In Progress
+229,993,2025-01-11,Technician 41,Temporary workaround provided to user.,Resolved
+230,530,2024-12-01,System 18,Issue reproduced and escalation requested.,Open
+231,662,2024-12-09,Manager 27,Closed after successful validation.,Resolved
+232,810,2024-08-22,Manager 22,Issue reproduced and escalation requested.,Open
+233,139,2026-04-24,Queue Monitor 48,Issue reproduced and escalation requested.,In Progress
+234,815,2025-07-28,Manager 5,Temporary workaround provided to user.,Closed
+235,550,2025-08-24,Analyst 22,Temporary workaround provided to user.,Open
+236,308,2024-02-04,Analyst 22,Ticket reviewed and assigned to support queue.,Closed
+237,880,2024-09-03,Technician 21,Closed after successful validation.,Escalated
+238,439,2026-02-01,Analyst 49,Temporary workaround provided to user.,Pending
+239,527,2026-03-19,System 41,Temporary workaround provided to user.,In Progress
+240,530,2025-10-24,Team Lead 37,User contacted for additional details.,Closed
+241,417,2025-07-26,System 43,Temporary workaround provided to user.,In Progress
+242,331,2025-06-08,Team Lead 15,Ticket reviewed and assigned to support queue.,Closed
+243,861,2024-03-27,System 50,Ticket reviewed and assigned to support queue.,In Progress
+244,450,2025-07-16,Technician 25,Awaiting confirmation after fix deployment.,Pending
+245,87,2026-04-05,Technician 42,User contacted for additional details.,Open
+246,778,2024-10-28,Queue Monitor 33,Issue reproduced and escalation requested.,In Progress
+247,929,2025-12-26,Manager 30,Issue reproduced and escalation requested.,Resolved
+248,386,2026-02-16,Manager 4,User contacted for additional details.,Escalated
+249,336,2025-02-28,Analyst 4,User contacted for additional details.,Closed
+250,433,2024-08-08,Team Lead 20,Closed after successful validation.,Pending
+251,217,2025-10-05,Technician 17,Temporary workaround provided to user.,Resolved
+252,800,2025-09-04,Manager 48,Closed after successful validation.,Closed
+253,251,2024-08-26,System 35,Ticket reviewed and assigned to support queue.,Closed
+254,987,2024-06-03,Analyst 15,Issue reproduced and escalation requested.,Escalated
+255,696,2025-03-07,System 31,Closed after successful validation.,Closed
+256,924,2024-02-18,Manager 15,Ticket reviewed and assigned to support queue.,Escalated
+257,309,2024-10-13,Team Lead 30,Temporary workaround provided to user.,Escalated
+258,178,2025-11-22,Manager 9,Temporary workaround provided to user.,In Progress
+259,966,2025-02-05,Manager 35,Issue reproduced and escalation requested.,Closed
+260,43,2025-06-05,Technician 36,Awaiting confirmation after fix deployment.,Escalated
+261,834,2025-05-22,Team Lead 32,Issue reproduced and escalation requested.,Resolved
+262,280,2025-12-01,Team Lead 42,User contacted for additional details.,Pending
+263,860,2025-05-29,Queue Monitor 22,User contacted for additional details.,Resolved
+264,363,2024-07-13,Manager 48,Temporary workaround provided to user.,Pending
+265,900,2026-04-25,System 49,User contacted for additional details.,Escalated
+266,399,2025-04-21,Manager 36,Temporary workaround provided to user.,Pending
+267,26,2024-09-28,Analyst 2,Temporary workaround provided to user.,Escalated
+268,479,2024-12-29,System 20,Awaiting confirmation after fix deployment.,Escalated
+269,360,2024-07-23,Team Lead 6,Ticket reviewed and assigned to support queue.,Pending
+270,773,2025-04-27,Analyst 42,User contacted for additional details.,Open
+271,637,2025-08-25,System 3,Closed after successful validation.,Closed
+272,48,2025-08-07,Team Lead 48,Ticket reviewed and assigned to support queue.,Escalated
+273,382,2025-02-11,Team Lead 47,Awaiting confirmation after fix deployment.,In Progress
+274,248,2026-02-01,Team Lead 47,Issue reproduced and escalation requested.,Pending
+275,251,2025-06-21,Team Lead 42,Closed after successful validation.,Escalated
+276,375,2024-09-08,Team Lead 12,User contacted for additional details.,Closed
+277,134,2025-02-25,Manager 3,Closed after successful validation.,Closed
+278,938,2025-11-18,System 3,Issue reproduced and escalation requested.,Escalated
+279,30,2025-08-07,Queue Monitor 6,Ticket reviewed and assigned to support queue.,Open
+280,754,2024-09-08,Team Lead 38,Closed after successful validation.,Pending
+281,845,2025-03-07,System 6,Awaiting confirmation after fix deployment.,Closed
+282,784,2025-09-04,Technician 37,Awaiting confirmation after fix deployment.,Closed
+283,409,2024-11-17,System 6,Awaiting confirmation after fix deployment.,Open
+284,700,2024-11-21,Technician 14,Closed after successful validation.,Escalated
+285,807,2024-10-10,Manager 28,Ticket reviewed and assigned to support queue.,Pending
+286,748,2024-11-09,Manager 29,Temporary workaround provided to user.,Open
+287,523,2025-10-20,Queue Monitor 27,Awaiting confirmation after fix deployment.,Escalated
+288,685,2024-01-01,Team Lead 47,Temporary workaround provided to user.,Closed
+289,598,2025-02-25,Manager 43,Closed after successful validation.,Escalated
+290,561,2024-05-30,Queue Monitor 40,Ticket reviewed and assigned to support queue.,Closed
+291,382,2025-12-30,Analyst 24,Temporary workaround provided to user.,Pending
+292,615,2025-08-23,Team Lead 2,Awaiting confirmation after fix deployment.,Closed
+293,634,2024-03-10,Team Lead 46,User contacted for additional details.,Closed
+294,239,2025-12-09,Analyst 1,Closed after successful validation.,In Progress
+295,589,2025-12-22,Analyst 32,Temporary workaround provided to user.,Pending
+296,876,2024-01-18,Team Lead 18,Temporary workaround provided to user.,Closed
+297,248,2025-09-30,Technician 28,User contacted for additional details.,In Progress
+298,69,2024-09-16,System 23,Ticket reviewed and assigned to support queue.,In Progress
+299,897,2024-03-31,Technician 25,Temporary workaround provided to user.,Open
+300,316,2025-05-11,Team Lead 29,User contacted for additional details.,In Progress
+301,566,2025-08-27,System 17,Temporary workaround provided to user.,Closed
+302,759,2025-05-27,Team Lead 11,Issue reproduced and escalation requested.,Escalated
+303,307,2024-11-05,Analyst 1,User contacted for additional details.,Pending
+304,621,2024-09-25,Team Lead 7,Ticket reviewed and assigned to support queue.,Closed
+305,895,2025-11-19,Analyst 47,User contacted for additional details.,Resolved
+306,493,2025-10-22,Analyst 23,Ticket reviewed and assigned to support queue.,Resolved
+307,938,2026-02-04,Queue Monitor 45,Temporary workaround provided to user.,Escalated
+308,318,2025-05-23,Manager 20,Ticket reviewed and assigned to support queue.,In Progress
+309,93,2024-07-27,Team Lead 5,Awaiting confirmation after fix deployment.,Closed
+310,193,2024-01-09,Analyst 23,Awaiting confirmation after fix deployment.,Pending
+311,201,2024-09-30,Manager 50,Issue reproduced and escalation requested.,Resolved
+312,835,2024-03-21,Team Lead 14,Awaiting confirmation after fix deployment.,Resolved
+313,795,2025-07-04,Team Lead 41,User contacted for additional details.,Closed
+314,122,2025-05-15,Technician 39,Issue reproduced and escalation requested.,Pending
+315,898,2025-09-29,Technician 4,Awaiting confirmation after fix deployment.,Resolved
+316,311,2025-12-23,Queue Monitor 5,User contacted for additional details.,Resolved
+317,385,2024-12-04,Team Lead 34,Ticket reviewed and assigned to support queue.,Escalated
+318,472,2024-12-19,Technician 12,User contacted for additional details.,Resolved
+319,211,2024-04-09,Technician 15,Issue reproduced and escalation requested.,Resolved
+320,781,2025-08-08,System 36,Closed after successful validation.,Open
+321,750,2024-02-26,Analyst 35,Ticket reviewed and assigned to support queue.,Pending
+322,887,2025-01-29,Analyst 17,User contacted for additional details.,Closed
+323,622,2026-04-16,Analyst 20,User contacted for additional details.,Open
+324,706,2025-09-14,Team Lead 37,Temporary workaround provided to user.,Closed
+325,862,2024-09-04,System 38,Closed after successful validation.,Open
+326,178,2024-03-05,Technician 21,User contacted for additional details.,Escalated
+327,927,2024-07-16,Team Lead 6,Ticket reviewed and assigned to support queue.,Pending
+328,742,2025-02-15,System 13,User contacted for additional details.,Open
+329,341,2025-10-18,Team Lead 24,User contacted for additional details.,Open
+330,976,2024-03-05,Team Lead 15,Ticket reviewed and assigned to support queue.,In Progress
+331,61,2026-04-07,Team Lead 19,Ticket reviewed and assigned to support queue.,Escalated
+332,452,2025-06-29,System 43,Closed after successful validation.,Open
+333,916,2024-02-18,Technician 48,Temporary workaround provided to user.,Pending
+334,629,2025-07-16,Team Lead 43,Issue reproduced and escalation requested.,Pending
+335,468,2025-02-20,Queue Monitor 46,Temporary workaround provided to user.,In Progress
+336,768,2026-03-30,Team Lead 21,Issue reproduced and escalation requested.,Open
+337,802,2025-07-25,Queue Monitor 12,Awaiting confirmation after fix deployment.,Resolved
+338,101,2024-05-24,Manager 40,Awaiting confirmation after fix deployment.,Pending
+339,350,2024-06-05,System 27,Issue reproduced and escalation requested.,Closed
+340,85,2025-09-24,Queue Monitor 7,Ticket reviewed and assigned to support queue.,Escalated
+341,996,2024-04-17,Queue Monitor 48,Temporary workaround provided to user.,Closed
+342,390,2025-12-07,Technician 6,Ticket reviewed and assigned to support queue.,Open
+343,917,2026-02-10,Queue Monitor 47,Awaiting confirmation after fix deployment.,Closed
+344,136,2024-06-12,Queue Monitor 17,User contacted for additional details.,Closed
+345,127,2025-02-18,Technician 10,Temporary workaround provided to user.,Resolved
+346,948,2024-05-08,Analyst 44,Ticket reviewed and assigned to support queue.,Closed
+347,831,2025-05-26,Team Lead 41,Temporary workaround provided to user.,In Progress
+348,666,2026-03-11,Manager 40,Awaiting confirmation after fix deployment.,Escalated
+349,978,2024-05-29,System 34,User contacted for additional details.,Closed
+350,278,2025-05-23,Technician 46,Ticket reviewed and assigned to support queue.,Closed
+351,4,2024-01-12,Team Lead 37,User contacted for additional details.,In Progress
+352,678,2026-03-29,Queue Monitor 41,Closed after successful validation.,Pending
+353,505,2024-05-12,Analyst 36,Closed after successful validation.,Escalated
+354,51,2025-12-21,Analyst 11,User contacted for additional details.,Open
+355,48,2025-10-22,Queue Monitor 30,Issue reproduced and escalation requested.,Resolved
+356,348,2025-09-22,Manager 48,User contacted for additional details.,Pending
+357,825,2024-07-14,Technician 30,Ticket reviewed and assigned to support queue.,In Progress
+358,625,2024-12-24,System 19,Issue reproduced and escalation requested.,In Progress
+359,923,2026-01-04,System 22,Closed after successful validation.,Resolved
+360,906,2026-04-02,Queue Monitor 2,Closed after successful validation.,In Progress
+361,936,2025-10-08,Technician 26,Ticket reviewed and assigned to support queue.,Escalated
+362,45,2024-10-21,Technician 2,User contacted for additional details.,In Progress
+363,269,2024-01-14,Manager 23,Issue reproduced and escalation requested.,Escalated
+364,270,2025-04-06,Manager 45,Awaiting confirmation after fix deployment.,Pending
+365,43,2026-01-05,Technician 2,Issue reproduced and escalation requested.,Open
+366,650,2025-05-29,Queue Monitor 38,Awaiting confirmation after fix deployment.,Pending
+367,447,2025-02-05,Queue Monitor 17,User contacted for additional details.,Open
+368,97,2025-02-02,Team Lead 41,Issue reproduced and escalation requested.,Escalated
+369,825,2024-05-17,Analyst 33,Awaiting confirmation after fix deployment.,Escalated
+370,544,2025-06-04,Technician 29,Closed after successful validation.,Escalated
+371,356,2025-03-11,Queue Monitor 40,Awaiting confirmation after fix deployment.,In Progress
+372,76,2024-07-29,Manager 43,Ticket reviewed and assigned to support queue.,Escalated
+373,663,2024-05-11,Analyst 38,Ticket reviewed and assigned to support queue.,Open
+374,101,2026-03-29,Queue Monitor 13,Awaiting confirmation after fix deployment.,Escalated
+375,10,2024-10-13,Manager 38,Issue reproduced and escalation requested.,Closed
+376,772,2025-04-02,System 49,Awaiting confirmation after fix deployment.,Resolved
+377,16,2024-08-07,Technician 2,User contacted for additional details.,Pending
+378,125,2026-02-17,Queue Monitor 47,Issue reproduced and escalation requested.,Resolved
+379,601,2026-03-27,Team Lead 47,User contacted for additional details.,Resolved
+380,173,2026-01-05,Technician 19,Issue reproduced and escalation requested.,Open
+381,604,2025-12-29,System 17,Temporary workaround provided to user.,Resolved
+382,749,2024-02-18,Team Lead 15,Issue reproduced and escalation requested.,Escalated
+383,132,2025-07-28,Analyst 38,Issue reproduced and escalation requested.,Open
+384,981,2026-01-23,Manager 31,User contacted for additional details.,Closed
+385,58,2026-04-19,Technician 22,Closed after successful validation.,In Progress
+386,130,2025-11-04,Queue Monitor 26,Temporary workaround provided to user.,Open
+387,828,2025-07-23,Team Lead 33,Awaiting confirmation after fix deployment.,Escalated
+388,835,2025-10-03,Technician 48,Temporary workaround provided to user.,Pending
+389,390,2025-12-06,Queue Monitor 10,Awaiting confirmation after fix deployment.,In Progress
+390,377,2026-03-03,Queue Monitor 43,Awaiting confirmation after fix deployment.,Closed
+391,191,2024-06-11,Technician 11,Closed after successful validation.,Resolved
+392,923,2024-01-02,System 34,User contacted for additional details.,In Progress
+393,252,2025-01-17,Analyst 3,Temporary workaround provided to user.,Resolved
+394,527,2024-12-17,Manager 35,Closed after successful validation.,Pending
+395,698,2025-03-08,Manager 27,Closed after successful validation.,Escalated
+396,515,2024-01-19,Technician 26,Issue reproduced and escalation requested.,Pending
+397,821,2025-07-18,Analyst 31,Issue reproduced and escalation requested.,Closed
+398,288,2025-08-11,Team Lead 37,Temporary workaround provided to user.,Pending
+399,151,2024-03-22,Analyst 23,Closed after successful validation.,In Progress
+400,84,2025-05-04,Team Lead 23,Closed after successful validation.,Closed
+401,338,2025-09-06,Queue Monitor 11,Awaiting confirmation after fix deployment.,Closed
+402,638,2025-05-15,Team Lead 35,Closed after successful validation.,Escalated
+403,989,2024-10-10,System 44,Ticket reviewed and assigned to support queue.,Closed
+404,652,2024-10-25,Technician 25,Closed after successful validation.,In Progress
+405,439,2025-03-30,Team Lead 49,Ticket reviewed and assigned to support queue.,Closed
+406,668,2024-04-30,Technician 40,Temporary workaround provided to user.,Escalated
+407,264,2024-12-08,Analyst 18,Awaiting confirmation after fix deployment.,Escalated
+408,365,2026-03-17,Team Lead 5,Issue reproduced and escalation requested.,Closed
+409,447,2024-11-14,System 40,Temporary workaround provided to user.,Escalated
+410,543,2025-09-05,Manager 16,Closed after successful validation.,Open
+411,936,2026-04-08,System 37,User contacted for additional details.,Pending
+412,755,2025-05-31,Analyst 4,Ticket reviewed and assigned to support queue.,Escalated
+413,804,2024-07-15,System 6,Closed after successful validation.,Pending
+414,590,2025-05-01,Queue Monitor 41,User contacted for additional details.,In Progress
+415,945,2024-10-14,Analyst 9,Awaiting confirmation after fix deployment.,Pending
+416,778,2025-07-08,Queue Monitor 14,Issue reproduced and escalation requested.,Closed
+417,615,2024-06-20,Manager 25,Temporary workaround provided to user.,Resolved
+418,50,2025-08-04,Queue Monitor 34,Issue reproduced and escalation requested.,Escalated
+419,671,2025-12-11,System 6,Closed after successful validation.,Resolved
+420,995,2024-02-04,Team Lead 1,User contacted for additional details.,In Progress
+421,932,2024-11-03,Technician 1,Ticket reviewed and assigned to support queue.,Pending
+422,892,2024-08-12,Manager 48,User contacted for additional details.,Pending
+423,814,2025-06-23,Manager 26,Closed after successful validation.,Escalated
+424,107,2024-12-20,Team Lead 17,Issue reproduced and escalation requested.,Escalated
+425,902,2024-01-17,Team Lead 16,Awaiting confirmation after fix deployment.,In Progress
+426,914,2025-02-06,System 40,Temporary workaround provided to user.,Escalated
+427,877,2024-09-30,Queue Monitor 26,Closed after successful validation.,Closed
+428,142,2025-05-22,Analyst 4,Closed after successful validation.,Pending
+429,768,2024-07-30,Manager 45,Issue reproduced and escalation requested.,Resolved
+430,588,2024-03-05,System 39,Closed after successful validation.,In Progress
+431,728,2025-06-27,Team Lead 27,Temporary workaround provided to user.,Closed
+432,642,2025-11-30,Analyst 33,Issue reproduced and escalation requested.,Closed
+433,44,2024-06-23,System 23,Issue reproduced and escalation requested.,Closed
+434,908,2026-03-14,Queue Monitor 43,User contacted for additional details.,Resolved
+435,252,2024-01-21,Queue Monitor 32,Temporary workaround provided to user.,Pending
+436,896,2024-11-23,Technician 9,Ticket reviewed and assigned to support queue.,In Progress
+437,396,2024-07-05,Manager 17,User contacted for additional details.,Resolved
+438,380,2025-02-11,Manager 42,Awaiting confirmation after fix deployment.,Pending
+439,296,2026-02-05,Manager 1,Temporary workaround provided to user.,Resolved
+440,625,2026-03-06,System 31,Issue reproduced and escalation requested.,Open
+441,683,2026-03-11,Technician 45,Awaiting confirmation after fix deployment.,Open
+442,622,2025-05-31,System 30,Temporary workaround provided to user.,Pending
+443,380,2024-03-11,Analyst 37,Closed after successful validation.,Closed
+444,284,2024-11-02,System 20,Awaiting confirmation after fix deployment.,In Progress
+445,348,2024-07-29,Queue Monitor 7,Temporary workaround provided to user.,Pending
+446,635,2025-07-08,Analyst 34,Closed after successful validation.,In Progress
+447,530,2026-03-10,Queue Monitor 22,Closed after successful validation.,Resolved
+448,488,2024-10-05,Manager 29,Temporary workaround provided to user.,Pending
+449,389,2026-03-09,Team Lead 38,Ticket reviewed and assigned to support queue.,Escalated
+450,20,2025-01-05,Team Lead 20,Closed after successful validation.,Resolved
+451,270,2025-10-26,Queue Monitor 14,Closed after successful validation.,Pending
+452,228,2026-02-23,Manager 35,Temporary workaround provided to user.,Closed
+453,505,2024-04-14,Team Lead 27,Awaiting confirmation after fix deployment.,In Progress
+454,974,2024-05-24,Queue Monitor 1,Awaiting confirmation after fix deployment.,Pending
+455,787,2025-09-19,System 32,Temporary workaround provided to user.,Closed
+456,247,2024-11-01,System 23,User contacted for additional details.,Pending
+457,608,2025-04-19,Manager 8,Ticket reviewed and assigned to support queue.,Closed
+458,49,2024-04-22,System 22,Closed after successful validation.,Pending
+459,474,2025-04-10,Analyst 50,Issue reproduced and escalation requested.,Resolved
+460,985,2024-09-26,Analyst 43,Ticket reviewed and assigned to support queue.,Closed
+461,269,2025-12-11,Technician 31,User contacted for additional details.,In Progress
+462,361,2025-01-09,Manager 33,Issue reproduced and escalation requested.,Escalated
+463,261,2024-04-16,Analyst 22,Issue reproduced and escalation requested.,Closed
+464,990,2026-01-18,Queue Monitor 32,Issue reproduced and escalation requested.,Open
+465,403,2025-06-30,Team Lead 42,Issue reproduced and escalation requested.,Escalated
+466,220,2025-09-26,Queue Monitor 21,User contacted for additional details.,In Progress
+467,882,2024-05-28,Technician 24,Issue reproduced and escalation requested.,Pending
+468,566,2024-01-19,Queue Monitor 48,Awaiting confirmation after fix deployment.,Pending
+469,498,2026-02-03,Technician 20,Temporary workaround provided to user.,Pending
+470,951,2025-05-28,System 42,Temporary workaround provided to user.,Escalated
+471,46,2024-06-08,Technician 50,Issue reproduced and escalation requested.,Closed
+472,656,2024-04-30,Analyst 27,User contacted for additional details.,In Progress
+473,219,2026-01-29,Queue Monitor 42,Closed after successful validation.,Pending
+474,455,2024-01-02,Team Lead 2,Temporary workaround provided to user.,Open
+475,258,2025-02-14,Technician 29,Closed after successful validation.,Closed
+476,99,2024-09-17,Queue Monitor 32,Closed after successful validation.,Resolved
+477,501,2026-01-07,Queue Monitor 16,Issue reproduced and escalation requested.,Open
+478,570,2024-12-23,Queue Monitor 21,Awaiting confirmation after fix deployment.,Pending
+479,43,2025-06-14,Queue Monitor 14,Temporary workaround provided to user.,Pending
+480,382,2026-01-01,Manager 3,Ticket reviewed and assigned to support queue.,Escalated
+481,27,2024-07-14,Technician 25,Ticket reviewed and assigned to support queue.,Open
+482,80,2025-04-16,Team Lead 40,Closed after successful validation.,Open
+483,675,2024-02-10,System 29,Closed after successful validation.,Open
+484,963,2025-01-27,Manager 37,Closed after successful validation.,Pending
+485,589,2024-02-04,Manager 35,Temporary workaround provided to user.,Closed
+486,612,2024-07-01,Technician 21,Issue reproduced and escalation requested.,Closed
+487,101,2025-02-11,Queue Monitor 10,Ticket reviewed and assigned to support queue.,Closed
+488,818,2025-01-08,Technician 50,User contacted for additional details.,Closed
+489,563,2026-02-28,Technician 28,Temporary workaround provided to user.,Escalated
+490,694,2024-09-12,Team Lead 13,Temporary workaround provided to user.,Escalated
+491,246,2025-01-11,Queue Monitor 23,Closed after successful validation.,Resolved
+492,609,2025-02-21,System 32,Ticket reviewed and assigned to support queue.,Escalated
+493,132,2024-05-16,Technician 35,User contacted for additional details.,Pending
+494,798,2024-03-28,Analyst 15,Issue reproduced and escalation requested.,Open
+495,772,2024-07-17,Technician 1,Ticket reviewed and assigned to support queue.,Pending
+496,195,2024-02-18,Technician 30,Issue reproduced and escalation requested.,In Progress
+497,505,2025-10-12,Team Lead 40,User contacted for additional details.,Escalated
+498,415,2025-11-19,Analyst 21,Temporary workaround provided to user.,Closed
+499,791,2026-01-14,Technician 27,Temporary workaround provided to user.,Open
+500,974,2025-12-12,Team Lead 34,Ticket reviewed and assigned to support queue.,In Progress
+501,721,2026-02-25,Queue Monitor 1,Closed after successful validation.,Open
+502,937,2025-04-12,Queue Monitor 47,User contacted for additional details.,Pending
+503,793,2025-10-05,Manager 24,Awaiting confirmation after fix deployment.,In Progress
+504,400,2026-04-24,System 33,User contacted for additional details.,Pending
+505,186,2025-11-16,Manager 16,Closed after successful validation.,Escalated
+506,830,2025-08-28,Team Lead 46,Ticket reviewed and assigned to support queue.,In Progress
+507,908,2025-06-02,Technician 25,Temporary workaround provided to user.,Resolved
+508,107,2024-03-31,Analyst 44,User contacted for additional details.,In Progress
+509,816,2026-04-01,Analyst 5,Issue reproduced and escalation requested.,Closed
+510,674,2024-06-19,Team Lead 11,Temporary workaround provided to user.,Open
+511,946,2024-04-20,Technician 32,Closed after successful validation.,Resolved
+512,582,2026-04-05,Analyst 22,Awaiting confirmation after fix deployment.,Pending
+513,404,2026-02-15,Team Lead 29,Issue reproduced and escalation requested.,Closed
+514,645,2024-10-06,Manager 24,Closed after successful validation.,In Progress
+515,186,2025-01-18,Queue Monitor 21,Issue reproduced and escalation requested.,Pending
+516,947,2024-03-19,System 34,Ticket reviewed and assigned to support queue.,Closed
+517,546,2025-11-12,Queue Monitor 22,Ticket reviewed and assigned to support queue.,In Progress
+518,392,2025-04-05,Analyst 33,Ticket reviewed and assigned to support queue.,Closed
+519,347,2024-05-27,System 14,Awaiting confirmation after fix deployment.,Closed
+520,659,2025-07-06,System 45,Awaiting confirmation after fix deployment.,In Progress
+521,456,2026-01-09,Manager 33,Issue reproduced and escalation requested.,Open
+522,550,2026-03-08,Team Lead 32,Ticket reviewed and assigned to support queue.,Pending
+523,392,2025-11-17,Analyst 11,Ticket reviewed and assigned to support queue.,Open
+524,268,2025-11-08,Technician 16,User contacted for additional details.,In Progress
+525,332,2024-09-30,System 7,Ticket reviewed and assigned to support queue.,In Progress
+526,454,2024-06-22,Technician 14,Temporary workaround provided to user.,Open
+527,201,2024-01-02,Technician 31,Temporary workaround provided to user.,Pending
+528,480,2025-05-09,System 47,Awaiting confirmation after fix deployment.,Open
+529,432,2025-11-08,Queue Monitor 31,Temporary workaround provided to user.,Open
+530,995,2025-07-10,Analyst 50,Temporary workaround provided to user.,Escalated
+531,148,2026-01-28,Technician 24,Ticket reviewed and assigned to support queue.,Escalated
+532,432,2025-10-31,Manager 45,Ticket reviewed and assigned to support queue.,Closed
+533,427,2024-07-08,System 32,User contacted for additional details.,Open
+534,289,2025-07-12,Technician 34,Temporary workaround provided to user.,Resolved
+535,51,2025-11-03,Team Lead 7,Awaiting confirmation after fix deployment.,Escalated
+536,834,2025-08-11,Analyst 3,User contacted for additional details.,Closed
+537,166,2025-01-31,Team Lead 42,Issue reproduced and escalation requested.,Escalated
+538,263,2025-09-21,Manager 30,Issue reproduced and escalation requested.,Open
+539,603,2025-09-19,System 26,Ticket reviewed and assigned to support queue.,Pending
+540,736,2025-12-02,Analyst 39,Closed after successful validation.,Open
+541,397,2026-03-14,Team Lead 37,Ticket reviewed and assigned to support queue.,Resolved
+542,737,2025-12-27,Manager 42,Ticket reviewed and assigned to support queue.,In Progress
+543,306,2024-05-13,Team Lead 43,Ticket reviewed and assigned to support queue.,Closed
+544,985,2025-09-02,Manager 44,Ticket reviewed and assigned to support queue.,Open
+545,566,2024-03-11,Queue Monitor 24,Awaiting confirmation after fix deployment.,Resolved
+546,103,2024-07-11,Manager 35,User contacted for additional details.,Resolved
+547,401,2025-04-20,System 30,Issue reproduced and escalation requested.,In Progress
+548,121,2024-12-06,Analyst 5,Awaiting confirmation after fix deployment.,In Progress
+549,653,2025-02-11,Queue Monitor 9,Issue reproduced and escalation requested.,In Progress
+550,412,2026-03-25,System 9,User contacted for additional details.,Open
+551,434,2025-08-08,Queue Monitor 49,Ticket reviewed and assigned to support queue.,Resolved
+552,725,2025-06-06,Manager 24,Issue reproduced and escalation requested.,Resolved
+553,11,2024-05-24,Technician 15,User contacted for additional details.,Pending
+554,559,2024-08-24,Technician 20,User contacted for additional details.,Closed
+555,860,2025-09-28,Queue Monitor 6,Ticket reviewed and assigned to support queue.,Escalated
+556,371,2025-04-04,Analyst 21,Ticket reviewed and assigned to support queue.,Escalated
+557,319,2024-12-12,Team Lead 25,Awaiting confirmation after fix deployment.,In Progress
+558,791,2025-12-07,Queue Monitor 23,Ticket reviewed and assigned to support queue.,Open
+559,898,2024-06-15,Queue Monitor 6,Issue reproduced and escalation requested.,Open
+560,930,2026-04-07,System 10,Awaiting confirmation after fix deployment.,In Progress
+561,194,2024-03-29,Technician 22,Issue reproduced and escalation requested.,Resolved
+562,975,2025-10-12,Technician 46,Temporary workaround provided to user.,Resolved
+563,593,2024-01-13,Analyst 22,Awaiting confirmation after fix deployment.,Escalated
+564,103,2025-05-19,Manager 6,Temporary workaround provided to user.,Closed
+565,28,2024-07-15,System 23,Temporary workaround provided to user.,Resolved
+566,463,2024-02-28,Technician 20,Ticket reviewed and assigned to support queue.,In Progress
+567,260,2025-12-16,Manager 1,Issue reproduced and escalation requested.,Open
+568,987,2025-02-05,Team Lead 35,User contacted for additional details.,Closed
+569,647,2025-07-22,Technician 21,User contacted for additional details.,In Progress
+570,459,2025-01-29,Technician 17,Ticket reviewed and assigned to support queue.,Resolved
+571,465,2026-02-21,Manager 30,Temporary workaround provided to user.,Closed
+572,447,2024-03-03,System 25,Issue reproduced and escalation requested.,In Progress
+573,318,2024-11-28,Queue Monitor 46,Awaiting confirmation after fix deployment.,Closed
+574,466,2025-11-23,Queue Monitor 43,User contacted for additional details.,Open
+575,655,2026-02-19,Manager 49,User contacted for additional details.,Open
+576,234,2024-08-19,Analyst 17,Awaiting confirmation after fix deployment.,Escalated
+577,767,2026-04-28,Queue Monitor 47,Temporary workaround provided to user.,Pending
+578,935,2026-02-12,Manager 17,Issue reproduced and escalation requested.,Open
+579,799,2024-01-01,Team Lead 35,Issue reproduced and escalation requested.,Resolved
+580,880,2024-02-14,Technician 20,Closed after successful validation.,Escalated
+581,743,2026-04-01,Analyst 8,Awaiting confirmation after fix deployment.,Open
+582,353,2025-01-31,System 22,Issue reproduced and escalation requested.,In Progress
+583,496,2024-02-22,Manager 39,Awaiting confirmation after fix deployment.,Pending
+584,838,2025-08-16,Queue Monitor 20,Temporary workaround provided to user.,Escalated
+585,852,2024-04-30,System 7,Ticket reviewed and assigned to support queue.,Escalated
+586,977,2025-08-12,Manager 26,Issue reproduced and escalation requested.,Escalated
+587,371,2024-10-23,Queue Monitor 48,Issue reproduced and escalation requested.,Escalated
+588,350,2025-04-17,Analyst 33,Awaiting confirmation after fix deployment.,Escalated
+589,156,2024-06-19,Manager 44,Awaiting confirmation after fix deployment.,In Progress
+590,304,2025-06-03,Team Lead 18,Closed after successful validation.,Open
+591,777,2024-07-27,Technician 1,Awaiting confirmation after fix deployment.,Resolved
+592,265,2025-12-02,Manager 34,Issue reproduced and escalation requested.,Closed
+593,427,2024-01-12,Manager 25,Closed after successful validation.,Resolved
+594,747,2025-09-03,Analyst 42,Closed after successful validation.,Escalated
+595,70,2024-08-11,Technician 9,Temporary workaround provided to user.,Resolved
+596,488,2024-02-04,Technician 50,Temporary workaround provided to user.,Escalated
+597,912,2025-04-12,Manager 39,Issue reproduced and escalation requested.,Escalated
+598,42,2026-02-14,Queue Monitor 14,Awaiting confirmation after fix deployment.,Resolved
+599,915,2026-04-25,Manager 10,Temporary workaround provided to user.,In Progress
+600,509,2025-04-24,Technician 12,Closed after successful validation.,Escalated
+601,72,2025-11-17,System 4,Temporary workaround provided to user.,In Progress
+602,367,2024-05-06,Analyst 36,Awaiting confirmation after fix deployment.,Escalated
+603,177,2024-07-10,Queue Monitor 3,Temporary workaround provided to user.,Resolved
+604,991,2025-10-30,Analyst 19,User contacted for additional details.,In Progress
+605,238,2024-07-16,Queue Monitor 50,User contacted for additional details.,Open
+606,807,2024-05-26,Analyst 40,Awaiting confirmation after fix deployment.,In Progress
+607,259,2024-10-13,Manager 2,Temporary workaround provided to user.,Closed
+608,911,2024-01-29,Manager 37,Issue reproduced and escalation requested.,Closed
+609,233,2025-11-27,System 26,Awaiting confirmation after fix deployment.,Pending
+610,671,2024-05-13,Analyst 22,Temporary workaround provided to user.,Resolved
+611,902,2025-02-05,Team Lead 50,User contacted for additional details.,Resolved
+612,313,2024-04-02,Analyst 33,Issue reproduced and escalation requested.,In Progress
+613,494,2026-01-02,System 3,Temporary workaround provided to user.,Pending
+614,260,2025-06-27,Technician 22,Issue reproduced and escalation requested.,Resolved
+615,491,2026-03-09,Team Lead 16,Ticket reviewed and assigned to support queue.,Open
+616,985,2025-08-15,Queue Monitor 49,Awaiting confirmation after fix deployment.,Open
+617,263,2024-06-19,Team Lead 23,Issue reproduced and escalation requested.,In Progress
+618,543,2026-04-01,System 21,User contacted for additional details.,Escalated
+619,421,2026-02-17,Team Lead 9,Issue reproduced and escalation requested.,Pending
+620,820,2024-01-31,Manager 36,Temporary workaround provided to user.,Resolved
+621,543,2025-10-14,Manager 35,Temporary workaround provided to user.,Open
+622,696,2024-07-03,System 15,Closed after successful validation.,Resolved
+623,974,2024-05-13,Analyst 8,User contacted for additional details.,Open
+624,940,2025-05-07,System 6,Awaiting confirmation after fix deployment.,Closed
+625,926,2024-11-29,Technician 26,Temporary workaround provided to user.,In Progress
+626,975,2025-08-29,Technician 43,User contacted for additional details.,Resolved
+627,831,2025-04-28,Technician 34,Temporary workaround provided to user.,In Progress
+628,942,2025-06-15,Manager 13,Closed after successful validation.,Open
+629,258,2026-03-31,Analyst 20,Awaiting confirmation after fix deployment.,Pending
+630,817,2025-02-22,Analyst 37,Ticket reviewed and assigned to support queue.,Escalated
+631,938,2025-11-13,Technician 26,Issue reproduced and escalation requested.,Pending
+632,118,2025-03-13,System 16,User contacted for additional details.,In Progress
+633,555,2025-07-24,Technician 1,Temporary workaround provided to user.,Open
+634,20,2024-11-27,System 45,Ticket reviewed and assigned to support queue.,In Progress
+635,540,2025-05-14,Team Lead 22,Closed after successful validation.,Open
+636,154,2024-01-22,Analyst 44,User contacted for additional details.,Closed
+637,721,2025-11-02,System 6,Closed after successful validation.,Escalated
+638,370,2024-10-31,Team Lead 18,Ticket reviewed and assigned to support queue.,Escalated
+639,283,2025-06-26,Manager 40,User contacted for additional details.,Closed
+640,886,2025-12-13,System 4,Issue reproduced and escalation requested.,Escalated
+641,426,2024-05-14,Manager 21,Closed after successful validation.,Closed
+642,19,2026-03-09,System 23,User contacted for additional details.,Escalated
+643,698,2025-11-27,Technician 29,Issue reproduced and escalation requested.,Pending
+644,175,2026-04-25,System 15,Closed after successful validation.,Escalated
+645,57,2025-05-07,Technician 50,Issue reproduced and escalation requested.,Pending
+646,753,2025-07-09,Analyst 13,Ticket reviewed and assigned to support queue.,Resolved
+647,991,2025-01-16,Technician 32,User contacted for additional details.,In Progress
+648,706,2025-07-22,Analyst 26,Awaiting confirmation after fix deployment.,Closed
+649,660,2024-01-11,Manager 4,Ticket reviewed and assigned to support queue.,Pending
+650,344,2025-04-01,Technician 10,User contacted for additional details.,In Progress
+651,411,2025-05-12,System 18,Closed after successful validation.,Closed
+652,545,2024-12-16,Technician 46,Ticket reviewed and assigned to support queue.,Resolved
+653,650,2025-04-16,System 7,Issue reproduced and escalation requested.,Open
+654,740,2024-04-19,Technician 28,Temporary workaround provided to user.,Resolved
+655,868,2025-05-09,Queue Monitor 9,Ticket reviewed and assigned to support queue.,Resolved
+656,133,2024-12-24,System 37,User contacted for additional details.,Open
+657,123,2025-07-29,Analyst 36,Closed after successful validation.,Closed
+658,362,2024-05-09,Analyst 15,Closed after successful validation.,In Progress
+659,993,2025-08-01,Manager 1,Issue reproduced and escalation requested.,Resolved
+660,663,2024-07-21,Manager 38,Issue reproduced and escalation requested.,Resolved
+661,166,2025-08-30,System 22,Awaiting confirmation after fix deployment.,Closed
+662,931,2025-01-15,Team Lead 8,Ticket reviewed and assigned to support queue.,Escalated
+663,863,2024-08-04,Technician 42,Temporary workaround provided to user.,Open
+664,290,2025-09-07,Analyst 2,Temporary workaround provided to user.,Pending
+665,851,2025-04-15,Team Lead 45,Ticket reviewed and assigned to support queue.,Pending
+666,937,2024-07-06,Team Lead 36,Temporary workaround provided to user.,In Progress
+667,597,2025-02-25,Analyst 25,User contacted for additional details.,Pending
+668,616,2024-03-22,Technician 35,User contacted for additional details.,Closed
+669,72,2024-07-01,Team Lead 42,Awaiting confirmation after fix deployment.,Escalated
+670,746,2025-04-05,Analyst 49,Closed after successful validation.,Escalated
+671,726,2026-03-19,Manager 31,User contacted for additional details.,Pending
+672,305,2024-07-14,Queue Monitor 20,User contacted for additional details.,Closed
+673,905,2024-12-16,Team Lead 40,Temporary workaround provided to user.,Resolved
+674,508,2024-06-17,Technician 25,Issue reproduced and escalation requested.,Escalated
+675,113,2024-12-11,Manager 49,Closed after successful validation.,Pending
+676,229,2025-06-14,Queue Monitor 42,Ticket reviewed and assigned to support queue.,In Progress
+677,629,2025-08-08,System 49,User contacted for additional details.,Pending
+678,951,2025-06-30,Queue Monitor 2,Closed after successful validation.,Pending
+679,129,2024-10-27,Manager 38,Temporary workaround provided to user.,Open
+680,642,2024-02-01,Queue Monitor 4,Awaiting confirmation after fix deployment.,Pending
+681,10,2025-09-07,System 27,Closed after successful validation.,Pending
+682,495,2024-08-21,Manager 27,User contacted for additional details.,Pending
+683,901,2024-06-20,Manager 25,Closed after successful validation.,Closed
+684,854,2024-05-21,Analyst 24,Issue reproduced and escalation requested.,Resolved
+685,158,2024-02-03,Analyst 27,Awaiting confirmation after fix deployment.,In Progress
+686,55,2025-09-01,System 46,Issue reproduced and escalation requested.,Closed
+687,998,2024-03-01,System 44,Issue reproduced and escalation requested.,In Progress
+688,478,2024-09-04,System 46,Ticket reviewed and assigned to support queue.,Escalated
+689,189,2026-04-19,Analyst 26,Issue reproduced and escalation requested.,Open
+690,265,2025-05-18,Team Lead 27,Awaiting confirmation after fix deployment.,Open
+691,900,2024-01-12,Queue Monitor 5,Awaiting confirmation after fix deployment.,Pending
+692,129,2025-09-17,Analyst 14,Issue reproduced and escalation requested.,Resolved
+693,541,2026-01-24,Team Lead 29,Issue reproduced and escalation requested.,In Progress
+694,162,2025-08-12,Technician 41,User contacted for additional details.,Closed
+695,781,2024-11-26,Technician 27,Closed after successful validation.,Escalated
+696,934,2025-12-11,Manager 31,Ticket reviewed and assigned to support queue.,Pending
+697,256,2025-09-01,System 11,User contacted for additional details.,Escalated
+698,788,2024-06-16,Queue Monitor 20,Temporary workaround provided to user.,Closed
+699,799,2024-08-29,Manager 21,Ticket reviewed and assigned to support queue.,Open
+700,737,2024-07-26,Analyst 39,Awaiting confirmation after fix deployment.,Open
+701,589,2024-02-08,Queue Monitor 41,Ticket reviewed and assigned to support queue.,Escalated
+702,308,2025-04-09,Manager 5,Closed after successful validation.,Pending
+703,309,2024-05-29,Manager 33,Temporary workaround provided to user.,In Progress
+704,863,2026-01-25,Queue Monitor 21,Issue reproduced and escalation requested.,Pending
+705,675,2024-02-23,Queue Monitor 19,User contacted for additional details.,Closed
+706,255,2024-05-07,Manager 40,Temporary workaround provided to user.,Resolved
+707,148,2026-01-11,Queue Monitor 48,Ticket reviewed and assigned to support queue.,Closed
+708,444,2025-03-29,Team Lead 18,Awaiting confirmation after fix deployment.,In Progress
+709,637,2024-07-20,Team Lead 15,Closed after successful validation.,Resolved
+710,410,2025-08-24,System 18,Issue reproduced and escalation requested.,In Progress
+711,758,2026-03-07,Queue Monitor 38,User contacted for additional details.,Closed
+712,356,2024-06-27,Technician 31,Awaiting confirmation after fix deployment.,Closed
+713,228,2024-12-08,Manager 13,User contacted for additional details.,Resolved
+714,101,2024-08-14,Analyst 2,Temporary workaround provided to user.,In Progress
+715,284,2024-12-14,Analyst 41,Closed after successful validation.,In Progress
+716,52,2024-07-04,Analyst 28,Issue reproduced and escalation requested.,Open
+717,866,2024-07-02,Analyst 19,Temporary workaround provided to user.,Pending
+718,23,2025-10-10,Technician 35,Issue reproduced and escalation requested.,In Progress
+719,732,2026-04-18,Manager 11,Ticket reviewed and assigned to support queue.,In Progress
+720,236,2024-12-21,System 21,Ticket reviewed and assigned to support queue.,Escalated
+721,50,2024-05-08,Analyst 9,Issue reproduced and escalation requested.,Open
+722,839,2024-01-30,Manager 46,Ticket reviewed and assigned to support queue.,Pending
+723,970,2024-12-31,Team Lead 35,Temporary workaround provided to user.,Open
+724,824,2025-08-24,Team Lead 41,Closed after successful validation.,Open
+725,280,2024-06-04,Analyst 42,Closed after successful validation.,Closed
+726,307,2024-12-15,Manager 20,Ticket reviewed and assigned to support queue.,Open
+727,608,2025-09-27,Analyst 24,Issue reproduced and escalation requested.,Open
+728,135,2024-11-24,Analyst 33,Ticket reviewed and assigned to support queue.,Escalated
+729,790,2025-06-13,System 38,Ticket reviewed and assigned to support queue.,In Progress
+730,843,2026-01-20,Team Lead 2,Issue reproduced and escalation requested.,Closed
+731,761,2024-08-16,Queue Monitor 45,Issue reproduced and escalation requested.,Resolved
+732,985,2024-09-17,System 40,Closed after successful validation.,Escalated
+733,113,2024-12-07,Queue Monitor 32,Issue reproduced and escalation requested.,Pending
+734,509,2024-05-04,Manager 28,User contacted for additional details.,In Progress
+735,982,2025-06-11,Queue Monitor 42,User contacted for additional details.,Pending
+736,420,2024-09-08,System 28,Ticket reviewed and assigned to support queue.,Closed
+737,421,2024-05-17,System 43,Closed after successful validation.,Resolved
+738,673,2025-01-08,Queue Monitor 28,User contacted for additional details.,Pending
+739,135,2024-01-10,System 30,Temporary workaround provided to user.,Open
+740,321,2024-02-12,Team Lead 10,Ticket reviewed and assigned to support queue.,Pending
+741,622,2025-07-29,Queue Monitor 25,Awaiting confirmation after fix deployment.,Pending
+742,684,2025-10-29,Manager 39,Temporary workaround provided to user.,Escalated
+743,899,2024-03-20,Team Lead 13,Closed after successful validation.,In Progress
+744,710,2025-03-08,System 33,Ticket reviewed and assigned to support queue.,Closed
+745,784,2025-08-30,System 7,Ticket reviewed and assigned to support queue.,Open
+746,939,2024-10-18,Manager 47,Ticket reviewed and assigned to support queue.,Open
+747,751,2024-08-09,Technician 10,Temporary workaround provided to user.,Resolved
+748,538,2025-05-27,Technician 7,Awaiting confirmation after fix deployment.,Resolved
+749,213,2024-02-09,Team Lead 26,Closed after successful validation.,Open
+750,396,2024-09-05,Technician 34,Ticket reviewed and assigned to support queue.,Escalated
+751,991,2025-06-04,Manager 46,Awaiting confirmation after fix deployment.,Closed
+752,361,2024-03-31,Technician 44,Issue reproduced and escalation requested.,Escalated
+753,954,2025-09-02,System 23,Closed after successful validation.,Open
+754,677,2025-08-28,Manager 22,Temporary workaround provided to user.,Resolved
+755,550,2026-02-15,Analyst 25,Temporary workaround provided to user.,In Progress
+756,537,2024-02-05,System 31,User contacted for additional details.,Closed
+757,500,2024-06-09,System 47,Closed after successful validation.,Resolved
+758,115,2025-11-20,Queue Monitor 19,Temporary workaround provided to user.,In Progress
+759,648,2024-07-16,Manager 14,Issue reproduced and escalation requested.,Escalated
+760,290,2024-01-19,Manager 34,User contacted for additional details.,Closed
+761,742,2025-12-30,System 35,User contacted for additional details.,Open
+762,788,2025-02-13,Technician 29,Awaiting confirmation after fix deployment.,Resolved
+763,599,2025-10-05,Technician 24,Ticket reviewed and assigned to support queue.,Closed
+764,262,2024-12-20,Team Lead 39,Awaiting confirmation after fix deployment.,In Progress
+765,422,2025-04-17,System 17,Temporary workaround provided to user.,Escalated
+766,270,2025-07-31,System 28,Temporary workaround provided to user.,Resolved
+767,528,2026-01-10,Manager 29,Issue reproduced and escalation requested.,Open
+768,890,2025-07-28,Team Lead 49,Temporary workaround provided to user.,Open
+769,87,2025-03-11,Team Lead 23,Temporary workaround provided to user.,Open
+770,360,2025-11-15,Technician 24,Temporary workaround provided to user.,In Progress
+771,311,2024-09-11,System 33,Ticket reviewed and assigned to support queue.,Closed
+772,672,2025-03-25,Analyst 38,User contacted for additional details.,Open
+773,738,2024-02-03,Analyst 23,Awaiting confirmation after fix deployment.,Pending
+774,439,2024-12-05,Analyst 16,Temporary workaround provided to user.,Closed
+775,489,2025-05-08,Analyst 2,Closed after successful validation.,In Progress
+776,102,2025-01-22,Manager 45,Awaiting confirmation after fix deployment.,Escalated
+777,111,2025-08-29,Analyst 27,Ticket reviewed and assigned to support queue.,Pending
+778,290,2025-07-14,Manager 44,User contacted for additional details.,Open
+779,873,2024-04-15,Analyst 17,Closed after successful validation.,Open
+780,142,2025-01-18,Team Lead 22,Issue reproduced and escalation requested.,Open
+781,674,2024-02-29,Team Lead 19,Awaiting confirmation after fix deployment.,Open
+782,520,2026-02-01,Queue Monitor 3,Closed after successful validation.,Resolved
+783,601,2025-07-17,Analyst 37,Temporary workaround provided to user.,Escalated
+784,647,2025-04-14,Analyst 34,Awaiting confirmation after fix deployment.,Escalated
+785,139,2024-11-13,Manager 7,Temporary workaround provided to user.,In Progress
+786,14,2024-07-26,Team Lead 16,Awaiting confirmation after fix deployment.,In Progress
+787,791,2025-11-18,System 2,Ticket reviewed and assigned to support queue.,Resolved
+788,82,2024-10-25,Analyst 21,User contacted for additional details.,Resolved
+789,315,2025-09-25,Analyst 2,Temporary workaround provided to user.,Closed
+790,998,2026-01-01,Team Lead 7,Temporary workaround provided to user.,Resolved
+791,580,2025-10-21,Manager 21,Issue reproduced and escalation requested.,Escalated
+792,773,2025-01-31,Analyst 33,Awaiting confirmation after fix deployment.,Escalated
+793,710,2024-07-18,Team Lead 7,Awaiting confirmation after fix deployment.,Resolved
+794,818,2025-01-21,Analyst 10,Issue reproduced and escalation requested.,In Progress
+795,464,2026-03-07,Team Lead 41,Temporary workaround provided to user.,Open
+796,5,2024-06-18,Analyst 16,Ticket reviewed and assigned to support queue.,In Progress
+797,230,2024-10-20,System 24,Temporary workaround provided to user.,Closed
+798,480,2025-04-07,System 12,Issue reproduced and escalation requested.,Open
+799,676,2025-01-12,Technician 37,Closed after successful validation.,Open
+800,846,2024-09-25,System 34,Closed after successful validation.,In Progress
+801,791,2025-06-03,System 22,Ticket reviewed and assigned to support queue.,Escalated
+802,413,2025-03-17,System 46,Awaiting confirmation after fix deployment.,Open
+803,871,2024-07-03,Analyst 38,User contacted for additional details.,Escalated
+804,540,2025-07-20,Team Lead 50,Issue reproduced and escalation requested.,Escalated
+805,651,2025-09-20,System 38,Awaiting confirmation after fix deployment.,Escalated
+806,819,2024-07-17,Manager 6,Issue reproduced and escalation requested.,In Progress
+807,486,2025-02-04,Technician 21,Awaiting confirmation after fix deployment.,Pending
+808,311,2024-11-06,Analyst 1,User contacted for additional details.,In Progress
+809,819,2024-09-22,Queue Monitor 36,User contacted for additional details.,Pending
+810,550,2025-07-11,Manager 13,Closed after successful validation.,Open
+811,251,2025-04-17,Analyst 30,Ticket reviewed and assigned to support queue.,Pending
+812,376,2024-02-12,Analyst 5,Ticket reviewed and assigned to support queue.,Resolved
+813,33,2025-12-13,Analyst 25,Closed after successful validation.,Escalated
+814,647,2025-08-24,System 17,Ticket reviewed and assigned to support queue.,Resolved
+815,781,2024-09-11,Queue Monitor 37,Temporary workaround provided to user.,Open
+816,393,2024-03-28,System 17,Temporary workaround provided to user.,Open
+817,895,2025-05-28,Technician 48,Ticket reviewed and assigned to support queue.,Open
+818,835,2025-08-17,Technician 9,Closed after successful validation.,Pending
+819,868,2025-01-22,Queue Monitor 44,Awaiting confirmation after fix deployment.,In Progress
+820,910,2024-11-07,Queue Monitor 32,Temporary workaround provided to user.,Resolved
+821,566,2025-11-16,Analyst 19,Ticket reviewed and assigned to support queue.,Open
+822,226,2024-09-25,System 18,Ticket reviewed and assigned to support queue.,In Progress
+823,774,2024-03-12,Technician 7,Ticket reviewed and assigned to support queue.,Resolved
+824,649,2024-04-16,Team Lead 1,Issue reproduced and escalation requested.,Open
+825,715,2025-12-21,Analyst 11,Issue reproduced and escalation requested.,Closed
+826,119,2025-03-31,Technician 43,Ticket reviewed and assigned to support queue.,Pending
+827,320,2025-04-06,System 33,Issue reproduced and escalation requested.,Escalated
+828,2,2025-08-09,Queue Monitor 18,Ticket reviewed and assigned to support queue.,Escalated
+829,465,2024-04-12,Team Lead 43,Awaiting confirmation after fix deployment.,Escalated
+830,540,2024-08-05,System 2,User contacted for additional details.,Open
+831,269,2026-04-08,Team Lead 49,Temporary workaround provided to user.,Pending
+832,323,2025-04-30,Analyst 49,User contacted for additional details.,Escalated
+833,336,2025-11-08,Manager 39,Issue reproduced and escalation requested.,Open
+834,466,2026-01-13,Team Lead 2,User contacted for additional details.,In Progress
+835,879,2025-04-05,Team Lead 17,Awaiting confirmation after fix deployment.,Closed
+836,595,2025-09-20,Technician 29,Ticket reviewed and assigned to support queue.,Resolved
+837,966,2024-08-23,Analyst 39,Ticket reviewed and assigned to support queue.,Closed
+838,235,2025-02-06,Queue Monitor 40,Issue reproduced and escalation requested.,Open
+839,191,2026-04-15,Queue Monitor 26,Issue reproduced and escalation requested.,Open
+840,5,2025-01-29,System 15,User contacted for additional details.,Escalated
+841,778,2026-04-08,Manager 23,User contacted for additional details.,Open
+842,720,2025-10-23,Technician 3,Issue reproduced and escalation requested.,Escalated
+843,948,2025-02-10,Analyst 6,Closed after successful validation.,Open
+844,84,2024-01-28,Technician 39,Temporary workaround provided to user.,Closed
+845,341,2024-10-29,Manager 7,User contacted for additional details.,Pending
+846,232,2025-02-09,System 25,Issue reproduced and escalation requested.,Open
+847,63,2024-10-14,Manager 19,Awaiting confirmation after fix deployment.,Escalated
+848,476,2025-09-05,Team Lead 36,Temporary workaround provided to user.,Closed
+849,652,2025-08-20,Technician 38,Issue reproduced and escalation requested.,Resolved
+850,259,2025-06-13,System 30,Ticket reviewed and assigned to support queue.,Closed
+851,253,2025-02-19,System 2,Ticket reviewed and assigned to support queue.,Escalated
+852,818,2025-04-24,System 49,Ticket reviewed and assigned to support queue.,Escalated
+853,498,2026-02-22,Analyst 42,Temporary workaround provided to user.,Pending
+854,588,2024-11-13,Technician 13,User contacted for additional details.,Open
+855,455,2025-06-24,System 8,Ticket reviewed and assigned to support queue.,Escalated
+856,110,2025-08-10,Queue Monitor 49,Temporary workaround provided to user.,Open
+857,38,2024-10-11,Technician 2,User contacted for additional details.,Open
+858,275,2024-10-20,Team Lead 6,Issue reproduced and escalation requested.,Pending
+859,870,2025-08-29,Manager 29,Issue reproduced and escalation requested.,In Progress
+860,238,2024-08-26,Queue Monitor 43,Awaiting confirmation after fix deployment.,Pending
+861,680,2025-08-01,Queue Monitor 27,Closed after successful validation.,Pending
+862,384,2024-06-14,Analyst 37,Ticket reviewed and assigned to support queue.,Escalated
+863,795,2025-11-27,System 14,Closed after successful validation.,In Progress
+864,369,2024-09-06,System 49,Ticket reviewed and assigned to support queue.,Pending
+865,633,2025-12-12,Technician 38,User contacted for additional details.,Escalated
+866,642,2025-02-17,Team Lead 14,Closed after successful validation.,Escalated
+867,735,2024-04-24,Queue Monitor 40,Temporary workaround provided to user.,Closed
+868,852,2025-04-12,Analyst 7,Temporary workaround provided to user.,In Progress
+869,985,2025-08-04,Team Lead 49,Temporary workaround provided to user.,Closed
+870,935,2024-06-07,Team Lead 33,Temporary workaround provided to user.,Closed
+871,741,2024-06-04,Analyst 48,Awaiting confirmation after fix deployment.,Pending
+872,867,2025-06-22,Manager 22,Closed after successful validation.,In Progress
+873,856,2025-09-28,Analyst 31,Closed after successful validation.,Escalated
+874,567,2025-04-09,Queue Monitor 6,Issue reproduced and escalation requested.,Closed
+875,81,2024-09-04,Team Lead 37,User contacted for additional details.,Open
+876,917,2026-02-22,Manager 39,Temporary workaround provided to user.,Escalated
+877,960,2024-02-04,Manager 1,Issue reproduced and escalation requested.,Pending
+878,573,2025-10-18,System 31,User contacted for additional details.,Pending
+879,474,2025-09-14,Analyst 8,Closed after successful validation.,Open
+880,398,2024-05-19,Team Lead 2,Temporary workaround provided to user.,Closed
+881,831,2025-08-24,Technician 40,User contacted for additional details.,Pending
+882,769,2024-09-26,Manager 20,Temporary workaround provided to user.,In Progress
+883,840,2025-08-29,Technician 45,Awaiting confirmation after fix deployment.,Escalated
+884,16,2024-04-14,Team Lead 43,Closed after successful validation.,Closed
+885,336,2025-01-04,Manager 1,User contacted for additional details.,Resolved
+886,735,2024-08-31,Team Lead 43,User contacted for additional details.,Escalated
+887,713,2024-04-11,Queue Monitor 35,Temporary workaround provided to user.,Escalated
+888,977,2026-02-04,Technician 10,Issue reproduced and escalation requested.,Pending
+889,130,2025-09-10,Queue Monitor 4,Issue reproduced and escalation requested.,Open
+890,637,2024-06-26,Manager 4,Ticket reviewed and assigned to support queue.,Open
+891,683,2024-03-23,System 43,Closed after successful validation.,Open
+892,86,2026-04-17,Team Lead 28,Ticket reviewed and assigned to support queue.,Escalated
+893,73,2025-08-22,Manager 13,Awaiting confirmation after fix deployment.,Pending
+894,807,2024-09-15,Queue Monitor 40,Closed after successful validation.,Resolved
+895,84,2024-05-22,System 15,Ticket reviewed and assigned to support queue.,Open
+896,689,2026-01-27,Technician 33,User contacted for additional details.,Closed
+897,783,2024-07-16,Technician 20,Closed after successful validation.,Escalated
+898,853,2025-08-09,Technician 4,Closed after successful validation.,Closed
+899,973,2025-12-26,Technician 26,Temporary workaround provided to user.,In Progress
+900,202,2025-11-21,Analyst 5,Ticket reviewed and assigned to support queue.,Pending
+901,682,2024-09-25,Technician 8,Temporary workaround provided to user.,Closed
+902,911,2025-04-22,Queue Monitor 16,Closed after successful validation.,Escalated
+903,877,2025-01-06,Team Lead 47,Temporary workaround provided to user.,Open
+904,621,2024-05-21,Analyst 5,Awaiting confirmation after fix deployment.,Resolved
+905,140,2024-05-23,System 27,User contacted for additional details.,Open
+906,539,2026-01-14,Manager 19,Ticket reviewed and assigned to support queue.,Escalated
+907,394,2024-03-05,Queue Monitor 41,Closed after successful validation.,Closed
+908,229,2026-04-28,System 10,User contacted for additional details.,Escalated
+909,269,2026-02-21,System 45,Closed after successful validation.,Escalated
+910,623,2024-09-01,Manager 33,User contacted for additional details.,Pending
+911,935,2025-10-02,Technician 38,Ticket reviewed and assigned to support queue.,Escalated
+912,868,2025-04-18,Manager 18,Ticket reviewed and assigned to support queue.,In Progress
+913,151,2024-08-18,Technician 43,Ticket reviewed and assigned to support queue.,Closed
+914,586,2026-01-21,Analyst 43,User contacted for additional details.,Pending
+915,144,2026-03-18,Technician 10,Closed after successful validation.,Escalated
+916,825,2025-04-10,System 12,Temporary workaround provided to user.,Resolved
+917,247,2025-04-17,Technician 17,Awaiting confirmation after fix deployment.,Resolved
+918,582,2024-11-24,Analyst 12,Issue reproduced and escalation requested.,In Progress
+919,929,2025-09-21,Manager 49,Issue reproduced and escalation requested.,Pending
+920,309,2025-12-01,Technician 18,User contacted for additional details.,Closed
+921,645,2025-03-15,Queue Monitor 47,Awaiting confirmation after fix deployment.,Escalated
+922,520,2024-04-25,System 5,Issue reproduced and escalation requested.,In Progress
+923,227,2024-02-17,Manager 17,Ticket reviewed and assigned to support queue.,Resolved
+924,725,2025-06-16,System 21,Awaiting confirmation after fix deployment.,Escalated
+925,491,2024-03-28,Team Lead 21,Closed after successful validation.,Pending
+926,609,2025-11-22,Queue Monitor 45,Ticket reviewed and assigned to support queue.,Closed
+927,932,2025-02-01,Queue Monitor 11,Temporary workaround provided to user.,Resolved
+928,491,2025-09-16,System 11,Issue reproduced and escalation requested.,Resolved
+929,101,2025-12-05,Analyst 2,Closed after successful validation.,Closed
+930,273,2025-02-03,Analyst 30,User contacted for additional details.,Open
+931,423,2024-07-01,Queue Monitor 26,Temporary workaround provided to user.,Closed
+932,24,2024-08-09,Analyst 13,Issue reproduced and escalation requested.,Resolved
+933,305,2024-03-15,Technician 1,User contacted for additional details.,Resolved
+934,328,2024-12-18,Queue Monitor 40,Awaiting confirmation after fix deployment.,Resolved
+935,975,2025-05-16,Manager 50,User contacted for additional details.,Closed
+936,467,2026-03-26,Technician 13,Awaiting confirmation after fix deployment.,Pending
+937,501,2025-08-15,Team Lead 49,Issue reproduced and escalation requested.,Open
+938,578,2025-10-20,Analyst 17,Closed after successful validation.,Escalated
+939,276,2025-11-29,System 5,Ticket reviewed and assigned to support queue.,Escalated
+940,692,2024-08-09,Manager 30,Ticket reviewed and assigned to support queue.,In Progress
+941,728,2025-06-24,Manager 10,Issue reproduced and escalation requested.,Escalated
+942,981,2025-10-30,Manager 28,Ticket reviewed and assigned to support queue.,Open
+943,165,2025-01-08,Technician 19,Closed after successful validation.,In Progress
+944,211,2024-07-31,System 1,Awaiting confirmation after fix deployment.,Open
+945,371,2025-02-11,Analyst 3,Closed after successful validation.,Resolved
+946,717,2024-05-29,Technician 11,Closed after successful validation.,Pending
+947,653,2025-07-26,Analyst 33,Temporary workaround provided to user.,In Progress
+948,985,2024-06-24,System 3,Temporary workaround provided to user.,Closed
+949,734,2025-06-18,Technician 13,Ticket reviewed and assigned to support queue.,In Progress
+950,652,2025-03-27,Analyst 46,Temporary workaround provided to user.,Pending
+951,781,2024-10-24,Technician 23,User contacted for additional details.,In Progress
+952,3,2025-04-28,Analyst 1,Ticket reviewed and assigned to support queue.,Resolved
+953,460,2024-01-24,Technician 19,User contacted for additional details.,Resolved
+954,482,2024-09-16,Queue Monitor 5,Temporary workaround provided to user.,Closed
+955,734,2024-06-13,Manager 40,Closed after successful validation.,Escalated
+956,781,2024-08-02,Queue Monitor 26,Issue reproduced and escalation requested.,Open
+957,161,2025-10-01,Queue Monitor 47,Issue reproduced and escalation requested.,Pending
+958,340,2024-04-03,Queue Monitor 46,Ticket reviewed and assigned to support queue.,Open
+959,980,2025-01-07,System 3,Awaiting confirmation after fix deployment.,Open
+960,634,2024-11-06,Queue Monitor 35,Issue reproduced and escalation requested.,Closed
+961,132,2024-05-11,Manager 12,User contacted for additional details.,Closed
+962,49,2024-01-14,Analyst 27,Ticket reviewed and assigned to support queue.,Escalated
+963,138,2024-05-12,Analyst 21,Ticket reviewed and assigned to support queue.,In Progress
+964,764,2025-10-31,Technician 15,Ticket reviewed and assigned to support queue.,Closed
+965,927,2024-07-13,Queue Monitor 18,Closed after successful validation.,In Progress
+966,899,2026-04-18,Queue Monitor 18,User contacted for additional details.,Escalated
+967,339,2026-04-06,Analyst 37,Ticket reviewed and assigned to support queue.,Escalated
+968,786,2025-08-09,Analyst 36,Ticket reviewed and assigned to support queue.,Resolved
+969,115,2025-03-01,Queue Monitor 26,User contacted for additional details.,Open
+970,433,2026-03-14,Manager 40,Temporary workaround provided to user.,Resolved
+971,483,2026-01-14,Queue Monitor 20,Ticket reviewed and assigned to support queue.,In Progress
+972,212,2024-01-02,Team Lead 24,Issue reproduced and escalation requested.,Pending
+973,66,2024-01-20,Manager 7,Temporary workaround provided to user.,Escalated
+974,271,2025-08-17,Manager 1,Ticket reviewed and assigned to support queue.,Closed
+975,560,2024-10-21,Team Lead 48,Issue reproduced and escalation requested.,Resolved
+976,29,2024-04-12,Team Lead 47,Closed after successful validation.,Open
+977,502,2025-02-20,Team Lead 10,Awaiting confirmation after fix deployment.,Escalated
+978,851,2025-12-10,Analyst 34,Ticket reviewed and assigned to support queue.,Resolved
+979,133,2024-10-29,System 8,Issue reproduced and escalation requested.,Open
+980,326,2026-04-17,System 42,Awaiting confirmation after fix deployment.,Escalated
+981,631,2025-08-09,Queue Monitor 27,Ticket reviewed and assigned to support queue.,Closed
+982,737,2026-03-02,Analyst 8,Issue reproduced and escalation requested.,In Progress
+983,726,2024-12-05,Team Lead 11,Closed after successful validation.,In Progress
+984,714,2024-06-15,Analyst 43,Awaiting confirmation after fix deployment.,Open
+985,333,2025-05-30,Technician 13,Temporary workaround provided to user.,Closed
+986,456,2025-10-13,Team Lead 16,Issue reproduced and escalation requested.,Pending
+987,758,2024-02-28,Queue Monitor 46,Issue reproduced and escalation requested.,Escalated
+988,415,2024-06-27,Team Lead 48,Closed after successful validation.,In Progress
+989,611,2025-01-07,System 50,Ticket reviewed and assigned to support queue.,Open
+990,119,2024-12-03,Analyst 21,Issue reproduced and escalation requested.,Resolved
+991,703,2025-03-21,Analyst 30,Temporary workaround provided to user.,Closed
+992,557,2025-07-19,Technician 12,Temporary workaround provided to user.,Open
+993,227,2024-03-25,Manager 18,Awaiting confirmation after fix deployment.,Resolved
+994,20,2024-08-31,System 17,Issue reproduced and escalation requested.,Resolved
+995,913,2026-03-27,Technician 1,Closed after successful validation.,Resolved
+996,483,2024-04-30,Technician 28,Ticket reviewed and assigned to support queue.,Pending
+997,847,2024-05-14,Analyst 39,User contacted for additional details.,Pending
+998,981,2025-12-20,Team Lead 45,Issue reproduced and escalation requested.,Closed
+999,749,2025-01-08,Technician 12,Ticket reviewed and assigned to support queue.,Pending
+1000,755,2026-03-23,Team Lead 37,Temporary workaround provided to user.,Escalated

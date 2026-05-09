@@ -1,0 +1,1001 @@
+tool_id,tool_name,vendor_name,tool_type,monthly_cost,active_status
+1,Power BI Platform 1,Salesforce,Workflow Automation,13499.24,Pilot
+2,ServiceNow Platform 2,OpenAI,Workflow Automation,10375.46,Under Review
+3,Databricks Platform 3,Snowflake,LLM Assistant,6818.16,Pilot
+4,ChatGPT Platform 4,Salesforce,Help Desk AI,21783.55,Active
+5,Gemini Platform 5,UiPath,LLM Assistant,2012.86,Active
+6,Slack Platform 6,Meta,Help Desk AI,2283.90,Under Review
+7,Zendesk Platform 7,Snowflake,Forecasting,13205.94,Pilot
+8,Salesforce Platform 8,Microsoft,Forecasting,17303.66,Retired
+9,Gemini Platform 9,Notion,Forecasting,8001.60,Retired
+10,Slack Platform 10,Zapier,Content Generation,24722.74,Under Review
+11,ServiceNow Platform 11,Google,Forecasting,5939.21,Retired
+12,Claude Platform 12,Zendesk,Help Desk AI,19516.06,Retired
+13,Watson Platform 13,Atlassian,Content Generation,15760.68,Retired
+14,Tableau Platform 14,Atlassian,Documentation,23651.37,Retired
+15,ChatGPT Platform 15,Snowflake,LLM Assistant,24430.66,Active
+16,Salesforce Platform 16,Salesforce,Content Generation,10334.64,Retired
+17,Watson Platform 17,Anthropic,Workflow Automation,14696.39,Under Review
+18,Jasper Platform 18,Salesforce,Forecasting,24994.24,Pilot
+19,Power BI Platform 19,Notion,Documentation,20888.32,Under Review
+20,Copilot Platform 20,Salesforce,Forecasting,16311.47,Under Review
+21,Slack Platform 21,Databricks,Content Generation,3489.82,Retired
+22,Perplexity Platform 22,Microsoft,Sales Intelligence,13991.60,Retired
+23,Claude Platform 23,Databricks,LLM Assistant,1907.64,Pilot
+24,Claude Platform 24,UiPath,Analytics,300.40,Retired
+25,Slack Platform 25,Meta,Forecasting,3831.16,Pilot
+26,Miro Platform 26,Snowflake,Content Generation,10666.45,Pilot
+27,Jasper Platform 27,Google,Sales Intelligence,9433.20,Under Review
+28,Zendesk Platform 28,Google,Content Generation,12564.94,Pilot
+29,ChatGPT Platform 29,OpenAI,Workflow Automation,3115.97,Pilot
+30,Jasper Platform 30,Databricks,Analytics,1831.40,Under Review
+31,Miro Platform 31,Salesforce,Analytics,3118.96,Pilot
+32,Zapier Platform 32,Microsoft,LLM Assistant,23746.53,Under Review
+33,Gemini Platform 33,Microsoft,Workflow Automation,23582.20,Retired
+34,Notion Platform 34,Databricks,Documentation,12719.13,Pilot
+35,Miro Platform 35,IBM,Help Desk AI,24012.68,Under Review
+36,Power BI Platform 36,Zendesk,Analytics,1142.29,Retired
+37,Salesforce Platform 37,Meta,Documentation,8336.37,Under Review
+38,Vertex Platform 38,OpenAI,Documentation,4564.87,Under Review
+39,ServiceNow Platform 39,Databricks,Content Generation,23414.42,Retired
+40,Vertex Platform 40,Microsoft,LLM Assistant,1907.33,Pilot
+41,Gemini Platform 41,Notion,Sales Intelligence,20069.94,Active
+42,ChatGPT Platform 42,Salesforce,Content Generation,10112.98,Retired
+43,Tableau Platform 43,Notion,LLM Assistant,19221.18,Pilot
+44,Perplexity Platform 44,Adobe,Sales Intelligence,15538.13,Retired
+45,Perplexity Platform 45,Zendesk,Analytics,8732.12,Active
+46,Tableau Platform 46,Adobe,Help Desk AI,24704.36,Under Review
+47,Notion Platform 47,Notion,Help Desk AI,20284.83,Retired
+48,Perplexity Platform 48,Atlassian,Content Generation,5606.32,Under Review
+49,Tableau Platform 49,Anthropic,Documentation,1943.19,Active
+50,Salesforce Platform 50,Google,LLM Assistant,15609.26,Under Review
+51,Databricks Platform 51,Microsoft,Documentation,1536.44,Under Review
+52,Claude Platform 52,Adobe,Forecasting,23785.87,Active
+53,Zendesk Platform 53,Microsoft,Workflow Automation,9509.18,Pilot
+54,Perplexity Platform 54,Zapier,Help Desk AI,18656.89,Pilot
+55,Zapier Platform 55,OpenAI,Analytics,13845.92,Pilot
+56,Gemini Platform 56,Snowflake,Forecasting,10969.03,Active
+57,Snowflake Platform 57,Atlassian,Forecasting,10801.15,Active
+58,Claude Platform 58,Zapier,Documentation,15078.63,Retired
+59,Miro Platform 59,Snowflake,LLM Assistant,10994.97,Under Review
+60,Slack Platform 60,Databricks,Analytics,7126.86,Retired
+61,Slack Platform 61,UiPath,LLM Assistant,24572.07,Under Review
+62,Vertex Platform 62,Zendesk,Help Desk AI,6033.24,Under Review
+63,Vertex Platform 63,OpenAI,Workflow Automation,5539.39,Under Review
+64,Notion Platform 64,Snowflake,Analytics,4151.30,Under Review
+65,Notion Platform 65,Notion,Analytics,11965.67,Retired
+66,Perplexity Platform 66,IBM,Documentation,14796.89,Under Review
+67,Jasper Platform 67,Meta,Content Generation,3156.76,Retired
+68,Miro Platform 68,Google,Content Generation,20866.43,Active
+69,Perplexity Platform 69,Atlassian,Documentation,22365.22,Pilot
+70,Gemini Platform 70,Anthropic,Forecasting,9725.47,Active
+71,Gemini Platform 71,Salesforce,Analytics,4387.68,Retired
+72,Salesforce Platform 72,Anthropic,Content Generation,9882.57,Active
+73,Copilot Platform 73,Anthropic,Forecasting,16933.42,Active
+74,Claude Platform 74,Snowflake,Help Desk AI,11847.25,Active
+75,Perplexity Platform 75,OpenAI,Forecasting,24465.66,Pilot
+76,Power BI Platform 76,Zapier,Content Generation,1683.08,Retired
+77,Slack Platform 77,Meta,Documentation,22163.45,Retired
+78,Slack Platform 78,Notion,Analytics,7116.19,Retired
+79,Watson Platform 79,Zendesk,LLM Assistant,391.39,Active
+80,Power BI Platform 80,Snowflake,Documentation,15278.69,Under Review
+81,Notion Platform 81,Meta,Sales Intelligence,22831.67,Under Review
+82,Notion Platform 82,Microsoft,Analytics,4627.01,Active
+83,ChatGPT Platform 83,Databricks,Workflow Automation,1078.21,Pilot
+84,Salesforce Platform 84,Zendesk,Workflow Automation,3021.30,Under Review
+85,Tableau Platform 85,Adobe,Content Generation,914.12,Pilot
+86,Claude Platform 86,Adobe,Documentation,843.86,Pilot
+87,ServiceNow Platform 87,Salesforce,Content Generation,1868.33,Active
+88,Databricks Platform 88,Zendesk,Documentation,24352.58,Retired
+89,Copilot Platform 89,Adobe,Content Generation,16128.51,Under Review
+90,Salesforce Platform 90,Databricks,LLM Assistant,17511.02,Retired
+91,UiPath Platform 91,Microsoft,Help Desk AI,21443.42,Under Review
+92,Watson Platform 92,Adobe,Sales Intelligence,14890.70,Active
+93,Power BI Platform 93,Salesforce,Workflow Automation,15576.34,Pilot
+94,Perplexity Platform 94,IBM,Sales Intelligence,19929.85,Under Review
+95,Tableau Platform 95,Notion,Help Desk AI,23891.71,Under Review
+96,Zendesk Platform 96,UiPath,Documentation,5509.62,Retired
+97,Vertex Platform 97,Snowflake,Documentation,4430.17,Pilot
+98,Miro Platform 98,Adobe,Forecasting,13830.94,Under Review
+99,Notion Platform 99,IBM,Workflow Automation,18446.05,Active
+100,Zendesk Platform 100,Notion,Help Desk AI,11899.68,Pilot
+101,Perplexity Platform 101,OpenAI,Forecasting,11266.43,Pilot
+102,Watson Platform 102,Anthropic,Workflow Automation,16137.26,Retired
+103,Zendesk Platform 103,UiPath,LLM Assistant,18452.27,Pilot
+104,Perplexity Platform 104,Meta,Forecasting,23347.05,Under Review
+105,Claude Platform 105,Zapier,Forecasting,3669.78,Active
+106,UiPath Platform 106,OpenAI,Forecasting,5673.63,Pilot
+107,Zendesk Platform 107,Google,Help Desk AI,23405.44,Under Review
+108,Watson Platform 108,Google,Sales Intelligence,11164.82,Active
+109,ServiceNow Platform 109,Adobe,Content Generation,415.25,Under Review
+110,Slack Platform 110,Salesforce,Analytics,2992.27,Under Review
+111,Zendesk Platform 111,Snowflake,Workflow Automation,5167.75,Under Review
+112,Salesforce Platform 112,Google,Content Generation,13746.92,Under Review
+113,Perplexity Platform 113,UiPath,Sales Intelligence,1175.44,Active
+114,Perplexity Platform 114,Microsoft,Forecasting,11285.31,Pilot
+115,Databricks Platform 115,OpenAI,Content Generation,1415.66,Pilot
+116,Zapier Platform 116,OpenAI,Help Desk AI,13939.40,Retired
+117,Slack Platform 117,Notion,Sales Intelligence,458.83,Pilot
+118,Snowflake Platform 118,Adobe,Workflow Automation,18039.62,Under Review
+119,Zendesk Platform 119,Notion,Content Generation,6664.88,Active
+120,Copilot Platform 120,Anthropic,Sales Intelligence,12979.73,Pilot
+121,Perplexity Platform 121,Anthropic,Help Desk AI,7203.09,Retired
+122,Perplexity Platform 122,Atlassian,Analytics,967.03,Retired
+123,Salesforce Platform 123,Zapier,Help Desk AI,24006.42,Active
+124,Copilot Platform 124,Zapier,Sales Intelligence,8711.63,Retired
+125,Watson Platform 125,OpenAI,Forecasting,14904.30,Active
+126,Claude Platform 126,Atlassian,Workflow Automation,24637.99,Pilot
+127,Zendesk Platform 127,Salesforce,Help Desk AI,22053.78,Pilot
+128,Snowflake Platform 128,Anthropic,Workflow Automation,3648.33,Pilot
+129,Zendesk Platform 129,Adobe,Forecasting,5002.71,Under Review
+130,Vertex Platform 130,Microsoft,LLM Assistant,14122.89,Under Review
+131,ServiceNow Platform 131,Adobe,Forecasting,12301.68,Under Review
+132,Zapier Platform 132,Anthropic,Content Generation,8840.58,Under Review
+133,Claude Platform 133,Databricks,Documentation,24176.97,Pilot
+134,Tableau Platform 134,Anthropic,Analytics,16084.71,Pilot
+135,Perplexity Platform 135,Zapier,Forecasting,22956.21,Under Review
+136,Copilot Platform 136,Databricks,Analytics,18518.37,Active
+137,Miro Platform 137,Zapier,Content Generation,3815.12,Retired
+138,Copilot Platform 138,Anthropic,Analytics,4058.37,Retired
+139,Notion Platform 139,Salesforce,Documentation,1116.79,Pilot
+140,Zapier Platform 140,Zendesk,LLM Assistant,10199.89,Pilot
+141,Power BI Platform 141,Zapier,Documentation,268.12,Retired
+142,Vertex Platform 142,Zapier,LLM Assistant,13883.48,Retired
+143,Zapier Platform 143,Adobe,Sales Intelligence,12563.48,Pilot
+144,Tableau Platform 144,Anthropic,Documentation,14943.67,Pilot
+145,Slack Platform 145,Microsoft,Content Generation,12888.23,Under Review
+146,Slack Platform 146,Anthropic,LLM Assistant,22169.89,Retired
+147,Vertex Platform 147,Zapier,Analytics,23373.02,Retired
+148,UiPath Platform 148,Snowflake,Forecasting,21299.56,Pilot
+149,Miro Platform 149,Anthropic,LLM Assistant,18885.52,Under Review
+150,Perplexity Platform 150,Notion,LLM Assistant,4141.66,Pilot
+151,ChatGPT Platform 151,Salesforce,Workflow Automation,8237.83,Under Review
+152,Vertex Platform 152,UiPath,Sales Intelligence,13366.59,Under Review
+153,ChatGPT Platform 153,Atlassian,Content Generation,6114.41,Retired
+154,Snowflake Platform 154,Salesforce,Forecasting,3956.98,Pilot
+155,Notion Platform 155,Google,Analytics,8574.77,Pilot
+156,Notion Platform 156,Zendesk,Analytics,2130.61,Retired
+157,Power BI Platform 157,OpenAI,LLM Assistant,9965.39,Retired
+158,Tableau Platform 158,Zendesk,Sales Intelligence,8651.38,Active
+159,Copilot Platform 159,IBM,Workflow Automation,24845.60,Pilot
+160,Gemini Platform 160,Anthropic,Content Generation,3970.27,Retired
+161,Claude Platform 161,Anthropic,Content Generation,2344.48,Under Review
+162,Salesforce Platform 162,Notion,LLM Assistant,9019.55,Active
+163,Salesforce Platform 163,UiPath,Analytics,10181.57,Under Review
+164,Vertex Platform 164,Zapier,Workflow Automation,4865.37,Pilot
+165,Salesforce Platform 165,Anthropic,Content Generation,18391.45,Active
+166,Claude Platform 166,Zapier,Help Desk AI,21599.97,Active
+167,Copilot Platform 167,Notion,Documentation,9155.60,Under Review
+168,Zendesk Platform 168,Zapier,Workflow Automation,19374.84,Retired
+169,Copilot Platform 169,Google,Forecasting,10051.09,Active
+170,Tableau Platform 170,Databricks,Help Desk AI,14354.21,Retired
+171,Slack Platform 171,Snowflake,Help Desk AI,24864.71,Retired
+172,Salesforce Platform 172,Snowflake,Sales Intelligence,11394.21,Retired
+173,ChatGPT Platform 173,Notion,Analytics,21382.92,Under Review
+174,ChatGPT Platform 174,Notion,LLM Assistant,22243.17,Under Review
+175,Snowflake Platform 175,Anthropic,Forecasting,21469.65,Active
+176,Claude Platform 176,Snowflake,Forecasting,11766.97,Under Review
+177,Miro Platform 177,Atlassian,Content Generation,6006.84,Active
+178,Watson Platform 178,Adobe,Sales Intelligence,6523.44,Pilot
+179,ChatGPT Platform 179,UiPath,Help Desk AI,22500.92,Retired
+180,ServiceNow Platform 180,Microsoft,Help Desk AI,23721.22,Under Review
+181,Zendesk Platform 181,OpenAI,Help Desk AI,16349.90,Pilot
+182,ChatGPT Platform 182,IBM,Content Generation,3835.87,Under Review
+183,Power BI Platform 183,Anthropic,Workflow Automation,21821.74,Pilot
+184,Vertex Platform 184,Meta,Analytics,24644.07,Retired
+185,Zapier Platform 185,Zapier,Workflow Automation,17340.73,Retired
+186,ServiceNow Platform 186,Zapier,LLM Assistant,22907.68,Retired
+187,UiPath Platform 187,Notion,Documentation,264.94,Active
+188,Slack Platform 188,Zendesk,Content Generation,9179.12,Under Review
+189,Gemini Platform 189,Atlassian,LLM Assistant,23832.22,Retired
+190,Databricks Platform 190,Anthropic,Documentation,10562.01,Pilot
+191,Slack Platform 191,Microsoft,LLM Assistant,24364.23,Under Review
+192,Vertex Platform 192,Notion,Workflow Automation,6651.16,Retired
+193,Vertex Platform 193,Snowflake,Forecasting,1113.48,Active
+194,Zapier Platform 194,UiPath,Sales Intelligence,8405.25,Under Review
+195,Salesforce Platform 195,Atlassian,LLM Assistant,11131.52,Pilot
+196,Vertex Platform 196,UiPath,Documentation,3334.63,Active
+197,Vertex Platform 197,OpenAI,LLM Assistant,12566.31,Active
+198,Tableau Platform 198,OpenAI,Documentation,1995.30,Under Review
+199,Vertex Platform 199,Microsoft,LLM Assistant,18525.05,Under Review
+200,Snowflake Platform 200,Microsoft,Content Generation,7838.86,Active
+201,Claude Platform 201,Zendesk,Documentation,14228.88,Active
+202,Slack Platform 202,Snowflake,LLM Assistant,15079.52,Pilot
+203,Watson Platform 203,Microsoft,LLM Assistant,19702.71,Pilot
+204,Zapier Platform 204,Google,Help Desk AI,11845.42,Under Review
+205,Power BI Platform 205,IBM,Analytics,1644.06,Retired
+206,Zapier Platform 206,Zendesk,Sales Intelligence,10397.58,Pilot
+207,Tableau Platform 207,Adobe,Help Desk AI,19969.34,Retired
+208,ChatGPT Platform 208,Anthropic,Analytics,2078.24,Active
+209,Databricks Platform 209,Atlassian,Workflow Automation,6765.64,Pilot
+210,Vertex Platform 210,Atlassian,Workflow Automation,22084.48,Under Review
+211,Miro Platform 211,Databricks,Sales Intelligence,19153.57,Retired
+212,Miro Platform 212,Salesforce,Content Generation,10968.16,Under Review
+213,Copilot Platform 213,Adobe,Workflow Automation,321.64,Pilot
+214,Claude Platform 214,Meta,Workflow Automation,8032.48,Retired
+215,Snowflake Platform 215,IBM,Content Generation,6237.83,Active
+216,Zendesk Platform 216,OpenAI,Forecasting,11927.03,Active
+217,Tableau Platform 217,Salesforce,Documentation,6570.63,Retired
+218,Copilot Platform 218,OpenAI,Workflow Automation,6682.28,Pilot
+219,Jasper Platform 219,Databricks,Analytics,11335.85,Pilot
+220,Power BI Platform 220,IBM,LLM Assistant,5969.84,Active
+221,ChatGPT Platform 221,Zapier,Analytics,12616.65,Active
+222,Slack Platform 222,Notion,Workflow Automation,10196.46,Retired
+223,Zendesk Platform 223,Snowflake,Analytics,17466.98,Under Review
+224,Vertex Platform 224,Microsoft,Analytics,4485.79,Pilot
+225,UiPath Platform 225,Zendesk,Sales Intelligence,10618.60,Pilot
+226,Copilot Platform 226,UiPath,Workflow Automation,17746.29,Pilot
+227,Slack Platform 227,IBM,LLM Assistant,20826.80,Pilot
+228,Perplexity Platform 228,Meta,Documentation,7056.73,Under Review
+229,Miro Platform 229,Microsoft,Analytics,16866.39,Retired
+230,Gemini Platform 230,Anthropic,Documentation,6065.32,Retired
+231,Perplexity Platform 231,Databricks,Documentation,23650.96,Under Review
+232,Jasper Platform 232,Meta,Content Generation,21109.92,Active
+233,ServiceNow Platform 233,IBM,Workflow Automation,15013.86,Under Review
+234,ServiceNow Platform 234,Salesforce,Content Generation,12556.57,Retired
+235,Jasper Platform 235,Anthropic,Forecasting,4601.75,Retired
+236,Claude Platform 236,Anthropic,Sales Intelligence,7742.58,Under Review
+237,Perplexity Platform 237,Meta,Sales Intelligence,14162.45,Under Review
+238,Databricks Platform 238,Atlassian,Documentation,10588.27,Active
+239,Power BI Platform 239,Adobe,Workflow Automation,8903.65,Retired
+240,Vertex Platform 240,Salesforce,Forecasting,9257.93,Active
+241,Watson Platform 241,Microsoft,Sales Intelligence,1454.55,Retired
+242,ServiceNow Platform 242,Snowflake,Sales Intelligence,8392.30,Retired
+243,ServiceNow Platform 243,Databricks,Analytics,24854.72,Retired
+244,ChatGPT Platform 244,UiPath,Help Desk AI,9435.82,Under Review
+245,Snowflake Platform 245,Zapier,LLM Assistant,15666.65,Pilot
+246,Snowflake Platform 246,IBM,Workflow Automation,23902.75,Under Review
+247,Salesforce Platform 247,Anthropic,Documentation,23875.81,Retired
+248,Vertex Platform 248,Atlassian,Workflow Automation,14250.77,Under Review
+249,ServiceNow Platform 249,Adobe,Documentation,18499.03,Pilot
+250,Zapier Platform 250,Zapier,Analytics,10212.94,Active
+251,Gemini Platform 251,UiPath,Sales Intelligence,11335.23,Under Review
+252,Snowflake Platform 252,UiPath,Help Desk AI,10884.59,Active
+253,Tableau Platform 253,Google,Sales Intelligence,18818.63,Under Review
+254,Snowflake Platform 254,IBM,Content Generation,2287.53,Pilot
+255,Gemini Platform 255,Microsoft,Sales Intelligence,18861.96,Retired
+256,Vertex Platform 256,Google,Forecasting,22314.55,Active
+257,Miro Platform 257,Adobe,LLM Assistant,6317.20,Under Review
+258,Notion Platform 258,IBM,Workflow Automation,9738.66,Active
+259,Claude Platform 259,OpenAI,Sales Intelligence,17191.01,Retired
+260,Databricks Platform 260,Zendesk,Analytics,3828.13,Under Review
+261,Gemini Platform 261,Databricks,Forecasting,12946.96,Pilot
+262,Tableau Platform 262,Zapier,Workflow Automation,10350.43,Under Review
+263,Power BI Platform 263,Meta,Help Desk AI,19450.20,Under Review
+264,Jasper Platform 264,IBM,LLM Assistant,4875.45,Under Review
+265,Miro Platform 265,UiPath,Workflow Automation,17431.33,Under Review
+266,Claude Platform 266,Adobe,LLM Assistant,24359.09,Under Review
+267,Zendesk Platform 267,Databricks,Help Desk AI,13015.61,Pilot
+268,Databricks Platform 268,IBM,Analytics,20441.73,Under Review
+269,Snowflake Platform 269,Notion,Analytics,23089.57,Under Review
+270,Copilot Platform 270,IBM,Analytics,9171.88,Retired
+271,Vertex Platform 271,Databricks,Workflow Automation,16370.41,Active
+272,Zendesk Platform 272,Microsoft,Forecasting,16728.77,Retired
+273,Databricks Platform 273,Adobe,Analytics,8482.21,Active
+274,Claude Platform 274,OpenAI,Forecasting,21134.69,Under Review
+275,Snowflake Platform 275,Atlassian,Content Generation,6570.40,Active
+276,Jasper Platform 276,Microsoft,Analytics,10918.67,Under Review
+277,Gemini Platform 277,Adobe,Forecasting,2904.55,Pilot
+278,Claude Platform 278,Google,Documentation,9346.84,Pilot
+279,ChatGPT Platform 279,Meta,Forecasting,6007.29,Under Review
+280,Power BI Platform 280,Microsoft,LLM Assistant,22396.27,Under Review
+281,Zendesk Platform 281,Google,Workflow Automation,23609.03,Pilot
+282,Claude Platform 282,Databricks,LLM Assistant,21000.81,Active
+283,Snowflake Platform 283,Databricks,Help Desk AI,14748.05,Active
+284,Copilot Platform 284,UiPath,Content Generation,6810.93,Retired
+285,Salesforce Platform 285,IBM,Forecasting,725.42,Active
+286,Slack Platform 286,Zapier,Workflow Automation,22480.67,Pilot
+287,Watson Platform 287,UiPath,Analytics,23924.17,Under Review
+288,Perplexity Platform 288,Microsoft,Sales Intelligence,10773.56,Pilot
+289,Miro Platform 289,IBM,Content Generation,14220.12,Pilot
+290,Watson Platform 290,Atlassian,Sales Intelligence,5889.01,Retired
+291,ChatGPT Platform 291,Zendesk,Workflow Automation,15233.22,Retired
+292,Miro Platform 292,Atlassian,LLM Assistant,2406.89,Under Review
+293,Notion Platform 293,UiPath,Documentation,3536.71,Pilot
+294,Jasper Platform 294,Microsoft,Sales Intelligence,20872.70,Pilot
+295,Slack Platform 295,Google,Sales Intelligence,22035.48,Retired
+296,ChatGPT Platform 296,Meta,Documentation,12729.51,Pilot
+297,Perplexity Platform 297,Meta,LLM Assistant,7822.02,Active
+298,Notion Platform 298,IBM,Content Generation,8180.62,Active
+299,Tableau Platform 299,Atlassian,Documentation,9919.20,Under Review
+300,ServiceNow Platform 300,Snowflake,LLM Assistant,8000.92,Under Review
+301,Slack Platform 301,Google,Help Desk AI,10605.64,Active
+302,Perplexity Platform 302,UiPath,Content Generation,21435.81,Active
+303,Salesforce Platform 303,Zapier,Sales Intelligence,11430.24,Active
+304,Salesforce Platform 304,UiPath,Workflow Automation,20125.87,Retired
+305,Power BI Platform 305,Adobe,LLM Assistant,2317.87,Active
+306,ServiceNow Platform 306,OpenAI,Analytics,6891.13,Pilot
+307,Zapier Platform 307,Anthropic,Workflow Automation,7943.51,Under Review
+308,Claude Platform 308,Salesforce,Analytics,23847.20,Under Review
+309,Power BI Platform 309,Meta,Workflow Automation,10132.29,Under Review
+310,ServiceNow Platform 310,Salesforce,Documentation,2821.95,Retired
+311,Snowflake Platform 311,Zendesk,Analytics,15624.44,Under Review
+312,Tableau Platform 312,Zapier,Documentation,849.76,Under Review
+313,Vertex Platform 313,UiPath,Help Desk AI,19702.54,Pilot
+314,Jasper Platform 314,Zendesk,Documentation,10222.45,Under Review
+315,UiPath Platform 315,Meta,Documentation,2557.33,Under Review
+316,ServiceNow Platform 316,Google,Workflow Automation,336.01,Retired
+317,Gemini Platform 317,Zendesk,Content Generation,13131.97,Retired
+318,Snowflake Platform 318,Adobe,Help Desk AI,21205.99,Active
+319,Databricks Platform 319,Notion,LLM Assistant,4278.38,Pilot
+320,ServiceNow Platform 320,UiPath,Content Generation,8564.77,Retired
+321,Perplexity Platform 321,Databricks,Documentation,21007.69,Active
+322,Snowflake Platform 322,Notion,Content Generation,24306.25,Under Review
+323,Copilot Platform 323,Notion,Sales Intelligence,20875.71,Active
+324,Tableau Platform 324,Salesforce,Documentation,22517.15,Pilot
+325,Miro Platform 325,Meta,Analytics,604.12,Active
+326,Snowflake Platform 326,Zendesk,Forecasting,17191.91,Under Review
+327,Power BI Platform 327,Zapier,Content Generation,8486.69,Under Review
+328,Zapier Platform 328,Salesforce,Content Generation,24856.88,Active
+329,Watson Platform 329,Snowflake,Sales Intelligence,4876.27,Pilot
+330,Snowflake Platform 330,Databricks,Help Desk AI,410.99,Under Review
+331,ChatGPT Platform 331,Microsoft,Forecasting,23016.42,Under Review
+332,Notion Platform 332,Databricks,Content Generation,5791.18,Pilot
+333,Tableau Platform 333,IBM,Documentation,6163.50,Active
+334,Claude Platform 334,Meta,Workflow Automation,6282.20,Pilot
+335,ServiceNow Platform 335,Salesforce,Content Generation,14641.63,Active
+336,Power BI Platform 336,Microsoft,Help Desk AI,3008.38,Retired
+337,Vertex Platform 337,Atlassian,LLM Assistant,19390.23,Under Review
+338,Watson Platform 338,OpenAI,LLM Assistant,8918.75,Active
+339,Zapier Platform 339,UiPath,LLM Assistant,3373.21,Active
+340,Snowflake Platform 340,Meta,Help Desk AI,16122.47,Retired
+341,Miro Platform 341,Zendesk,Sales Intelligence,12349.68,Retired
+342,Slack Platform 342,Zapier,Workflow Automation,12036.67,Under Review
+343,Miro Platform 343,OpenAI,Sales Intelligence,11021.81,Active
+344,Claude Platform 344,Zapier,Content Generation,23964.84,Pilot
+345,ChatGPT Platform 345,Meta,Forecasting,17587.28,Pilot
+346,Zendesk Platform 346,Adobe,Documentation,17072.41,Pilot
+347,ChatGPT Platform 347,Snowflake,Sales Intelligence,744.63,Active
+348,Slack Platform 348,Snowflake,Documentation,7853.61,Under Review
+349,Miro Platform 349,UiPath,Forecasting,11614.43,Under Review
+350,Watson Platform 350,Databricks,Content Generation,9829.61,Pilot
+351,Perplexity Platform 351,Notion,LLM Assistant,4389.50,Active
+352,Notion Platform 352,Zapier,Documentation,5706.90,Active
+353,Gemini Platform 353,Snowflake,Workflow Automation,8174.21,Active
+354,Watson Platform 354,Zendesk,LLM Assistant,5450.93,Retired
+355,Snowflake Platform 355,UiPath,Help Desk AI,7421.72,Under Review
+356,Watson Platform 356,Snowflake,Analytics,17715.63,Under Review
+357,Vertex Platform 357,UiPath,Sales Intelligence,7533.93,Active
+358,Slack Platform 358,Zendesk,Content Generation,21627.64,Under Review
+359,Salesforce Platform 359,IBM,Help Desk AI,3990.29,Active
+360,Vertex Platform 360,Atlassian,Workflow Automation,24599.94,Retired
+361,Tableau Platform 361,Zapier,Sales Intelligence,12658.58,Active
+362,Notion Platform 362,OpenAI,Workflow Automation,12918.98,Retired
+363,Zendesk Platform 363,UiPath,Analytics,17231.66,Pilot
+364,Watson Platform 364,Zendesk,LLM Assistant,17838.85,Retired
+365,Tableau Platform 365,Zapier,Help Desk AI,7373.50,Under Review
+366,Tableau Platform 366,Meta,Help Desk AI,4979.75,Active
+367,Miro Platform 367,Atlassian,Help Desk AI,16661.99,Active
+368,Jasper Platform 368,Zapier,Documentation,20879.83,Under Review
+369,Notion Platform 369,Databricks,Content Generation,2127.98,Retired
+370,Tableau Platform 370,Zapier,Workflow Automation,24207.93,Pilot
+371,Copilot Platform 371,Notion,Analytics,16174.73,Retired
+372,Power BI Platform 372,OpenAI,Content Generation,11256.42,Under Review
+373,Zendesk Platform 373,UiPath,Content Generation,13014.07,Retired
+374,Notion Platform 374,Databricks,Workflow Automation,23173.86,Under Review
+375,Watson Platform 375,Google,Sales Intelligence,24850.79,Active
+376,Notion Platform 376,Adobe,Analytics,19112.14,Under Review
+377,Notion Platform 377,Notion,Analytics,7073.22,Pilot
+378,ChatGPT Platform 378,Atlassian,Forecasting,22427.79,Pilot
+379,Snowflake Platform 379,Zendesk,Analytics,2045.10,Under Review
+380,Power BI Platform 380,OpenAI,Forecasting,17089.65,Under Review
+381,Tableau Platform 381,Snowflake,Content Generation,8228.03,Pilot
+382,Snowflake Platform 382,Adobe,Help Desk AI,22743.60,Pilot
+383,Snowflake Platform 383,UiPath,Forecasting,15393.86,Under Review
+384,Jasper Platform 384,Snowflake,Documentation,12236.01,Active
+385,Vertex Platform 385,Microsoft,Documentation,21217.67,Pilot
+386,ChatGPT Platform 386,Meta,Documentation,9169.69,Active
+387,Zapier Platform 387,Google,Content Generation,16066.00,Under Review
+388,Notion Platform 388,Meta,Analytics,3458.33,Pilot
+389,Snowflake Platform 389,Zapier,LLM Assistant,13103.56,Under Review
+390,Vertex Platform 390,Anthropic,Forecasting,24890.75,Active
+391,Power BI Platform 391,Zapier,Analytics,374.55,Retired
+392,Watson Platform 392,OpenAI,Analytics,19044.21,Pilot
+393,Vertex Platform 393,Anthropic,Help Desk AI,24876.04,Active
+394,Perplexity Platform 394,Salesforce,Sales Intelligence,18039.17,Active
+395,Salesforce Platform 395,Salesforce,LLM Assistant,17221.90,Retired
+396,UiPath Platform 396,Adobe,Analytics,19109.49,Retired
+397,Perplexity Platform 397,Notion,Sales Intelligence,20063.54,Pilot
+398,Watson Platform 398,Snowflake,LLM Assistant,7969.04,Pilot
+399,Notion Platform 399,Zapier,Workflow Automation,4597.60,Pilot
+400,Zapier Platform 400,Atlassian,Help Desk AI,4410.73,Under Review
+401,Vertex Platform 401,Anthropic,Help Desk AI,8741.38,Pilot
+402,Snowflake Platform 402,Adobe,Forecasting,8528.68,Pilot
+403,UiPath Platform 403,IBM,Forecasting,20829.73,Pilot
+404,Zendesk Platform 404,Meta,Analytics,13952.82,Retired
+405,Databricks Platform 405,Zendesk,LLM Assistant,19979.25,Retired
+406,Watson Platform 406,Anthropic,Forecasting,22612.55,Active
+407,Slack Platform 407,Snowflake,Forecasting,12088.91,Retired
+408,Tableau Platform 408,Zapier,Workflow Automation,9166.01,Under Review
+409,Salesforce Platform 409,Zendesk,Forecasting,4246.18,Retired
+410,Zapier Platform 410,Zapier,Documentation,3330.53,Retired
+411,UiPath Platform 411,Salesforce,Forecasting,1771.17,Under Review
+412,Power BI Platform 412,Atlassian,Content Generation,15825.59,Retired
+413,ChatGPT Platform 413,Snowflake,Analytics,21747.13,Under Review
+414,Zapier Platform 414,Databricks,Help Desk AI,1932.92,Retired
+415,Salesforce Platform 415,Snowflake,Content Generation,23359.46,Under Review
+416,Zendesk Platform 416,UiPath,Documentation,16657.29,Under Review
+417,Perplexity Platform 417,Databricks,Workflow Automation,10200.64,Active
+418,Notion Platform 418,Zendesk,Sales Intelligence,3153.63,Active
+419,Salesforce Platform 419,Microsoft,Analytics,19051.06,Retired
+420,UiPath Platform 420,Notion,Documentation,550.96,Under Review
+421,Perplexity Platform 421,Notion,Analytics,15917.50,Active
+422,Snowflake Platform 422,OpenAI,Workflow Automation,24642.01,Under Review
+423,UiPath Platform 423,Databricks,Sales Intelligence,8202.99,Active
+424,Miro Platform 424,Adobe,Analytics,22302.93,Pilot
+425,Power BI Platform 425,Microsoft,Sales Intelligence,4568.51,Active
+426,Databricks Platform 426,Adobe,Content Generation,5786.37,Active
+427,Slack Platform 427,Notion,Workflow Automation,17865.85,Active
+428,Notion Platform 428,Salesforce,Documentation,9818.26,Active
+429,Zapier Platform 429,Zendesk,Workflow Automation,10188.93,Active
+430,Claude Platform 430,Notion,Documentation,2084.36,Under Review
+431,Slack Platform 431,Salesforce,Sales Intelligence,3711.01,Pilot
+432,Snowflake Platform 432,Atlassian,LLM Assistant,3520.43,Pilot
+433,Vertex Platform 433,Anthropic,Analytics,13658.12,Under Review
+434,ChatGPT Platform 434,Google,Help Desk AI,7608.47,Retired
+435,Notion Platform 435,Atlassian,Content Generation,6169.54,Retired
+436,Watson Platform 436,Adobe,Documentation,5502.14,Under Review
+437,ChatGPT Platform 437,Atlassian,Workflow Automation,3826.19,Active
+438,Tableau Platform 438,Zendesk,Content Generation,24576.33,Active
+439,Power BI Platform 439,Snowflake,Workflow Automation,15905.96,Retired
+440,Watson Platform 440,Zendesk,Documentation,18226.50,Pilot
+441,Slack Platform 441,UiPath,Content Generation,16644.73,Under Review
+442,Tableau Platform 442,Microsoft,Forecasting,893.13,Retired
+443,Perplexity Platform 443,OpenAI,Workflow Automation,1905.68,Retired
+444,Databricks Platform 444,Meta,LLM Assistant,14432.48,Retired
+445,Gemini Platform 445,Microsoft,Content Generation,8318.62,Pilot
+446,Salesforce Platform 446,Salesforce,Forecasting,8835.99,Pilot
+447,Databricks Platform 447,IBM,Documentation,23349.78,Active
+448,Perplexity Platform 448,Meta,Analytics,6382.99,Pilot
+449,Salesforce Platform 449,Microsoft,Analytics,13349.04,Pilot
+450,Tableau Platform 450,Zendesk,LLM Assistant,20400.20,Active
+451,Snowflake Platform 451,Zendesk,Help Desk AI,23142.63,Pilot
+452,Salesforce Platform 452,Atlassian,Content Generation,15902.06,Under Review
+453,Copilot Platform 453,Salesforce,Forecasting,9022.36,Retired
+454,Databricks Platform 454,IBM,Sales Intelligence,1758.18,Active
+455,Copilot Platform 455,Snowflake,Sales Intelligence,7146.29,Retired
+456,Miro Platform 456,Microsoft,Content Generation,6256.25,Under Review
+457,Zendesk Platform 457,Atlassian,Help Desk AI,3854.10,Active
+458,UiPath Platform 458,UiPath,Analytics,11053.36,Retired
+459,Zapier Platform 459,Anthropic,Sales Intelligence,8007.65,Pilot
+460,Zapier Platform 460,Zendesk,Forecasting,3685.13,Active
+461,Copilot Platform 461,Meta,Workflow Automation,6521.70,Active
+462,Vertex Platform 462,Anthropic,Sales Intelligence,10078.73,Pilot
+463,UiPath Platform 463,Databricks,Analytics,1635.13,Under Review
+464,UiPath Platform 464,Databricks,Help Desk AI,18561.98,Retired
+465,Claude Platform 465,Snowflake,Forecasting,14490.07,Under Review
+466,Perplexity Platform 466,Notion,LLM Assistant,5670.60,Pilot
+467,Notion Platform 467,OpenAI,LLM Assistant,22934.19,Under Review
+468,Gemini Platform 468,Snowflake,Forecasting,5623.44,Under Review
+469,UiPath Platform 469,UiPath,Content Generation,13335.61,Pilot
+470,Power BI Platform 470,OpenAI,Analytics,18939.22,Active
+471,Perplexity Platform 471,Adobe,Help Desk AI,10142.85,Retired
+472,Jasper Platform 472,Anthropic,Forecasting,5806.22,Pilot
+473,Notion Platform 473,OpenAI,Analytics,9301.93,Retired
+474,Copilot Platform 474,Snowflake,Workflow Automation,7080.53,Active
+475,Zendesk Platform 475,Snowflake,Sales Intelligence,10835.08,Retired
+476,Tableau Platform 476,Zendesk,Help Desk AI,10837.99,Active
+477,Zendesk Platform 477,IBM,Help Desk AI,5991.26,Active
+478,UiPath Platform 478,Snowflake,Forecasting,23878.75,Under Review
+479,Jasper Platform 479,Zapier,Workflow Automation,14689.22,Retired
+480,ServiceNow Platform 480,Meta,Content Generation,5300.45,Under Review
+481,Zendesk Platform 481,Google,Documentation,3270.50,Under Review
+482,Power BI Platform 482,Zapier,Analytics,6388.57,Pilot
+483,Notion Platform 483,OpenAI,Help Desk AI,5538.89,Under Review
+484,Miro Platform 484,IBM,Forecasting,4902.07,Pilot
+485,Claude Platform 485,Notion,Content Generation,3484.72,Pilot
+486,ChatGPT Platform 486,Meta,Forecasting,12582.38,Active
+487,ChatGPT Platform 487,UiPath,LLM Assistant,4531.25,Active
+488,Jasper Platform 488,Google,LLM Assistant,507.96,Active
+489,UiPath Platform 489,Databricks,Sales Intelligence,23381.08,Pilot
+490,Gemini Platform 490,UiPath,Documentation,5545.31,Under Review
+491,Tableau Platform 491,IBM,LLM Assistant,18010.69,Active
+492,ChatGPT Platform 492,Zapier,LLM Assistant,3569.54,Active
+493,Perplexity Platform 493,Notion,Content Generation,4847.00,Pilot
+494,ChatGPT Platform 494,IBM,Content Generation,12828.15,Retired
+495,Salesforce Platform 495,Notion,Content Generation,22703.88,Active
+496,Gemini Platform 496,Google,Forecasting,7557.10,Retired
+497,Zendesk Platform 497,Microsoft,Sales Intelligence,4078.36,Active
+498,Copilot Platform 498,Meta,Analytics,6034.43,Retired
+499,Miro Platform 499,Google,Content Generation,5122.89,Retired
+500,Miro Platform 500,Zapier,Help Desk AI,11615.88,Retired
+501,Gemini Platform 501,Snowflake,Sales Intelligence,8896.81,Active
+502,ChatGPT Platform 502,Zapier,Analytics,21691.15,Pilot
+503,Snowflake Platform 503,Adobe,Documentation,2405.11,Under Review
+504,Jasper Platform 504,Google,Forecasting,10785.99,Pilot
+505,Snowflake Platform 505,Atlassian,Sales Intelligence,16394.42,Under Review
+506,Miro Platform 506,UiPath,Sales Intelligence,4729.80,Pilot
+507,Snowflake Platform 507,Zendesk,Documentation,17853.53,Pilot
+508,Snowflake Platform 508,Microsoft,Content Generation,17466.58,Pilot
+509,Vertex Platform 509,IBM,Sales Intelligence,293.20,Active
+510,Zendesk Platform 510,Anthropic,Documentation,4577.92,Active
+511,Zendesk Platform 511,Atlassian,Analytics,9856.46,Under Review
+512,Salesforce Platform 512,IBM,Workflow Automation,2030.75,Active
+513,Tableau Platform 513,Zendesk,LLM Assistant,23010.96,Retired
+514,Copilot Platform 514,Databricks,Forecasting,21916.58,Under Review
+515,Miro Platform 515,Zapier,Analytics,1189.15,Pilot
+516,Vertex Platform 516,IBM,Forecasting,608.57,Under Review
+517,Tableau Platform 517,UiPath,Analytics,15593.74,Retired
+518,Gemini Platform 518,Zendesk,Sales Intelligence,14748.78,Active
+519,Notion Platform 519,Microsoft,Analytics,2166.88,Active
+520,Miro Platform 520,UiPath,Analytics,16691.16,Under Review
+521,Databricks Platform 521,Snowflake,Documentation,18358.71,Retired
+522,Zapier Platform 522,Anthropic,Help Desk AI,23444.23,Pilot
+523,Jasper Platform 523,Microsoft,Content Generation,4300.74,Under Review
+524,Miro Platform 524,OpenAI,Workflow Automation,13054.18,Active
+525,Claude Platform 525,Adobe,Sales Intelligence,21587.64,Under Review
+526,Power BI Platform 526,OpenAI,Sales Intelligence,21389.42,Retired
+527,Watson Platform 527,Microsoft,Forecasting,12085.60,Retired
+528,ChatGPT Platform 528,IBM,Help Desk AI,5533.54,Active
+529,ServiceNow Platform 529,Meta,LLM Assistant,24989.91,Pilot
+530,UiPath Platform 530,IBM,LLM Assistant,8075.27,Active
+531,Zapier Platform 531,UiPath,Documentation,1696.05,Active
+532,Notion Platform 532,OpenAI,Sales Intelligence,24831.28,Under Review
+533,Perplexity Platform 533,IBM,Sales Intelligence,24836.39,Retired
+534,Tableau Platform 534,Databricks,Forecasting,11056.41,Active
+535,Perplexity Platform 535,UiPath,Analytics,976.59,Under Review
+536,Gemini Platform 536,Meta,LLM Assistant,9706.16,Under Review
+537,Vertex Platform 537,Notion,Forecasting,23742.23,Pilot
+538,Tableau Platform 538,UiPath,Analytics,16637.52,Retired
+539,Claude Platform 539,UiPath,Analytics,11309.29,Under Review
+540,Copilot Platform 540,Notion,Content Generation,8035.21,Active
+541,Tableau Platform 541,Meta,Documentation,3391.80,Pilot
+542,Notion Platform 542,Anthropic,Forecasting,16548.09,Retired
+543,Power BI Platform 543,Notion,Help Desk AI,5491.07,Retired
+544,Zendesk Platform 544,Microsoft,Forecasting,6071.71,Under Review
+545,Jasper Platform 545,Adobe,Help Desk AI,14684.65,Pilot
+546,Watson Platform 546,Meta,Documentation,1497.36,Retired
+547,Snowflake Platform 547,Zendesk,Analytics,14645.37,Retired
+548,Zendesk Platform 548,Microsoft,Content Generation,16778.45,Active
+549,Miro Platform 549,Snowflake,LLM Assistant,24482.79,Active
+550,Tableau Platform 550,Zapier,Forecasting,9724.38,Under Review
+551,Vertex Platform 551,IBM,Content Generation,15347.67,Retired
+552,Claude Platform 552,Adobe,Documentation,3775.09,Active
+553,Snowflake Platform 553,UiPath,Content Generation,6736.40,Active
+554,Slack Platform 554,Atlassian,Documentation,7167.70,Under Review
+555,Watson Platform 555,Salesforce,Documentation,1454.55,Under Review
+556,Tableau Platform 556,Snowflake,Workflow Automation,10691.57,Under Review
+557,Copilot Platform 557,Notion,Sales Intelligence,14293.98,Pilot
+558,Copilot Platform 558,IBM,LLM Assistant,22602.42,Retired
+559,Power BI Platform 559,Microsoft,Analytics,2469.27,Active
+560,Notion Platform 560,Zapier,Documentation,13953.52,Retired
+561,Power BI Platform 561,Zapier,LLM Assistant,3229.89,Under Review
+562,Slack Platform 562,UiPath,Help Desk AI,5591.20,Under Review
+563,Gemini Platform 563,Adobe,Analytics,23029.44,Under Review
+564,ChatGPT Platform 564,Anthropic,Workflow Automation,2749.72,Pilot
+565,Slack Platform 565,Snowflake,Sales Intelligence,664.15,Under Review
+566,Tableau Platform 566,Adobe,Sales Intelligence,3922.79,Under Review
+567,Jasper Platform 567,Anthropic,LLM Assistant,14963.94,Pilot
+568,Claude Platform 568,Snowflake,Forecasting,1395.22,Pilot
+569,Databricks Platform 569,Databricks,Analytics,19891.38,Retired
+570,ServiceNow Platform 570,IBM,LLM Assistant,12332.81,Active
+571,Notion Platform 571,Notion,Help Desk AI,16652.82,Active
+572,Gemini Platform 572,Snowflake,Documentation,13767.41,Retired
+573,UiPath Platform 573,Zendesk,Sales Intelligence,3915.93,Under Review
+574,Databricks Platform 574,Atlassian,Analytics,18312.59,Under Review
+575,Snowflake Platform 575,Salesforce,Content Generation,20978.28,Active
+576,Vertex Platform 576,UiPath,Forecasting,3137.65,Under Review
+577,Watson Platform 577,Adobe,Forecasting,20959.44,Active
+578,Notion Platform 578,Zapier,Content Generation,7142.22,Under Review
+579,UiPath Platform 579,Zendesk,Forecasting,6608.86,Active
+580,Zendesk Platform 580,UiPath,Documentation,13731.91,Under Review
+581,ChatGPT Platform 581,Atlassian,Workflow Automation,16831.28,Retired
+582,Notion Platform 582,Zapier,Content Generation,22262.24,Under Review
+583,Copilot Platform 583,OpenAI,LLM Assistant,5225.79,Retired
+584,Slack Platform 584,Google,Content Generation,8124.56,Under Review
+585,ServiceNow Platform 585,Meta,Content Generation,1890.80,Under Review
+586,Tableau Platform 586,Snowflake,Content Generation,24058.17,Retired
+587,Perplexity Platform 587,Google,Content Generation,7768.10,Pilot
+588,Perplexity Platform 588,Microsoft,Content Generation,20755.92,Pilot
+589,Slack Platform 589,IBM,Forecasting,3256.03,Active
+590,Zapier Platform 590,Google,LLM Assistant,20453.71,Active
+591,Zapier Platform 591,Zendesk,LLM Assistant,24524.73,Under Review
+592,Zendesk Platform 592,Google,Workflow Automation,21581.90,Retired
+593,ServiceNow Platform 593,Anthropic,Workflow Automation,23999.78,Under Review
+594,Jasper Platform 594,Snowflake,LLM Assistant,9210.08,Pilot
+595,ChatGPT Platform 595,Snowflake,Forecasting,3835.46,Active
+596,Watson Platform 596,Google,Help Desk AI,8785.89,Active
+597,Vertex Platform 597,Adobe,Sales Intelligence,7014.39,Under Review
+598,ChatGPT Platform 598,Zendesk,Forecasting,16142.96,Active
+599,ServiceNow Platform 599,Snowflake,Content Generation,12496.89,Under Review
+600,Power BI Platform 600,Google,Help Desk AI,532.90,Active
+601,Watson Platform 601,Atlassian,Sales Intelligence,16056.99,Active
+602,Power BI Platform 602,Anthropic,Help Desk AI,4184.19,Active
+603,UiPath Platform 603,OpenAI,Analytics,7287.87,Active
+604,ServiceNow Platform 604,OpenAI,Sales Intelligence,4740.22,Pilot
+605,Jasper Platform 605,Salesforce,Documentation,6728.95,Retired
+606,UiPath Platform 606,Snowflake,Help Desk AI,15504.75,Under Review
+607,Databricks Platform 607,Anthropic,Content Generation,6526.25,Pilot
+608,Jasper Platform 608,Zendesk,Forecasting,19324.79,Retired
+609,Power BI Platform 609,UiPath,Workflow Automation,23860.49,Under Review
+610,Databricks Platform 610,Meta,Help Desk AI,10644.62,Under Review
+611,Databricks Platform 611,IBM,Sales Intelligence,12453.90,Active
+612,Claude Platform 612,Google,LLM Assistant,16956.25,Under Review
+613,Notion Platform 613,Meta,Sales Intelligence,13251.03,Pilot
+614,Slack Platform 614,Zendesk,Analytics,11922.25,Pilot
+615,Zendesk Platform 615,Atlassian,Analytics,10503.12,Retired
+616,ChatGPT Platform 616,Databricks,Sales Intelligence,7204.47,Retired
+617,Salesforce Platform 617,Anthropic,Forecasting,12835.28,Pilot
+618,Perplexity Platform 618,IBM,Forecasting,18581.28,Active
+619,Zapier Platform 619,Notion,Content Generation,22552.76,Retired
+620,Slack Platform 620,IBM,Workflow Automation,1827.80,Under Review
+621,Copilot Platform 621,Salesforce,Content Generation,4107.12,Pilot
+622,Miro Platform 622,Atlassian,Content Generation,7947.58,Retired
+623,ChatGPT Platform 623,Snowflake,LLM Assistant,15331.28,Under Review
+624,Copilot Platform 624,Notion,LLM Assistant,11255.64,Active
+625,Gemini Platform 625,Microsoft,Content Generation,23899.30,Retired
+626,Zendesk Platform 626,Zendesk,Forecasting,18433.77,Under Review
+627,Miro Platform 627,OpenAI,Content Generation,9979.70,Under Review
+628,Gemini Platform 628,Zapier,Forecasting,12452.94,Active
+629,ChatGPT Platform 629,IBM,LLM Assistant,540.14,Retired
+630,Databricks Platform 630,IBM,Analytics,3084.19,Retired
+631,UiPath Platform 631,OpenAI,LLM Assistant,8709.88,Active
+632,Watson Platform 632,OpenAI,Help Desk AI,2658.26,Under Review
+633,Jasper Platform 633,Databricks,Analytics,4714.58,Active
+634,Tableau Platform 634,Atlassian,Analytics,24875.58,Under Review
+635,Claude Platform 635,Snowflake,Forecasting,17297.53,Under Review
+636,Gemini Platform 636,Salesforce,Sales Intelligence,24148.48,Active
+637,Jasper Platform 637,UiPath,Help Desk AI,23510.08,Pilot
+638,ServiceNow Platform 638,Databricks,Forecasting,2662.97,Active
+639,ServiceNow Platform 639,OpenAI,Workflow Automation,15540.82,Pilot
+640,Gemini Platform 640,Microsoft,Sales Intelligence,7037.81,Retired
+641,Notion Platform 641,Databricks,Documentation,21672.15,Active
+642,Tableau Platform 642,IBM,Sales Intelligence,12834.98,Pilot
+643,Snowflake Platform 643,IBM,Forecasting,9304.42,Retired
+644,Zapier Platform 644,Snowflake,Forecasting,5026.46,Active
+645,Watson Platform 645,IBM,LLM Assistant,15301.19,Active
+646,Gemini Platform 646,Snowflake,Documentation,11732.27,Active
+647,Zendesk Platform 647,Zendesk,Workflow Automation,5135.40,Under Review
+648,Perplexity Platform 648,Atlassian,LLM Assistant,14661.27,Active
+649,Copilot Platform 649,Snowflake,Content Generation,24186.93,Pilot
+650,Notion Platform 650,IBM,Content Generation,5988.59,Under Review
+651,Perplexity Platform 651,Zendesk,Forecasting,22520.05,Pilot
+652,Watson Platform 652,IBM,Forecasting,1941.90,Retired
+653,Salesforce Platform 653,Microsoft,Forecasting,9226.23,Under Review
+654,Snowflake Platform 654,Zendesk,Forecasting,7405.73,Retired
+655,Gemini Platform 655,IBM,Analytics,6870.35,Retired
+656,Miro Platform 656,Salesforce,LLM Assistant,3288.19,Under Review
+657,Notion Platform 657,Zapier,Workflow Automation,5778.32,Active
+658,Power BI Platform 658,Google,Sales Intelligence,15116.14,Active
+659,Gemini Platform 659,Zendesk,Sales Intelligence,882.18,Retired
+660,Vertex Platform 660,Google,LLM Assistant,19664.35,Under Review
+661,Zapier Platform 661,OpenAI,Documentation,8310.47,Active
+662,ChatGPT Platform 662,Meta,Help Desk AI,7680.53,Pilot
+663,Tableau Platform 663,UiPath,Forecasting,3476.30,Retired
+664,Claude Platform 664,Adobe,Sales Intelligence,18081.26,Under Review
+665,Jasper Platform 665,Atlassian,Documentation,644.83,Retired
+666,Slack Platform 666,Notion,Documentation,3894.27,Active
+667,Tableau Platform 667,Zendesk,Workflow Automation,21806.99,Retired
+668,Gemini Platform 668,OpenAI,Workflow Automation,19126.74,Under Review
+669,Zendesk Platform 669,IBM,Forecasting,6551.92,Under Review
+670,Watson Platform 670,Salesforce,Documentation,17465.17,Retired
+671,Slack Platform 671,Zendesk,Content Generation,9252.31,Active
+672,Zapier Platform 672,Anthropic,Sales Intelligence,20266.12,Under Review
+673,Zapier Platform 673,UiPath,Sales Intelligence,9650.11,Active
+674,Gemini Platform 674,Notion,Analytics,15480.68,Retired
+675,Miro Platform 675,Anthropic,Analytics,10149.49,Active
+676,Notion Platform 676,OpenAI,Documentation,1541.22,Active
+677,Copilot Platform 677,Adobe,Help Desk AI,366.43,Active
+678,Copilot Platform 678,Salesforce,Analytics,11675.88,Pilot
+679,Vertex Platform 679,Databricks,Help Desk AI,4875.00,Pilot
+680,Databricks Platform 680,Meta,Forecasting,9729.22,Under Review
+681,Zendesk Platform 681,IBM,Content Generation,14046.40,Active
+682,Jasper Platform 682,Notion,Help Desk AI,19763.31,Under Review
+683,Slack Platform 683,UiPath,Analytics,22591.77,Retired
+684,Tableau Platform 684,Zendesk,Workflow Automation,10065.30,Retired
+685,Zapier Platform 685,Notion,Documentation,18085.18,Under Review
+686,Watson Platform 686,Google,Documentation,22945.31,Retired
+687,Claude Platform 687,Atlassian,Content Generation,15487.42,Under Review
+688,Claude Platform 688,OpenAI,LLM Assistant,13992.09,Pilot
+689,Miro Platform 689,Notion,Help Desk AI,8151.58,Retired
+690,Tableau Platform 690,Meta,Help Desk AI,1954.76,Under Review
+691,Tableau Platform 691,Zendesk,LLM Assistant,15365.81,Under Review
+692,Copilot Platform 692,Microsoft,LLM Assistant,9053.83,Active
+693,Slack Platform 693,Meta,Forecasting,9721.57,Retired
+694,Copilot Platform 694,Microsoft,LLM Assistant,23189.21,Pilot
+695,UiPath Platform 695,Databricks,Documentation,4669.22,Pilot
+696,Notion Platform 696,Snowflake,Help Desk AI,23764.99,Active
+697,Gemini Platform 697,Meta,Workflow Automation,3958.07,Pilot
+698,Miro Platform 698,Notion,Forecasting,17233.10,Pilot
+699,Watson Platform 699,Adobe,LLM Assistant,16774.44,Active
+700,Watson Platform 700,Salesforce,Content Generation,16050.98,Pilot
+701,UiPath Platform 701,Salesforce,Documentation,21766.62,Under Review
+702,Tableau Platform 702,Snowflake,LLM Assistant,6255.14,Pilot
+703,Power BI Platform 703,Anthropic,Workflow Automation,15802.48,Retired
+704,Watson Platform 704,Meta,Documentation,12236.67,Under Review
+705,Snowflake Platform 705,Databricks,Forecasting,15403.42,Under Review
+706,Tableau Platform 706,OpenAI,Help Desk AI,15177.12,Under Review
+707,ChatGPT Platform 707,Meta,Help Desk AI,1316.65,Under Review
+708,Copilot Platform 708,Notion,Sales Intelligence,4764.47,Under Review
+709,Jasper Platform 709,OpenAI,Analytics,11922.50,Pilot
+710,Zendesk Platform 710,Notion,Content Generation,17011.06,Pilot
+711,Zendesk Platform 711,Snowflake,Sales Intelligence,15256.72,Pilot
+712,Jasper Platform 712,UiPath,Help Desk AI,13108.07,Under Review
+713,Snowflake Platform 713,Adobe,Analytics,19075.71,Retired
+714,Tableau Platform 714,Databricks,Sales Intelligence,19495.96,Retired
+715,Zapier Platform 715,Meta,Content Generation,2414.04,Pilot
+716,Salesforce Platform 716,Microsoft,Forecasting,16565.93,Under Review
+717,Slack Platform 717,UiPath,Workflow Automation,24207.80,Active
+718,Power BI Platform 718,Databricks,Content Generation,24966.97,Active
+719,Copilot Platform 719,Meta,Help Desk AI,3951.04,Active
+720,Claude Platform 720,UiPath,Sales Intelligence,20074.63,Active
+721,Power BI Platform 721,Atlassian,Forecasting,23095.45,Pilot
+722,Zapier Platform 722,Anthropic,Workflow Automation,6613.25,Under Review
+723,Notion Platform 723,IBM,Workflow Automation,24518.16,Pilot
+724,Vertex Platform 724,Meta,LLM Assistant,20814.96,Active
+725,ServiceNow Platform 725,OpenAI,Analytics,371.36,Under Review
+726,Zapier Platform 726,Anthropic,Forecasting,11364.19,Under Review
+727,ServiceNow Platform 727,Zapier,Workflow Automation,18889.83,Retired
+728,Zendesk Platform 728,Meta,Analytics,2400.44,Under Review
+729,Vertex Platform 729,Meta,Forecasting,4367.78,Retired
+730,Watson Platform 730,Microsoft,Documentation,7755.05,Retired
+731,ChatGPT Platform 731,IBM,Help Desk AI,8437.39,Retired
+732,Vertex Platform 732,Zapier,Analytics,9639.07,Pilot
+733,Perplexity Platform 733,Notion,Help Desk AI,13281.62,Active
+734,Zapier Platform 734,Adobe,Help Desk AI,21605.03,Retired
+735,Databricks Platform 735,Salesforce,Workflow Automation,11162.89,Active
+736,Tableau Platform 736,IBM,Sales Intelligence,21936.91,Active
+737,Salesforce Platform 737,Adobe,Forecasting,18676.90,Active
+738,Zendesk Platform 738,Microsoft,Content Generation,19800.74,Active
+739,UiPath Platform 739,Adobe,Analytics,9064.72,Active
+740,Copilot Platform 740,Adobe,Workflow Automation,21510.35,Under Review
+741,Notion Platform 741,UiPath,Workflow Automation,902.93,Active
+742,ServiceNow Platform 742,Anthropic,Content Generation,22545.68,Active
+743,UiPath Platform 743,Adobe,LLM Assistant,12885.77,Pilot
+744,Databricks Platform 744,Databricks,Content Generation,18207.14,Under Review
+745,Watson Platform 745,Notion,Sales Intelligence,11727.19,Under Review
+746,Copilot Platform 746,IBM,Workflow Automation,3214.59,Pilot
+747,Databricks Platform 747,Databricks,LLM Assistant,688.87,Pilot
+748,Copilot Platform 748,Microsoft,LLM Assistant,4352.44,Retired
+749,Copilot Platform 749,Atlassian,Sales Intelligence,19939.66,Pilot
+750,Notion Platform 750,Google,Content Generation,15886.66,Active
+751,Vertex Platform 751,Salesforce,Workflow Automation,16417.71,Retired
+752,Salesforce Platform 752,Adobe,Help Desk AI,12223.78,Retired
+753,Salesforce Platform 753,Anthropic,Help Desk AI,10648.70,Active
+754,Copilot Platform 754,Atlassian,Content Generation,23317.95,Under Review
+755,Jasper Platform 755,Microsoft,Workflow Automation,4693.84,Pilot
+756,Notion Platform 756,Databricks,Workflow Automation,4222.37,Pilot
+757,Copilot Platform 757,IBM,Documentation,21496.76,Active
+758,ChatGPT Platform 758,Adobe,LLM Assistant,9057.28,Under Review
+759,Notion Platform 759,Zapier,Forecasting,2156.28,Under Review
+760,Gemini Platform 760,OpenAI,Content Generation,12804.44,Pilot
+761,ServiceNow Platform 761,Zendesk,Analytics,21824.43,Active
+762,Notion Platform 762,OpenAI,Sales Intelligence,1051.91,Retired
+763,Jasper Platform 763,UiPath,Workflow Automation,1096.34,Under Review
+764,Databricks Platform 764,UiPath,LLM Assistant,3778.55,Retired
+765,UiPath Platform 765,Adobe,Content Generation,18963.72,Retired
+766,Power BI Platform 766,Zendesk,Documentation,24632.99,Pilot
+767,Tableau Platform 767,Notion,LLM Assistant,9397.80,Retired
+768,Vertex Platform 768,IBM,Help Desk AI,11260.57,Active
+769,Miro Platform 769,Salesforce,Sales Intelligence,9006.66,Active
+770,Watson Platform 770,Salesforce,Sales Intelligence,8867.85,Under Review
+771,Claude Platform 771,OpenAI,Documentation,490.47,Retired
+772,Gemini Platform 772,Snowflake,Workflow Automation,13589.06,Active
+773,Jasper Platform 773,Notion,Sales Intelligence,2298.44,Retired
+774,Jasper Platform 774,Salesforce,Documentation,4368.23,Pilot
+775,Tableau Platform 775,Zapier,LLM Assistant,7824.11,Active
+776,Power BI Platform 776,Snowflake,Documentation,19201.32,Pilot
+777,Copilot Platform 777,Databricks,Help Desk AI,8635.02,Retired
+778,UiPath Platform 778,Databricks,LLM Assistant,19879.23,Active
+779,Vertex Platform 779,Anthropic,Documentation,3908.51,Pilot
+780,ServiceNow Platform 780,Atlassian,Sales Intelligence,22515.42,Under Review
+781,Notion Platform 781,Google,LLM Assistant,10900.61,Retired
+782,Slack Platform 782,Zendesk,Sales Intelligence,15623.94,Retired
+783,Miro Platform 783,OpenAI,Analytics,12268.04,Pilot
+784,Zapier Platform 784,OpenAI,Forecasting,20156.21,Retired
+785,Perplexity Platform 785,Databricks,Sales Intelligence,7240.38,Active
+786,Tableau Platform 786,Zendesk,Forecasting,2733.96,Pilot
+787,Zapier Platform 787,Anthropic,Content Generation,17860.73,Active
+788,Miro Platform 788,Adobe,Documentation,10585.27,Retired
+789,Salesforce Platform 789,Atlassian,Workflow Automation,12060.23,Retired
+790,Watson Platform 790,Databricks,Workflow Automation,14782.73,Under Review
+791,Zendesk Platform 791,Microsoft,Sales Intelligence,18565.51,Retired
+792,Gemini Platform 792,Meta,Workflow Automation,14911.79,Pilot
+793,Zapier Platform 793,Zapier,Analytics,17816.24,Under Review
+794,Zapier Platform 794,Snowflake,Analytics,20042.26,Retired
+795,Slack Platform 795,Atlassian,Forecasting,2870.41,Pilot
+796,Zapier Platform 796,Adobe,Workflow Automation,6095.88,Active
+797,Power BI Platform 797,Microsoft,Content Generation,8830.77,Under Review
+798,Watson Platform 798,Google,LLM Assistant,14336.02,Pilot
+799,Vertex Platform 799,Google,Content Generation,14039.35,Under Review
+800,UiPath Platform 800,IBM,Help Desk AI,4100.34,Retired
+801,Zapier Platform 801,Meta,Forecasting,23864.05,Retired
+802,Claude Platform 802,Notion,Content Generation,20871.45,Under Review
+803,Notion Platform 803,UiPath,Documentation,23141.13,Pilot
+804,Zapier Platform 804,Notion,Forecasting,5189.90,Retired
+805,Claude Platform 805,Zendesk,Sales Intelligence,14571.18,Retired
+806,Watson Platform 806,IBM,Help Desk AI,16364.34,Under Review
+807,Notion Platform 807,Atlassian,Content Generation,10639.76,Pilot
+808,Copilot Platform 808,Zapier,Workflow Automation,14307.52,Retired
+809,Watson Platform 809,Atlassian,Help Desk AI,5626.12,Retired
+810,Gemini Platform 810,Adobe,Workflow Automation,5748.29,Retired
+811,Miro Platform 811,UiPath,Forecasting,7791.67,Pilot
+812,Watson Platform 812,IBM,Analytics,1096.60,Active
+813,UiPath Platform 813,Anthropic,Workflow Automation,418.49,Active
+814,Zendesk Platform 814,IBM,Help Desk AI,18915.43,Under Review
+815,Perplexity Platform 815,Google,Documentation,9864.92,Active
+816,Claude Platform 816,Notion,Content Generation,16362.26,Pilot
+817,Jasper Platform 817,Databricks,Forecasting,11790.80,Pilot
+818,Vertex Platform 818,Atlassian,Analytics,16815.34,Under Review
+819,Perplexity Platform 819,Snowflake,Forecasting,23360.69,Active
+820,Databricks Platform 820,Microsoft,Sales Intelligence,6438.84,Active
+821,ChatGPT Platform 821,IBM,Analytics,19413.38,Pilot
+822,ServiceNow Platform 822,Salesforce,Documentation,5162.48,Pilot
+823,Gemini Platform 823,Salesforce,Analytics,6706.63,Active
+824,Perplexity Platform 824,Zapier,Workflow Automation,304.43,Under Review
+825,UiPath Platform 825,Meta,Workflow Automation,23464.18,Under Review
+826,Jasper Platform 826,Meta,Content Generation,20877.58,Retired
+827,Gemini Platform 827,Anthropic,Analytics,10033.84,Retired
+828,Gemini Platform 828,Adobe,Content Generation,19790.36,Under Review
+829,Notion Platform 829,Microsoft,Workflow Automation,3882.96,Retired
+830,Databricks Platform 830,Adobe,Sales Intelligence,8306.66,Active
+831,Power BI Platform 831,Adobe,Sales Intelligence,21846.11,Under Review
+832,Tableau Platform 832,UiPath,Documentation,16229.60,Pilot
+833,ChatGPT Platform 833,Salesforce,Help Desk AI,16829.22,Under Review
+834,Copilot Platform 834,Anthropic,Sales Intelligence,8772.67,Under Review
+835,Snowflake Platform 835,UiPath,Documentation,14132.40,Active
+836,Jasper Platform 836,Adobe,Workflow Automation,11335.64,Active
+837,Notion Platform 837,Adobe,Content Generation,7451.57,Pilot
+838,UiPath Platform 838,IBM,Forecasting,20296.61,Pilot
+839,Miro Platform 839,Anthropic,LLM Assistant,23865.02,Under Review
+840,Vertex Platform 840,UiPath,Sales Intelligence,11757.77,Active
+841,Copilot Platform 841,Anthropic,Workflow Automation,12065.54,Pilot
+842,UiPath Platform 842,Zendesk,Workflow Automation,9708.80,Retired
+843,Slack Platform 843,Zendesk,Workflow Automation,18319.73,Active
+844,Copilot Platform 844,Zapier,LLM Assistant,24943.94,Active
+845,Perplexity Platform 845,Zendesk,Documentation,1585.16,Retired
+846,ChatGPT Platform 846,IBM,Workflow Automation,1306.27,Active
+847,Snowflake Platform 847,Snowflake,Content Generation,4498.82,Retired
+848,Vertex Platform 848,Microsoft,Forecasting,16731.72,Under Review
+849,ChatGPT Platform 849,OpenAI,Analytics,3331.74,Under Review
+850,ServiceNow Platform 850,Zapier,Help Desk AI,10807.43,Active
+851,Notion Platform 851,Salesforce,Documentation,6840.10,Under Review
+852,Snowflake Platform 852,Salesforce,Content Generation,3249.22,Under Review
+853,UiPath Platform 853,Salesforce,Documentation,9519.91,Pilot
+854,Snowflake Platform 854,OpenAI,Documentation,24040.39,Retired
+855,UiPath Platform 855,Databricks,Forecasting,15019.22,Active
+856,Snowflake Platform 856,UiPath,Workflow Automation,14850.37,Active
+857,Notion Platform 857,Atlassian,Analytics,20841.98,Active
+858,UiPath Platform 858,Google,Workflow Automation,16250.59,Active
+859,Tableau Platform 859,Zendesk,Documentation,17350.72,Pilot
+860,Copilot Platform 860,UiPath,Documentation,8458.41,Retired
+861,Tableau Platform 861,OpenAI,Sales Intelligence,22777.57,Under Review
+862,ChatGPT Platform 862,Salesforce,Workflow Automation,24941.56,Under Review
+863,UiPath Platform 863,Adobe,Sales Intelligence,21565.24,Under Review
+864,Gemini Platform 864,Anthropic,Forecasting,3642.43,Active
+865,Snowflake Platform 865,Google,LLM Assistant,5511.52,Active
+866,Power BI Platform 866,IBM,Documentation,3924.04,Under Review
+867,Gemini Platform 867,Google,Documentation,4783.75,Under Review
+868,Snowflake Platform 868,OpenAI,Help Desk AI,4052.44,Retired
+869,Jasper Platform 869,Anthropic,Sales Intelligence,20355.89,Pilot
+870,Tableau Platform 870,Salesforce,Workflow Automation,20319.95,Retired
+871,Perplexity Platform 871,Meta,Help Desk AI,15670.46,Retired
+872,Tableau Platform 872,Google,Documentation,521.32,Pilot
+873,Tableau Platform 873,Adobe,Forecasting,383.31,Pilot
+874,ServiceNow Platform 874,Databricks,Forecasting,17820.46,Active
+875,Copilot Platform 875,Meta,Documentation,19679.16,Retired
+876,UiPath Platform 876,Notion,Workflow Automation,11503.63,Pilot
+877,Jasper Platform 877,Salesforce,Content Generation,19351.73,Retired
+878,Miro Platform 878,UiPath,Content Generation,8547.56,Pilot
+879,Vertex Platform 879,Meta,Analytics,3574.73,Retired
+880,Power BI Platform 880,Salesforce,Forecasting,4351.80,Under Review
+881,Slack Platform 881,Meta,Help Desk AI,24358.87,Under Review
+882,ServiceNow Platform 882,Google,LLM Assistant,7796.99,Active
+883,Miro Platform 883,Google,Analytics,5600.48,Active
+884,Slack Platform 884,Microsoft,LLM Assistant,4688.51,Under Review
+885,Databricks Platform 885,Snowflake,Documentation,10918.30,Active
+886,Salesforce Platform 886,Anthropic,Content Generation,12563.77,Under Review
+887,Zendesk Platform 887,Salesforce,Sales Intelligence,17589.08,Pilot
+888,Power BI Platform 888,Snowflake,Help Desk AI,23509.14,Under Review
+889,UiPath Platform 889,Adobe,Documentation,22977.79,Active
+890,UiPath Platform 890,Notion,Content Generation,21567.35,Active
+891,Zendesk Platform 891,Zapier,Documentation,22155.35,Under Review
+892,ServiceNow Platform 892,Meta,Workflow Automation,12732.37,Active
+893,ServiceNow Platform 893,Adobe,Sales Intelligence,17436.19,Retired
+894,Slack Platform 894,Microsoft,Sales Intelligence,8515.50,Active
+895,Miro Platform 895,Salesforce,LLM Assistant,21408.27,Under Review
+896,Snowflake Platform 896,OpenAI,Help Desk AI,9184.63,Active
+897,Gemini Platform 897,Meta,Documentation,16266.17,Active
+898,Copilot Platform 898,Atlassian,LLM Assistant,20284.89,Pilot
+899,Power BI Platform 899,Zapier,Analytics,2913.42,Active
+900,Copilot Platform 900,Adobe,LLM Assistant,10496.10,Retired
+901,ServiceNow Platform 901,Snowflake,LLM Assistant,11100.84,Retired
+902,Power BI Platform 902,Notion,Sales Intelligence,17119.01,Under Review
+903,Databricks Platform 903,Zapier,LLM Assistant,2328.19,Pilot
+904,Jasper Platform 904,Microsoft,Analytics,14729.04,Pilot
+905,Perplexity Platform 905,Zendesk,Analytics,21017.75,Active
+906,Notion Platform 906,Salesforce,Sales Intelligence,4057.34,Active
+907,Zapier Platform 907,Notion,Documentation,3088.12,Active
+908,Power BI Platform 908,Databricks,Forecasting,6283.32,Active
+909,Power BI Platform 909,UiPath,LLM Assistant,7327.64,Under Review
+910,Vertex Platform 910,Notion,Workflow Automation,10285.84,Pilot
+911,Tableau Platform 911,Salesforce,LLM Assistant,12629.71,Pilot
+912,Jasper Platform 912,Google,Sales Intelligence,13765.23,Pilot
+913,Jasper Platform 913,Notion,Workflow Automation,6003.98,Retired
+914,Claude Platform 914,Salesforce,Forecasting,16252.36,Retired
+915,Zendesk Platform 915,UiPath,Documentation,20877.69,Pilot
+916,Copilot Platform 916,Zapier,Content Generation,5302.54,Pilot
+917,Databricks Platform 917,Atlassian,Help Desk AI,6997.34,Retired
+918,Vertex Platform 918,Anthropic,Workflow Automation,8661.22,Retired
+919,Copilot Platform 919,Notion,Forecasting,17142.66,Pilot
+920,Gemini Platform 920,Google,Documentation,19428.32,Under Review
+921,Zapier Platform 921,Notion,LLM Assistant,10763.70,Retired
+922,ChatGPT Platform 922,Google,Content Generation,15781.33,Active
+923,Power BI Platform 923,Notion,Sales Intelligence,10236.16,Pilot
+924,ChatGPT Platform 924,Adobe,Documentation,19650.58,Under Review
+925,Snowflake Platform 925,Adobe,Workflow Automation,8476.72,Retired
+926,Gemini Platform 926,Snowflake,Content Generation,10036.04,Pilot
+927,Perplexity Platform 927,Microsoft,Content Generation,14155.77,Under Review
+928,Zapier Platform 928,OpenAI,Analytics,16983.17,Retired
+929,Miro Platform 929,Databricks,Workflow Automation,18811.75,Pilot
+930,Slack Platform 930,UiPath,LLM Assistant,3162.31,Pilot
+931,Zendesk Platform 931,Adobe,Content Generation,5617.46,Pilot
+932,ServiceNow Platform 932,Notion,Analytics,10072.31,Pilot
+933,Salesforce Platform 933,Zapier,Workflow Automation,14504.09,Pilot
+934,Tableau Platform 934,Snowflake,Sales Intelligence,362.48,Retired
+935,Watson Platform 935,Adobe,Content Generation,23097.21,Under Review
+936,Snowflake Platform 936,Zapier,Documentation,23341.24,Active
+937,Snowflake Platform 937,Google,Sales Intelligence,4575.40,Retired
+938,Notion Platform 938,Zapier,Content Generation,19760.39,Active
+939,Zendesk Platform 939,Adobe,LLM Assistant,7464.89,Pilot
+940,Salesforce Platform 940,Atlassian,Sales Intelligence,11336.50,Active
+941,Miro Platform 941,Meta,Content Generation,2731.65,Pilot
+942,Gemini Platform 942,IBM,LLM Assistant,7121.30,Active
+943,Slack Platform 943,Zendesk,Analytics,14149.15,Retired
+944,Snowflake Platform 944,Snowflake,Documentation,1341.26,Under Review
+945,Power BI Platform 945,Google,Content Generation,22558.52,Active
+946,Claude Platform 946,UiPath,Forecasting,11547.69,Active
+947,Snowflake Platform 947,UiPath,LLM Assistant,5471.32,Under Review
+948,Claude Platform 948,OpenAI,Documentation,21624.96,Under Review
+949,Databricks Platform 949,UiPath,LLM Assistant,10127.42,Active
+950,Miro Platform 950,UiPath,Documentation,16651.37,Under Review
+951,Slack Platform 951,Zapier,Sales Intelligence,3859.79,Under Review
+952,UiPath Platform 952,UiPath,Content Generation,22309.08,Active
+953,Slack Platform 953,Notion,Help Desk AI,6675.51,Under Review
+954,Databricks Platform 954,OpenAI,Documentation,9431.04,Under Review
+955,Claude Platform 955,Atlassian,LLM Assistant,19838.69,Retired
+956,Databricks Platform 956,Atlassian,Help Desk AI,971.54,Pilot
+957,Notion Platform 957,Atlassian,Content Generation,774.45,Retired
+958,Copilot Platform 958,Meta,Forecasting,11906.73,Under Review
+959,Salesforce Platform 959,Google,Forecasting,17730.09,Pilot
+960,Gemini Platform 960,Zendesk,Help Desk AI,11517.97,Pilot
+961,Perplexity Platform 961,Meta,Documentation,1531.08,Retired
+962,Copilot Platform 962,Google,Forecasting,12714.51,Active
+963,Slack Platform 963,Notion,Help Desk AI,14045.40,Pilot
+964,Jasper Platform 964,Databricks,Forecasting,14402.97,Pilot
+965,Zapier Platform 965,Salesforce,Help Desk AI,20371.51,Pilot
+966,Copilot Platform 966,Atlassian,Documentation,7251.76,Under Review
+967,Jasper Platform 967,Databricks,Analytics,9271.50,Active
+968,Miro Platform 968,Zendesk,Analytics,22423.28,Active
+969,Databricks Platform 969,IBM,LLM Assistant,13776.66,Retired
+970,Jasper Platform 970,Adobe,Sales Intelligence,3383.22,Active
+971,Slack Platform 971,IBM,Forecasting,20233.29,Under Review
+972,Zapier Platform 972,Zendesk,Sales Intelligence,17942.39,Active
+973,Slack Platform 973,Atlassian,Sales Intelligence,11549.82,Pilot
+974,Claude Platform 974,Zapier,Documentation,7102.53,Pilot
+975,Snowflake Platform 975,Salesforce,Content Generation,1257.66,Active
+976,Gemini Platform 976,Anthropic,Sales Intelligence,2922.21,Retired
+977,Notion Platform 977,Salesforce,Sales Intelligence,14994.67,Active
+978,Tableau Platform 978,Meta,Analytics,20655.35,Under Review
+979,Databricks Platform 979,UiPath,LLM Assistant,24821.97,Under Review
+980,Salesforce Platform 980,Zendesk,Analytics,12600.61,Active
+981,Watson Platform 981,Zendesk,Workflow Automation,7124.99,Retired
+982,Power BI Platform 982,Zapier,Analytics,24266.98,Under Review
+983,Zendesk Platform 983,UiPath,Workflow Automation,13902.90,Retired
+984,Slack Platform 984,UiPath,Sales Intelligence,20852.11,Retired
+985,Perplexity Platform 985,Anthropic,Content Generation,7576.86,Under Review
+986,Claude Platform 986,Salesforce,Documentation,5343.92,Pilot
+987,Snowflake Platform 987,Salesforce,LLM Assistant,17654.83,Under Review
+988,Power BI Platform 988,Snowflake,Forecasting,12761.58,Under Review
+989,Databricks Platform 989,Zendesk,Workflow Automation,21054.03,Pilot
+990,Tableau Platform 990,Meta,Forecasting,19846.57,Under Review
+991,ChatGPT Platform 991,Atlassian,Workflow Automation,5654.57,Under Review
+992,Vertex Platform 992,Atlassian,LLM Assistant,24545.60,Under Review
+993,UiPath Platform 993,Anthropic,Workflow Automation,5488.46,Pilot
+994,Power BI Platform 994,Adobe,Workflow Automation,10775.13,Active
+995,ChatGPT Platform 995,IBM,Documentation,15246.25,Under Review
+996,Salesforce Platform 996,UiPath,Analytics,15319.50,Active
+997,Miro Platform 997,Zapier,Sales Intelligence,5418.24,Active
+998,ChatGPT Platform 998,Databricks,LLM Assistant,22548.68,Under Review
+999,Snowflake Platform 999,Microsoft,Content Generation,8720.88,Active
+1000,Miro Platform 1000,Snowflake,LLM Assistant,14569.48,Active
