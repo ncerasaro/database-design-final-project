@@ -1,0 +1,397 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww34000\viewh20820\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 -- =========================================\
+-- COURSEWORK REVIEW QUERIES\
+-- Database Design Final Project\
+-- =========================================\
+\
+\
+-- =========================================\
+-- 1. SELECT\
+-- =========================================\
+SELECT * FROM Employees LIMIT 10;\
+\
+\
+-- =========================================\
+-- 2. DELETE\
+-- 3. UPDATE\
+-- 4. INSERT\
+-- using a demo table so the real data is not changed\
+-- =========================================\
+CREATE TABLE IF NOT EXISTS Demo_Table (\
+    id INT PRIMARY KEY,\
+    name VARCHAR(50)\
+);\
+\
+INSERT INTO Demo_Table (id, name)\
+VALUES (1, 'Test User');\
+\
+UPDATE Demo_Table\
+SET name = 'Updated User'\
+WHERE id = 1;\
+\
+DELETE FROM Demo_Table\
+WHERE id = 1;\
+\
+\
+-- =========================================\
+-- 5. LIMIT\
+-- =========================================\
+SELECT * FROM Departments LIMIT 10;\
+\
+\
+-- =========================================\
+-- 6. WHERE ___ LIKE ___\
+-- 7. '_' and '%'\
+-- =========================================\
+SELECT *\
+FROM Employees\
+WHERE first_name LIKE 'A%';\
+\
+SELECT *\
+FROM Departments\
+WHERE budget_code LIKE '_%';\
+\
+\
+-- =========================================\
+-- 8. COUNT()\
+-- =========================================\
+SELECT COUNT(*) AS total_employees\
+FROM Employees;\
+\
+\
+-- =========================================\
+-- 9. SUM()\
+-- =========================================\
+SELECT SUM(predicted_revenue) AS total_predicted_revenue\
+FROM Sales_Forecasts;\
+\
+\
+-- =========================================\
+-- 10. AVG()\
+-- =========================================\
+SELECT AVG(estimated_hours_saved_per_month) AS avg_hours_saved\
+FROM AI_Use_Submissions;\
+\
+\
+-- =========================================\
+-- 11. MAX()\
+-- =========================================\
+SELECT MAX(predicted_revenue) AS max_predicted_revenue\
+FROM Sales_Forecasts;\
+\
+\
+-- =========================================\
+-- 12. MIN()\
+-- =========================================\
+SELECT MIN(predicted_revenue) AS min_predicted_revenue\
+FROM Sales_Forecasts;\
+\
+\
+-- =========================================\
+-- 13. GROUP BY\
+-- =========================================\
+SELECT department_id, COUNT(*) AS total_submissions\
+FROM AI_Use_Submissions\
+GROUP BY department_id;\
+\
+\
+-- =========================================\
+-- 14. ORDER BY\
+-- 15. DESC\
+-- =========================================\
+SELECT *\
+FROM Sales_Forecasts\
+ORDER BY predicted_revenue DESC\
+LIMIT 10;\
+\
+\
+-- =========================================\
+-- 16. REPLACE\
+-- =========================================\
+SELECT tool_name,\
+       REPLACE(tool_name, 'AI', 'Artificial Intelligence') AS updated_tool_name\
+FROM AI_Tools;\
+\
+\
+-- =========================================\
+-- 17. REVERSE\
+-- =========================================\
+SELECT first_name,\
+       REVERSE(first_name) AS reversed_name\
+FROM Employees;\
+\
+\
+-- =========================================\
+-- 18. LENGTH\
+-- =========================================\
+SELECT first_name,\
+       LENGTH(first_name) AS name_length\
+FROM Employees;\
+\
+\
+-- =========================================\
+-- 19. LENGTH(TRIM())\
+-- =========================================\
+SELECT department_name,\
+       LENGTH(TRIM(department_name)) AS trimmed_length\
+FROM Departments;\
+\
+\
+-- =========================================\
+-- 20. CONCAT\
+-- =========================================\
+SELECT CONCAT(first_name, ' ', last_name) AS full_name\
+FROM Employees;\
+\
+\
+-- =========================================\
+-- 21. CONCAT_WS\
+-- =========================================\
+SELECT CONCAT_WS(' - ', first_name, last_name, job_title) AS employee_info\
+FROM Employees;\
+\
+\
+-- =========================================\
+-- 22. AS\
+-- used throughout, but shown directly here\
+-- =========================================\
+SELECT first_name AS employee_first_name,\
+       last_name AS employee_last_name\
+FROM Employees\
+LIMIT 10;\
+\
+\
+-- =========================================\
+-- 23. SUBSTR\
+-- =========================================\
+SELECT email,\
+       SUBSTR(email, 1, 5) AS email_start\
+FROM Employees;\
+\
+\
+-- =========================================\
+-- 24. LEFT\
+-- =========================================\
+SELECT first_name,\
+       LEFT(first_name, 3) AS first_three_letters\
+FROM Employees;\
+\
+\
+-- =========================================\
+-- 25. RIGHT\
+-- =========================================\
+SELECT first_name,\
+       RIGHT(first_name, 2) AS last_two_letters\
+FROM Employees;\
+\
+\
+-- =========================================\
+-- 26. POSITION\
+-- =========================================\
+SELECT email,\
+       POSITION('@' IN email) AS at_symbol_position\
+FROM Employees;\
+\
+\
+-- =========================================\
+-- 27. CROSS JOIN\
+-- =========================================\
+SELECT d.department_name, t.tool_name\
+FROM Departments d\
+CROSS JOIN AI_Tools t\
+LIMIT 20;\
+\
+\
+-- =========================================\
+-- 28. INNER JOIN\
+-- =========================================\
+SELECT e.first_name, e.last_name, d.department_name\
+FROM Employees e\
+INNER JOIN Departments d\
+ON e.department_id = d.department_id\
+LIMIT 20;\
+\
+\
+-- =========================================\
+-- 29. LEFT JOIN\
+-- =========================================\
+SELECT e.employee_id, e.first_name, a.use_case_title\
+FROM Employees e\
+LEFT JOIN AI_Use_Submissions a\
+ON e.employee_id = a.employee_id\
+LIMIT 20;\
+\
+\
+-- =========================================\
+-- 30. RIGHT JOIN\
+-- =========================================\
+SELECT e.first_name, d.department_name\
+FROM Employees e\
+RIGHT JOIN Departments d\
+ON e.department_id = d.department_id\
+LIMIT 20;\
+\
+\
+-- =========================================\
+-- 31. AND\
+-- 32. OR\
+-- =========================================\
+SELECT *\
+FROM Help_Desk_Tickets\
+WHERE priority_level = 'High' AND status = 'Open';\
+\
+SELECT *\
+FROM Help_Desk_Tickets\
+WHERE priority_level = 'High' OR priority_level = 'Critical';\
+\
+\
+-- =========================================\
+-- 33. VIEW\
+-- =========================================\
+CREATE OR REPLACE VIEW high_priority_ticket_view AS\
+SELECT ticket_id, employee_id, priority_level, status, issue_summary\
+FROM Help_Desk_Tickets\
+WHERE priority_level = 'High';\
+\
+SELECT * FROM high_priority_ticket_view LIMIT 20;\
+\
+\
+-- =========================================\
+-- 34. HAVING\
+-- =========================================\
+SELECT department_id, COUNT(*) AS total_tickets\
+FROM Help_Desk_Tickets\
+GROUP BY department_id\
+HAVING COUNT(*) > 100;\
+\
+\
+-- =========================================\
+-- 35. ROLLUP\
+-- =========================================\
+SELECT department_id, status, COUNT(*) AS total_submissions\
+FROM AI_Use_Submissions\
+GROUP BY ROLLUP(department_id, status);\
+\
+\
+-- =========================================\
+-- 36. COALESCE\
+-- =========================================\
+SELECT submission_id,\
+       COALESCE(description, 'No description provided') AS submission_description\
+FROM AI_Use_Submissions\
+LIMIT 20;\
+\
+\
+-- =========================================\
+-- 37. PROCEDURE\
+-- =========================================\
+CREATE OR REPLACE PROCEDURE update_ticket_status(p_ticket_id INT, p_new_status VARCHAR)\
+LANGUAGE plpgsql\
+AS $$\
+BEGIN\
+    UPDATE Help_Desk_Tickets\
+    SET status = p_new_status\
+    WHERE ticket_id = p_ticket_id;\
+END;\
+$$;\
+\
+-- Example call:\
+-- CALL update_ticket_status(1, 'Closed');\
+\
+\
+-- =========================================\
+-- 38. FUNCTIONS\
+-- =========================================\
+CREATE OR REPLACE FUNCTION get_total_high_priority_tickets()\
+RETURNS INT\
+LANGUAGE plpgsql\
+AS $$\
+BEGIN\
+    RETURN (\
+        SELECT COUNT(*)\
+        FROM Help_Desk_Tickets\
+        WHERE priority_level = 'High'\
+    );\
+END;\
+$$;\
+\
+SELECT get_total_high_priority_tickets();\
+\
+\
+-- =========================================\
+-- 39. OVER\
+-- =========================================\
+SELECT employee_id,\
+       department_id,\
+       COUNT(*) OVER (PARTITION BY department_id) AS employees_in_department\
+FROM Employees\
+LIMIT 20;\
+\
+\
+-- =========================================\
+-- 40. ROW_NUMBER()\
+-- =========================================\
+SELECT employee_id,\
+       department_id,\
+       ROW_NUMBER() OVER (PARTITION BY department_id ORDER BY hire_date) AS row_num\
+FROM Employees\
+LIMIT 20;\
+\
+\
+-- =========================================\
+-- 41. RANK()\
+-- =========================================\
+SELECT forecast_id,\
+       predicted_revenue,\
+       RANK() OVER (ORDER BY predicted_revenue DESC) AS revenue_rank\
+FROM Sales_Forecasts\
+LIMIT 20;\
+\
+\
+-- =========================================\
+-- 42. DENSE_RANK()\
+-- =========================================\
+SELECT forecast_id,\
+       predicted_revenue,\
+       DENSE_RANK() OVER (ORDER BY predicted_revenue DESC) AS dense_revenue_rank\
+FROM Sales_Forecasts\
+LIMIT 20;\
+\
+\
+-- =========================================\
+-- 43. LAG()\
+-- =========================================\
+SELECT forecast_id,\
+       predicted_revenue,\
+       LAG(predicted_revenue) OVER (ORDER BY forecast_id) AS previous_revenue\
+FROM Sales_Forecasts\
+LIMIT 20;\
+\
+\
+-- =========================================\
+-- 44. LEAD()\
+-- =========================================\
+SELECT forecast_id,\
+       predicted_revenue,\
+       LEAD(predicted_revenue) OVER (ORDER BY forecast_id) AS next_revenue\
+FROM Sales_Forecasts\
+LIMIT 20;\
+\
+\
+-- =========================================\
+-- 45. WITH ___ AS\
+-- =========================================\
+WITH dept_submission_counts AS (\
+    SELECT department_id, COUNT(*) AS total_submissions\
+    FROM AI_Use_Submissions\
+    GROUP BY department_id\
+)\
+SELECT *\
+FROM dept_submission_counts\
+ORDER BY total_submissions DESC;}
