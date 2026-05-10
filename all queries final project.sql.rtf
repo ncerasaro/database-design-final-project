@@ -1,0 +1,191 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww34000\viewh20820\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+CREATE TABLE Departments (\
+    department_id INT PRIMARY KEY,\
+    department_name VARCHAR(100) NOT NULL,\
+    department_head VARCHAR(100),\
+    budget_code VARCHAR(30)\
+);\
+\
+CREATE TABLE Employees (\
+    employee_id INT PRIMARY KEY,\
+    first_name VARCHAR(50) NOT NULL,\
+    last_name VARCHAR(50) NOT NULL,\
+    email VARCHAR(120) UNIQUE NOT NULL,\
+    job_title VARCHAR(100),\
+    department_id INT NOT NULL,\
+    hire_date DATE,\
+    FOREIGN KEY (department_id) REFERENCES Departments(department_id)\
+);\
+\
+CREATE TABLE AI_Tools (\
+    tool_id INT PRIMARY KEY,\
+    tool_name VARCHAR(100) NOT NULL,\
+    vendor_name VARCHAR(100),\
+    tool_type VARCHAR(50),\
+    monthly_cost DECIMAL(10,2),\
+    active_status VARCHAR(20)\
+);\
+\
+CREATE TABLE AI_Use_Submissions (\
+    submission_id INT PRIMARY KEY,\
+    employee_id INT NOT NULL,\
+    department_id INT NOT NULL,\
+    tool_id INT NOT NULL,\
+    submission_date DATE,\
+    use_case_title VARCHAR(150) NOT NULL,\
+    description TEXT,\
+    estimated_hours_saved_per_month INT,\
+    status VARCHAR(30),\
+    manager_rating INT,\
+    FOREIGN KEY (employee_id) REFERENCES Employees(employee_id),\
+    FOREIGN KEY (department_id) REFERENCES Departments(department_id),\
+    FOREIGN KEY (tool_id) REFERENCES AI_Tools(tool_id)\
+);\
+\
+CREATE TABLE Help_Desk_Tickets (\
+    ticket_id INT PRIMARY KEY,\
+    employee_id INT NOT NULL,\
+    department_id INT NOT NULL,\
+    ticket_date DATE,\
+    category VARCHAR(50),\
+    priority_level VARCHAR(20),\
+    status VARCHAR(30),\
+    issue_summary VARCHAR(150),\
+    resolution_time_hours DECIMAL(6,2),\
+    assigned_team VARCHAR(50),\
+    FOREIGN KEY (employee_id) REFERENCES Employees(employee_id),\
+    FOREIGN KEY (department_id) REFERENCES Departments(department_id)\
+);\
+\
+CREATE TABLE Ticket_Updates (\
+    update_id INT PRIMARY KEY,\
+    ticket_id INT NOT NULL,\
+    update_date DATE,\
+    updated_by VARCHAR(100),\
+    update_note TEXT,\
+    new_status VARCHAR(30),\
+    FOREIGN KEY (ticket_id) REFERENCES Help_Desk_Tickets(ticket_id)\
+);\
+\
+CREATE TABLE Sales_Forecasts (\
+    forecast_id INT PRIMARY KEY,\
+    department_id INT NOT NULL,\
+    created_by_employee_id INT NOT NULL,\
+    forecast_month DATE,\
+    product_category VARCHAR(100),\
+    predicted_sales_units INT,\
+    predicted_revenue DECIMAL(12,2),\
+    ai_model_used VARCHAR(100),\
+    confidence_level DECIMAL(5,2),\
+    FOREIGN KEY (department_id) REFERENCES Departments(department_id),\
+    FOREIGN KEY (created_by_employee_id) REFERENCES Employees(employee_id)\
+);\
+\
+CREATE TABLE Forecast_Results (\
+    result_id INT PRIMARY KEY,\
+    forecast_id INT NOT NULL,\
+    actual_sales_units INT,\
+    actual_revenue DECIMAL(12,2),\
+    variance_units INT,\
+    variance_revenue DECIMAL(12,2),\
+    review_status VARCHAR(30),\
+    FOREIGN KEY (forecast_id) REFERENCES Sales_Forecasts(forecast_id)\
+);\
+\
+\
+\
+SELECT \
+  (SELECT COUNT(*) FROM Departments) AS departments_count,\
+  (SELECT COUNT(*) FROM Employees) AS employees_count,\
+  (SELECT COUNT(*) FROM AI_Tools) AS ai_tools_count,\
+  (SELECT COUNT(*) FROM AI_Use_Submissions) AS ai_use_submissions_count,\
+  (SELECT COUNT(*) FROM Help_Desk_Tickets) AS help_desk_tickets_count,\
+  (SELECT COUNT(*) FROM Ticket_Updates) AS ticket_updates_count,\
+  (SELECT COUNT(*) FROM Sales_Forecasts) AS sales_forecasts_count,\
+  (SELECT COUNT(*) FROM Forecast_Results) AS forecast_results_count;\
+\
+  -- Preview sample data\
+SELECT * FROM Departments LIMIT 10;\
+SELECT * FROM Employees LIMIT 10;\
+SELECT * FROM AI_Tools LIMIT 10;\
+SELECT * FROM AI_Use_Submissions LIMIT 10;\
+SELECT * FROM Help_Desk_Tickets LIMIT 10;\
+SELECT * FROM Ticket_Updates LIMIT 10;\
+SELECT * FROM Sales_Forecasts LIMIT 10;\
+SELECT * FROM Forecast_Results LIMIT 10;\
+\
+-- Business Query 1: AI submissions by department\
+SELECT d.department_name, COUNT(a.submission_id) AS total_submissions\
+FROM Departments d\
+JOIN AI_Use_Submissions a\
+ON d.department_id = a.department_id\
+GROUP BY d.department_name\
+ORDER BY total_submissions DESC;\
+\
+-- Business Query 2: High priority help desk tickets\
+SELECT ticket_id, category, priority_level, status, issue_summary, assigned_team\
+FROM Help_Desk_Tickets\
+WHERE priority_level = 'High'\
+ORDER BY ticket_date DESC;\
+\
+-- Business Query 3: Most used AI tools\
+SELECT t.tool_name, COUNT(*) AS times_used\
+FROM AI_Use_Submissions a\
+JOIN AI_Tools t\
+ON a.tool_id = t.tool_id\
+GROUP BY t.tool_name\
+ORDER BY times_used DESC;\
+\
+-- Business Query 4: Forecasts vs actual results\
+SELECT s.forecast_id,\
+       s.product_category,\
+       s.predicted_sales_units,\
+       f.actual_sales_units,\
+       f.variance_units,\
+       s.predicted_revenue,\
+       f.actual_revenue,\
+       f.variance_revenue\
+FROM Sales_Forecasts s\
+JOIN Forecast_Results f\
+ON s.forecast_id = f.forecast_id\
+ORDER BY s.forecast_id\
+LIMIT 25;\
+\
+\
+-- New Queries--\
+CREATE OR REPLACE VIEW high_priority_ticket_view AS\
+SELECT ticket_id, employee_id, priority_level, status, issue_summary\
+FROM Help_Desk_Tickets\
+WHERE priority_level = 'High';\
+SELECT * FROM high_priority_ticket_view LIMIT 20;\
+\
+CREATE OR REPLACE FUNCTION get_total_high_priority_tickets()\
+RETURNS INT\
+LANGUAGE plpgsql\
+AS $$\
+BEGIN\
+    RETURN (\
+        SELECT COUNT(*)\
+        FROM Help_Desk_Tickets\
+        WHERE priority_level = 'High'\
+    );\
+END;\
+$$;\
+SELECT get_total_high_priority_tickets();\
+\
+CREATE OR REPLACE PROCEDURE update_ticket_status(p_ticket_id INT, p_new_status VARCHAR)\
+LANGUAGE plpgsql\
+AS $$\
+BEGIN\
+    UPDATE Help_Desk_Tickets\
+    SET status = p_new_status\
+    WHERE ticket_id = p_ticket_id;\
+END;\
+$$;}
